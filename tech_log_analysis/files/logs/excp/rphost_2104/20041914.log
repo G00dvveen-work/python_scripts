@@ -1,0 +1,94 @@
+﻿16:10.677003-0,PROC,1,process=rphost,OSThread=9836,Err=0,Txt=1C:Enterprise 8.3 (x86-64) (8.3.14.1694) Working Process started. Ctrl+C to exit.
+16:31.724014-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4824,t:clientID=7,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,Exception=8f8dade6-0d65-407c-8c6f-d8fda540435e,Descr='src\rserver\src\serverjobexecutor.cpp(1015):
+8f8dade6-0d65-407c-8c6f-d8fda540435e: Задание отменено пользователем '
+16:41.412014-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5524,t:clientID=8,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=1715,SessionID=804,Usr=Аксанова Танзиля Нуруллаевна,Exception=8f8dade6-0d65-407c-8c6f-d8fda540435e,Descr='src\rserver\src\serverjobexecutor.cpp(1015):
+8f8dade6-0d65-407c-8c6f-d8fda540435e: Задание отменено пользователем '
+17:04.193012-0,EXCP,1,process=rphost,OSThread=3916,Exception=acea3e6e-3687-4792-8319-09c009274c9a,Descr='src\rserver\src\rhostimpl.cpp(5997):
+acea3e6e-3687-4792-8319-09c009274c9a: Рабочий процесс не найден'
+17:04.958000-0,PROC,0,process=rphost,OSThread=3164,Txt='Process terminated.
+Stopped on error (working)'
+17:05.193000-0,PROC,0,process=rphost,OSThread=4400,Txt='Process terminated.
+Stopped on error (working)'
+17:05.193012-0,EXCP,2,process=rphost,OSThread=9836,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: OnFinishRpHost'
+17:05.193015-0,EXCP,1,process=rphost,OSThread=3916,Exception=acea3e6e-3687-4792-8319-09c009274c9a,Descr='src\rserver\src\rhostimpl.cpp(5997):
+acea3e6e-3687-4792-8319-09c009274c9a: Рабочий процесс не найден'
+17:05.193017-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193018-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(543):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193019-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193020-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193021-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193022-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193023-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193024-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193025-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193026-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193027-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193028-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193029-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.193030-0,EXCP,1,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396000-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396001-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(543):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396002-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396003-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396004-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396005-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396006-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396007-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396008-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396009-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396012-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396013-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(6261):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396014-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396015-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(732):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396016-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396017-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396018-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396023-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.396024-0,EXCP,0,process=rphost,OSThread=7152,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: onFinishConnection'
+17:05.396025-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.724000-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.724001-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(6261):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.724002-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.724003-0,EXCP,0,process=rphost,OSThread=7152,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+17:05.724004-0,EXCP,0,process=rphost,OSThread=7152,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: onFinishConnection'
+17:07.537001-0,PROC,1,process=rphost,OSThread=9836,Err=0,Txt=1C:Enterprise 8.3 (x86-64) (8.3.14.1694) Working Process finished.

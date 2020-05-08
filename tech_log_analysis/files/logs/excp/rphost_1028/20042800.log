@@ -1,0 +1,42 @@
+﻿25:44.237000-0,EXCP,0,process=rphost,OSThread=8072,ClientID=229,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.49:53158 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=2273 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+25:44.237001-0,EXCP,0,process=rphost,OSThread=8416,ClientID=231,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.49:53163 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+25:44.237002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+25:44.237003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+30:57.308004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6448,t:clientID=308,t:applicationName=1CV8C,t:computerName=DC2RDSH04,t:connectID=913,SessionID=665,Usr=Шакиржанов Ержан Рашидович,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(1090):
+afd2b550-0d52-4e03-b448-15ed68d87ac5: Дата оперативно проводимого документа больше текущей.
+Документ не может быть проведен оперативно!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+30:57.324014-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6448,t:clientID=308,t:applicationName=1CV8C,t:computerName=DC2RDSH04,t:connectID=913,SessionID=665,Usr=Шакиржанов Ержан Рашидович,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5: Дата оперативно проводимого документа больше текущей.
+Документ не может быть проведен оперативно!'
+31:15.355023-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6448,t:clientID=308,t:applicationName=1CV8C,t:computerName=DC2RDSH04,t:connectID=913,SessionID=665,Usr=Шакиржанов Ержан Рашидович,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002168 от 28.04.2020 0:31:11"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+31:15.386000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6448,t:clientID=308,t:applicationName=1CV8C,t:computerName=DC2RDSH04,t:connectID=913,SessionID=665,Usr=Шакиржанов Ержан Рашидович,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002168 от 28.04.2020 0:31:11"!'
+36:51.049017-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5052,t:clientID=308,t:applicationName=1CV8C,t:computerName=DC2RDSH04,t:connectID=913,SessionID=665,Usr=Шакиржанов Ержан Рашидович,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002243 от 28.04.2020 0:36:46"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+36:51.080000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5052,t:clientID=308,t:applicationName=1CV8C,t:computerName=DC2RDSH04,t:connectID=913,SessionID=665,Usr=Шакиржанов Ержан Рашидович,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002243 от 28.04.2020 0:36:46"!'
+42:26.948027-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8072,t:clientID=308,t:applicationName=1CV8C,t:computerName=DC2RDSH04,t:connectID=913,SessionID=665,Usr=Шакиржанов Ержан Рашидович,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002244 от 28.04.2020 0:42:24"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+42:26.979000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8072,t:clientID=308,t:applicationName=1CV8C,t:computerName=DC2RDSH04,t:connectID=913,SessionID=665,Usr=Шакиржанов Ержан Рашидович,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002244 от 28.04.2020 0:42:24"!'
+46:55.877016-0,EXCP,0,process=rphost,OSThread=3024,ClientID=312,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.214:64785 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+46:55.877017-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:24.975000-0,EXCP,0,process=rphost,OSThread=1960,ClientID=597,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.25:55273 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:24.975001-0,EXCP,0,process=rphost,OSThread=9488,ClientID=596,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.25:55268 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=2273 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:24.975002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:24.975003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=

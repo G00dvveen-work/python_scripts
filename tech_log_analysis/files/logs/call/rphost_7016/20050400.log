@@ -1,0 +1,19 @@
+﻿04:45.357034-15484004,CALL,1,process=rphost,t:clientID=59,Memory=11833,MemoryPeak=102159,InBytes=0,OutBytes=0
+04:45.357041-22094032,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=34,t:applicationName=1CV8C,t:computerName=DC3RDSH21,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=10245,MName=send,Memory=58072,MemoryPeak=659311,InBytes=0,OutBytes=0
+04:45.357045-23375036,CALL,2,process=rphost,p:processName=bi_usp_prod_01,t:clientID=25,t:applicationName=1CV8C,t:computerName=sartayevi,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=12025,MName=send,RetExcp='Сеанс работы завершен администратором.
+Соединение с сервером баз данных разорвано администратором
+Microsoft SQL Server Native Client 11.0: TCP Provider: The semaphore timeout period has expired.
+
+HRESULT=80004005, HRESULT=80004005, SQLSrvr: SQLSTATE=08S01, state=1, Severity=10, native=121, line=0
+',Memory=-36970,MemoryPeak=14021960,InBytes=5017698,OutBytes=5008478
+04:45.373021-15499980,CALL,1,process=rphost,t:clientID=61,Memory=8725,MemoryPeak=98623,InBytes=0,OutBytes=0
+04:45.373027-20641020,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=46,t:applicationName=1CV8C,t:computerName=DC3RDSH23,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=10846,MName=send,Memory=56076,MemoryPeak=659201,InBytes=0,OutBytes=0
+04:45.373033-15499996,CALL,1,process=rphost,t:clientID=60,Memory=12573,MemoryPeak=99665,InBytes=0,OutBytes=0
+04:52.654032-30141023,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=31,t:applicationName=1CV8C,t:computerName=DC3RDSH19,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=7879,MName=send,Memory=163474,MemoryPeak=553614,InBytes=0,OutBytes=0
+04:52.654035-30313015,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=30,t:applicationName=1CV8C,t:computerName=DC3RDSH19,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=6171,MName=send,Memory=22890,MemoryPeak=414115,InBytes=0,OutBytes=0
+04:52.654036-30531027,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=26,t:applicationName=1CV8C,t:computerName=DC3RDSH22,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=1670,MName=send,Memory=93202,MemoryPeak=484427,InBytes=0,OutBytes=0
+04:52.654033-30047033,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=29,t:applicationName=1CV8C,t:computerName=DC3RDSH22,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=25884,MName=send,Memory=93530,MemoryPeak=483645,InBytes=0,OutBytes=0
+04:52.654037-30313013,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=27,t:applicationName=1CV8C,t:computerName=DC3RDSH20,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=3762,MName=send,Memory=93202,MemoryPeak=484450,InBytes=0,OutBytes=0
+04:53.670024-30813024,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=33,t:applicationName=1CV8C,t:computerName=DC3RDSH23,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=36014,MName=send,Memory=22850,MemoryPeak=412952,InBytes=0,OutBytes=0
+04:53.670026-30157015,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=35,t:applicationName=1CV8C,t:computerName=DC3RDSH23,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=26319,MName=send,Memory=93018,MemoryPeak=484264,InBytes=0,OutBytes=0
+04:53.670030-30094030,CALL,1,process=rphost,p:processName=bi_usp_prod_01,t:clientID=41,t:applicationName=1CV8C,t:computerName=DC3RDSH21,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=5876,MName=send,Memory=93202,MemoryPeak=484451,InBytes=0,OutBytes=0

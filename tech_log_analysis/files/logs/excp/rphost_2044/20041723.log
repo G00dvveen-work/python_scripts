@@ -1,0 +1,107 @@
+﻿13:51.420000-0,EXCP,0,process=rphost,OSThread=7428,ClientID=554,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.6:56829 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:51.420001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+13:51.420004-0,EXCP,0,process=rphost,OSThread=7456,ClientID=557,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.6:56834 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:51.420005-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+20:05.158000-0,EXCP,0,process=rphost,OSThread=9736,ClientID=372,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.125:60648 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=2273 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+20:05.158001-0,EXCP,0,process=rphost,OSThread=7444,ClientID=373,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.125:60653 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+20:05.158002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+20:05.158003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:25.348006-0,PROC,2,process=rphost,OSThread=7432,Event=Switch of working process
+33:25.348015-0,PROC,2,process=rphost,OSThread=7432,Txt=Process become disable.
+33:36.644005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=1665,t:applicationName=1CV8C,t:computerName=DC2RDSH07,t:connectID=9943,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+33:36.644006-6,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=1665,t:applicationName=1CV8C,t:computerName=DC2RDSH07,t:connectID=9943,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=11069,MName=send,RetExcp=Требуется переустановка соединения,Memory=6060,MemoryPeak=26900,InBytes=0,OutBytes=0,CpuTime=0
+33:36.957001-0,EXCP,0,process=rphost,OSThread=7452,ClientID=1666,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.248:56029 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:36.957003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:47.629006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8808,t:clientID=632,t:applicationName=1CV8C,t:computerName=DC1RDSH02,t:connectID=1018,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+33:47.629007-6,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8808,t:clientID=632,t:applicationName=1CV8C,t:computerName=DC1RDSH02,t:connectID=1018,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=2441,MName=send,RetExcp=Требуется переустановка соединения,Memory=6054,MemoryPeak=26894,InBytes=0,OutBytes=0,CpuTime=0
+33:47.801000-0,EXCP,0,process=rphost,OSThread=7448,ClientID=633,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.125:61834 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:47.801001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:49.598003-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=750,t:applicationName=1CV8C,t:computerName=DC2RDSH07,t:connectID=2589,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+33:49.598004-4,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=750,t:applicationName=1CV8C,t:computerName=DC2RDSH07,t:connectID=2589,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=17854,MName=send,RetExcp=Требуется переустановка соединения,Memory=6056,MemoryPeak=26894,InBytes=0,OutBytes=0,CpuTime=0
+33:49.879000-0,EXCP,0,process=rphost,OSThread=7472,ClientID=751,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.248:62806 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:49.879001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:53.473005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+33:53.473006-6,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=35118,MName=send,RetExcp=Требуется переустановка соединения,Memory=6056,MemoryPeak=26894,InBytes=0,OutBytes=0,CpuTime=0
+33:53.785001-0,EXCP,0,process=rphost,OSThread=7440,ClientID=638,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.46:52607 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:53.785004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:03.125005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=413,t:applicationName=1CV8C,t:computerName=DC2RDSH17,t:connectID=756,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+34:03.125006-6,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=413,t:applicationName=1CV8C,t:computerName=DC2RDSH17,t:connectID=756,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=2391,MName=send,RetExcp=Требуется переустановка соединения,Memory=6052,MemoryPeak=26890,InBytes=0,OutBytes=0,CpuTime=0
+34:03.406000-0,EXCP,0,process=rphost,OSThread=7448,ClientID=414,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.206:60908 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:03.406001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:06.484005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=474,t:applicationName=1CV8C,t:computerName=DC1RDSH04,t:connectID=833,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+34:06.484006-6,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=474,t:applicationName=1CV8C,t:computerName=DC1RDSH04,t:connectID=833,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=25067,MName=send,RetExcp=Требуется переустановка соединения,Memory=6054,MemoryPeak=26890,InBytes=0,OutBytes=0,CpuTime=0
+34:06.797000-0,EXCP,0,process=rphost,OSThread=7428,ClientID=485,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.33:51775 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:06.797001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:09.781005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=449,t:applicationName=1CV8C,t:computerName=DC2RDSH17,t:connectID=808,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+34:09.781006-6,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=449,t:applicationName=1CV8C,t:computerName=DC2RDSH17,t:connectID=808,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=22761,MName=send,RetExcp=Требуется переустановка соединения,Memory=6054,MemoryPeak=26890,InBytes=0,OutBytes=0,CpuTime=0
+34:09.984001-0,EXCP,0,process=rphost,OSThread=7452,ClientID=451,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.206:61019 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:09.984003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:19.047006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=1344,t:applicationName=1CV8C,t:computerName=DC2RDSH12,t:connectID=9140,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+34:19.047007-6,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=1344,t:applicationName=1CV8C,t:computerName=DC2RDSH12,t:connectID=9140,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=20684,MName=send,RetExcp=Требуется переустановка соединения,Memory=6056,MemoryPeak=26896,InBytes=0,OutBytes=0,CpuTime=0
+34:19.406001-0,EXCP,0,process=rphost,OSThread=7448,ClientID=1345,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.203:53426 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:19.406004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:20.515009-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=709,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=1144,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+34:20.515010-4,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=709,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=1144,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=32079,MName=send,RetExcp=Требуется переустановка соединения,Memory=6054,MemoryPeak=26892,InBytes=0,OutBytes=0,CpuTime=0
+34:20.844002-0,EXCP,0,process=rphost,OSThread=7472,ClientID=710,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.64:58659 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:20.844004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:24.422006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(3226):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Требуется переустановка соединения'
+34:24.422007-6,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6528,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=34052,MName=send,RetExcp=Требуется переустановка соединения,Memory=6052,MemoryPeak=26888,InBytes=0,OutBytes=0,CpuTime=0
+34:24.812001-0,EXCP,0,process=rphost,OSThread=7448,ClientID=515,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.71:57820 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:24.812003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:25.812000-0,PROC,0,process=rphost,OSThread=7448,Txt='Process terminated.
+Stopped by console (working)'
+34:26.734000-0,PROC,0,process=rphost,OSThread=7480,Txt='Process terminated.
+Stopped by console (working)'
+34:30.344004-0,EXCP,2,process=rphost,OSThread=3716,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: OnFinishRpHost'
+34:30.359000-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.359001-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(543):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.359002-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.359003-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.359004-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.359005-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.359006-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.359007-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.359008-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562000-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562001-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(543):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562002-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562003-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562004-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562005-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562012-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562013-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(6261):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562014-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562015-0,EXCP,0,process=rphost,OSThread=7484,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+34:30.562016-0,EXCP,0,process=rphost,OSThread=7484,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: onFinishConnection'
+34:32.687001-0,PROC,1,process=rphost,OSThread=3716,Err=0,Txt=1C:Enterprise 8.3 (x86-64) (8.3.14.1694) Working Process finished.

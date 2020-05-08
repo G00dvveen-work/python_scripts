@@ -1,0 +1,860 @@
+﻿00:25.728005-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=151209bc-f5f1-4662-b6de-c30049e7c929,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9368,Administrator=Unknown,Result=Success
+00:26.165004-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=74880001-200c-41ad-9347-724635b7fb29,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9369,Administrator=Unknown,Result=Success
+00:26.681004-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=5915ad72-1ae3-44f2-9ace-05c34b9bbe04,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9370,Administrator=Unknown,Result=Success
+00:26.993000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2363,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9370,SessionID=63844,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=8eae0883-d8d2-4cec-b1bb-9dfd73dbca0c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:26.993002-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2363,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9370,SessionID=63844,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=8eae0883-d8d2-4cec-b1bb-9dfd73dbca0c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.196000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2363,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9370,SessionID=63844,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=8eae0883-d8d2-4cec-b1bb-9dfd73dbca0c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.196001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2363,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9370,SessionID=63844,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=8eae0883-d8d2-4cec-b1bb-9dfd73dbca0c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.196003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2363,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9370,SessionID=63844,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=8eae0883-d8d2-4cec-b1bb-9dfd73dbca0c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.196005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2363,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9370,SessionID=63844,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=8eae0883-d8d2-4cec-b1bb-9dfd73dbca0c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.243005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2361,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9368,SessionID=63842,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ea4f0bd0-0c4c-4739-b631-dc3b1f48ff6c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.243007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2361,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9368,SessionID=63842,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ea4f0bd0-0c4c-4739-b631-dc3b1f48ff6c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.306005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2362,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9369,SessionID=63843,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f3a9f11f-e923-429b-a1e1-a2a028ef6126, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.306007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2362,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9369,SessionID=63843,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f3a9f11f-e923-429b-a1e1-a2a028ef6126, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.399000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2363,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9370,SessionID=63844,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=8eae0883-d8d2-4cec-b1bb-9dfd73dbca0c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.446000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2361,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9368,SessionID=63842,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ea4f0bd0-0c4c-4739-b631-dc3b1f48ff6c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.446001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2361,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9368,SessionID=63842,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ea4f0bd0-0c4c-4739-b631-dc3b1f48ff6c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.446003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2361,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9368,SessionID=63842,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ea4f0bd0-0c4c-4739-b631-dc3b1f48ff6c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.446005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2361,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9368,SessionID=63842,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ea4f0bd0-0c4c-4739-b631-dc3b1f48ff6c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.478004-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=57f25572-97ce-46d8-b792-25a31139f30e,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9371,Administrator=Unknown,Result=Success
+00:27.493030-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2364,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9371,SessionID=63845,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f9f39659-62fa-46b6-9611-7ba80cd2ff26, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.493032-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2364,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9371,SessionID=63845,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f9f39659-62fa-46b6-9611-7ba80cd2ff26, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.509000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2362,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9369,SessionID=63843,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f3a9f11f-e923-429b-a1e1-a2a028ef6126, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.509001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2362,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9369,SessionID=63843,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f3a9f11f-e923-429b-a1e1-a2a028ef6126, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.509019-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2362,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9369,SessionID=63843,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f3a9f11f-e923-429b-a1e1-a2a028ef6126, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.509021-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2362,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9369,SessionID=63843,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f3a9f11f-e923-429b-a1e1-a2a028ef6126, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.649001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2361,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9368,SessionID=63842,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ea4f0bd0-0c4c-4739-b631-dc3b1f48ff6c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.649009-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2364,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9371,SessionID=63845,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f9f39659-62fa-46b6-9611-7ba80cd2ff26, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.649008-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2362,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9369,SessionID=63843,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f3a9f11f-e923-429b-a1e1-a2a028ef6126, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.649010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2364,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9371,SessionID=63845,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f9f39659-62fa-46b6-9611-7ba80cd2ff26, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.649028-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2364,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9371,SessionID=63845,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f9f39659-62fa-46b6-9611-7ba80cd2ff26, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.649030-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2364,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9371,SessionID=63845,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f9f39659-62fa-46b6-9611-7ba80cd2ff26, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:27.853000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2364,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9371,SessionID=63845,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f9f39659-62fa-46b6-9611-7ba80cd2ff26, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:27.915001-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=5c30e70c-a8e3-41b9-a4a1-e8cfe28d0cd2,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9372,Administrator=Unknown,Result=Success
+00:28.103002-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2365,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9372,SessionID=63846,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0cf9b627-8a61-4e38-972e-dcfc91101af0, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:28.103004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2365,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9372,SessionID=63846,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0cf9b627-8a61-4e38-972e-dcfc91101af0, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:28.306001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2365,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9372,SessionID=63846,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0cf9b627-8a61-4e38-972e-dcfc91101af0, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:28.306002-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2365,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9372,SessionID=63846,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0cf9b627-8a61-4e38-972e-dcfc91101af0, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:28.306004-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2365,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9372,SessionID=63846,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0cf9b627-8a61-4e38-972e-dcfc91101af0, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:28.306006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2365,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9372,SessionID=63846,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0cf9b627-8a61-4e38-972e-dcfc91101af0, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:28.321015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=0d7ccec9-749b-4ac2-8741-98f3bfcb6b55,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9373,Administrator=Unknown,Result=Success
+00:28.509000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2365,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9372,SessionID=63846,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0cf9b627-8a61-4e38-972e-dcfc91101af0, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:29.743008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2366,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9373,SessionID=63847,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=7ea4abe4-b350-40d6-bc4d-6d372628484f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:29.743010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2366,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9373,SessionID=63847,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=7ea4abe4-b350-40d6-bc4d-6d372628484f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:29.946000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2366,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9373,SessionID=63847,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=7ea4abe4-b350-40d6-bc4d-6d372628484f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:29.946001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2366,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9373,SessionID=63847,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=7ea4abe4-b350-40d6-bc4d-6d372628484f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:29.946003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2366,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9373,SessionID=63847,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=7ea4abe4-b350-40d6-bc4d-6d372628484f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:29.946005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2366,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9373,SessionID=63847,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=7ea4abe4-b350-40d6-bc4d-6d372628484f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:30.149000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2366,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9373,SessionID=63847,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=7ea4abe4-b350-40d6-bc4d-6d372628484f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+01:25.433015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=fb849c7d-18d1-4755-a6d1-3f26e8292d03,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9378,Administrator=Unknown,Result=Success
+01:25.948015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=02b2ffff-ea31-4741-8427-e322e9ba83bd,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9379,Administrator=Unknown,Result=Success
+01:26.745014-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2369,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9378,SessionID=63852,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ddf76d97-ec8e-4210-867a-7099aef9d0c8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:26.745016-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2369,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9378,SessionID=63852,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ddf76d97-ec8e-4210-867a-7099aef9d0c8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:26.839007-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2370,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9379,SessionID=63853,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=cf062107-b343-4d30-a2ef-c3f019e6f861, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:26.839009-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2370,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9379,SessionID=63853,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=cf062107-b343-4d30-a2ef-c3f019e6f861, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:26.948000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2369,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9378,SessionID=63852,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ddf76d97-ec8e-4210-867a-7099aef9d0c8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+01:26.948001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2369,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9378,SessionID=63852,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ddf76d97-ec8e-4210-867a-7099aef9d0c8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+01:26.948003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2369,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9378,SessionID=63852,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ddf76d97-ec8e-4210-867a-7099aef9d0c8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:26.948005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2369,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9378,SessionID=63852,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ddf76d97-ec8e-4210-867a-7099aef9d0c8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:27.042000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2370,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9379,SessionID=63853,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=cf062107-b343-4d30-a2ef-c3f019e6f861, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+01:27.042001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2370,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9379,SessionID=63853,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=cf062107-b343-4d30-a2ef-c3f019e6f861, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+01:27.042003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2370,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9379,SessionID=63853,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=cf062107-b343-4d30-a2ef-c3f019e6f861, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:27.042005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2370,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9379,SessionID=63853,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=cf062107-b343-4d30-a2ef-c3f019e6f861, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:27.151000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2369,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9378,SessionID=63852,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ddf76d97-ec8e-4210-867a-7099aef9d0c8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+01:27.245000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2370,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9379,SessionID=63853,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=cf062107-b343-4d30-a2ef-c3f019e6f861, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+01:27.323017-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=37799d44-243d-4ebf-8272-b14111583af6,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9381,Administrator=Unknown,Result=Success
+01:27.401027-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2372,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9381,SessionID=63855,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d1fc09ec-3ff4-40c4-b2a3-c708819f2d32, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:27.401029-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2372,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9381,SessionID=63855,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d1fc09ec-3ff4-40c4-b2a3-c708819f2d32, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:27.558006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2372,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9381,SessionID=63855,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d1fc09ec-3ff4-40c4-b2a3-c708819f2d32, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+01:27.558007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2372,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9381,SessionID=63855,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d1fc09ec-3ff4-40c4-b2a3-c708819f2d32, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+01:27.558016-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2372,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9381,SessionID=63855,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d1fc09ec-3ff4-40c4-b2a3-c708819f2d32, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:27.558018-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2372,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9381,SessionID=63855,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d1fc09ec-3ff4-40c4-b2a3-c708819f2d32, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:27.761000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2372,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9381,SessionID=63855,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d1fc09ec-3ff4-40c4-b2a3-c708819f2d32, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+02:24.676012-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=71b1032d-9537-4835-8ed3-9686c0df1d56,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9390,Administrator=Unknown,Result=Success
+02:26.239011-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2375,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9390,SessionID=63864,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=91afd795-c645-413b-93ca-fce853f7b50e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+02:26.239013-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2375,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9390,SessionID=63864,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=91afd795-c645-413b-93ca-fce853f7b50e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+02:26.410007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2375,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9390,SessionID=63864,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=91afd795-c645-413b-93ca-fce853f7b50e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+02:26.410008-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2375,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9390,SessionID=63864,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=91afd795-c645-413b-93ca-fce853f7b50e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+02:26.410010-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2375,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9390,SessionID=63864,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=91afd795-c645-413b-93ca-fce853f7b50e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+02:26.410012-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2375,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9390,SessionID=63864,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=91afd795-c645-413b-93ca-fce853f7b50e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+02:26.614000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2375,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9390,SessionID=63864,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=91afd795-c645-413b-93ca-fce853f7b50e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+03:28.592015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=818a3d30-b3df-43cd-a3f6-b2d602bdc394,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9396,Administrator=Unknown,Result=Success
+03:30.014015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=b6319865-beb1-4e12-8bc4-55b437c91eab,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9398,Administrator=Unknown,Result=Success
+03:30.123021-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2380,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9396,SessionID=63870,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=312fe41b-266a-4f4c-a2ee-8f458c2da9c6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+03:30.123025-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2380,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9396,SessionID=63870,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=312fe41b-266a-4f4c-a2ee-8f458c2da9c6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+03:30.326000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2380,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9396,SessionID=63870,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=312fe41b-266a-4f4c-a2ee-8f458c2da9c6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+03:30.326001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2380,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9396,SessionID=63870,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=312fe41b-266a-4f4c-a2ee-8f458c2da9c6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+03:30.326003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2380,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9396,SessionID=63870,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=312fe41b-266a-4f4c-a2ee-8f458c2da9c6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+03:30.326005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2380,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9396,SessionID=63870,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=312fe41b-266a-4f4c-a2ee-8f458c2da9c6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+03:30.358006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2380,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9396,SessionID=63870,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=312fe41b-266a-4f4c-a2ee-8f458c2da9c6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+03:30.358027-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8588,t:clientID=2382,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9398,SessionID=63872,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f2afc89c-af13-435f-97f0-043ff4488cec, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+03:30.358029-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8588,t:clientID=2382,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9398,SessionID=63872,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f2afc89c-af13-435f-97f0-043ff4488cec, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+03:30.561000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8588,t:clientID=2382,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9398,SessionID=63872,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f2afc89c-af13-435f-97f0-043ff4488cec, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+03:30.561001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8588,t:clientID=2382,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9398,SessionID=63872,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f2afc89c-af13-435f-97f0-043ff4488cec, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+03:30.561003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8588,t:clientID=2382,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9398,SessionID=63872,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f2afc89c-af13-435f-97f0-043ff4488cec, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+03:30.561005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8588,t:clientID=2382,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9398,SessionID=63872,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f2afc89c-af13-435f-97f0-043ff4488cec, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+03:30.764000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8588,t:clientID=2382,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9398,SessionID=63872,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f2afc89c-af13-435f-97f0-043ff4488cec, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+04:25.470015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=756face2-eb8e-4586-a815-16286a6bbbe4,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9414,Administrator=Unknown,Result=Success
+04:26.907019-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=499591bf-b95b-43d2-84f9-63bb65ce0336,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9417,Administrator=Unknown,Result=Success
+04:27.064030-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2392,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9414,SessionID=63888,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=44d6cafc-30af-4102-91db-0932edd5d790, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+04:27.064032-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2392,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9414,SessionID=63888,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=44d6cafc-30af-4102-91db-0932edd5d790, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+04:27.236006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2392,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9414,SessionID=63888,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=44d6cafc-30af-4102-91db-0932edd5d790, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+04:27.236007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2392,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9414,SessionID=63888,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=44d6cafc-30af-4102-91db-0932edd5d790, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+04:27.236009-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2392,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9414,SessionID=63888,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=44d6cafc-30af-4102-91db-0932edd5d790, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+04:27.236011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2392,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9414,SessionID=63888,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=44d6cafc-30af-4102-91db-0932edd5d790, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+04:27.439000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2392,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9414,SessionID=63888,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=44d6cafc-30af-4102-91db-0932edd5d790, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+04:28.392000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2394,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9417,SessionID=63892,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=c21c8c01-10b3-4709-9a54-f79d274699b7, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+04:28.392002-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2394,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9417,SessionID=63892,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=c21c8c01-10b3-4709-9a54-f79d274699b7, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+04:28.595000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2394,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9417,SessionID=63892,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=c21c8c01-10b3-4709-9a54-f79d274699b7, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+04:28.595001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2394,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9417,SessionID=63892,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=c21c8c01-10b3-4709-9a54-f79d274699b7, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+04:28.595003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2394,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9417,SessionID=63892,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=c21c8c01-10b3-4709-9a54-f79d274699b7, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+04:28.595005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2394,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9417,SessionID=63892,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=c21c8c01-10b3-4709-9a54-f79d274699b7, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+04:28.798000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2394,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9417,SessionID=63892,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=c21c8c01-10b3-4709-9a54-f79d274699b7, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+05:15.848015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=d3e849d6-8894-4c57-bf86-b5514ee1a389,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9424,Administrator=Unknown,Result=Success
+05:15.973023-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2397,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9424,SessionID=63898,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a0e0a207-8802-4227-8ed6-5e6c3b52e911, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+05:15.973025-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2397,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9424,SessionID=63898,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a0e0a207-8802-4227-8ed6-5e6c3b52e911, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+05:16.176000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2397,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9424,SessionID=63898,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a0e0a207-8802-4227-8ed6-5e6c3b52e911, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+05:16.176001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2397,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9424,SessionID=63898,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a0e0a207-8802-4227-8ed6-5e6c3b52e911, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+05:16.176003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2397,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9424,SessionID=63898,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a0e0a207-8802-4227-8ed6-5e6c3b52e911, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+05:16.176005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2397,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9424,SessionID=63898,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a0e0a207-8802-4227-8ed6-5e6c3b52e911, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+05:16.379000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2397,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9424,SessionID=63898,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a0e0a207-8802-4227-8ed6-5e6c3b52e911, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:23.201015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=d14399d8-34c1-4936-ab3b-ff9f4195f80c,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9431,Administrator=Unknown,Result=Success
+06:23.576008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2403,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9431,SessionID=63905,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a4fd59ed-a392-4031-8aee-2ac7a519f2ee, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:23.576010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2403,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9431,SessionID=63905,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a4fd59ed-a392-4031-8aee-2ac7a519f2ee, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:23.779000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2403,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9431,SessionID=63905,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a4fd59ed-a392-4031-8aee-2ac7a519f2ee, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:23.779001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2403,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9431,SessionID=63905,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a4fd59ed-a392-4031-8aee-2ac7a519f2ee, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:23.779007-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2403,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9431,SessionID=63905,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a4fd59ed-a392-4031-8aee-2ac7a519f2ee, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:23.779009-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2403,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9431,SessionID=63905,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a4fd59ed-a392-4031-8aee-2ac7a519f2ee, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:23.983005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2403,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9431,SessionID=63905,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a4fd59ed-a392-4031-8aee-2ac7a519f2ee, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:24.858002-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=b098cc55-8a78-42de-b50c-ac63728f2ab9,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9433,Administrator=Unknown,Result=Success
+06:25.295004-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=a91d053b-97a3-4426-b078-2ad4962876eb,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9434,Administrator=Unknown,Result=Success
+06:25.733005-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=55bb4df1-957c-4908-8267-6ad6cceb6a16,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9435,Administrator=Unknown,Result=Success
+06:25.858034-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2405,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9433,SessionID=63907,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=2c4f65f0-e9bd-4600-8990-e7e6ab97b3d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:25.858037-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2405,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9433,SessionID=63907,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=2c4f65f0-e9bd-4600-8990-e7e6ab97b3d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.014006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2405,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9433,SessionID=63907,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=2c4f65f0-e9bd-4600-8990-e7e6ab97b3d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:26.014007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2405,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9433,SessionID=63907,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=2c4f65f0-e9bd-4600-8990-e7e6ab97b3d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:26.014011-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2405,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9433,SessionID=63907,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=2c4f65f0-e9bd-4600-8990-e7e6ab97b3d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.014013-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2405,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9433,SessionID=63907,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=2c4f65f0-e9bd-4600-8990-e7e6ab97b3d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.217000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2405,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9433,SessionID=63907,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=2c4f65f0-e9bd-4600-8990-e7e6ab97b3d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:26.248029-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2406,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9434,SessionID=63908,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0a0af66f-2934-44bb-9dea-16cf48918e48, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.248033-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2406,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9434,SessionID=63908,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0a0af66f-2934-44bb-9dea-16cf48918e48, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.264001-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=8a4c2ff3-f7fc-4593-867d-22b74d117822,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9436,Administrator=Unknown,Result=Success
+06:26.436024-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2407,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9435,SessionID=63909,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0c372ebd-07b1-4f8a-9290-7b2f8fab0601, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.436026-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2407,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9435,SessionID=63909,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0c372ebd-07b1-4f8a-9290-7b2f8fab0601, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.451000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2406,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9434,SessionID=63908,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0a0af66f-2934-44bb-9dea-16cf48918e48, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:26.451004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2406,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9434,SessionID=63908,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0a0af66f-2934-44bb-9dea-16cf48918e48, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:26.451008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2406,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9434,SessionID=63908,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0a0af66f-2934-44bb-9dea-16cf48918e48, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.451010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2406,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9434,SessionID=63908,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0a0af66f-2934-44bb-9dea-16cf48918e48, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.639000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2407,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9435,SessionID=63909,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0c372ebd-07b1-4f8a-9290-7b2f8fab0601, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:26.639001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2407,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9435,SessionID=63909,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0c372ebd-07b1-4f8a-9290-7b2f8fab0601, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:26.639003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2407,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9435,SessionID=63909,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0c372ebd-07b1-4f8a-9290-7b2f8fab0601, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.639005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2407,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9435,SessionID=63909,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0c372ebd-07b1-4f8a-9290-7b2f8fab0601, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.654000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2406,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9434,SessionID=63908,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0a0af66f-2934-44bb-9dea-16cf48918e48, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:26.733015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=05e1e50b-2e97-45e3-8673-397e049c16fd,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9437,Administrator=Unknown,Result=Success
+06:26.842000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2407,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9435,SessionID=63909,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0c372ebd-07b1-4f8a-9290-7b2f8fab0601, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:26.904018-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2408,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9436,SessionID=63910,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d7d87ed0-f645-4e6f-b65f-9c362a3e22fe, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:26.904020-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2408,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9436,SessionID=63910,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d7d87ed0-f645-4e6f-b65f-9c362a3e22fe, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:27.029006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2408,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9436,SessionID=63910,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d7d87ed0-f645-4e6f-b65f-9c362a3e22fe, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:27.029007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2408,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9436,SessionID=63910,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d7d87ed0-f645-4e6f-b65f-9c362a3e22fe, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:27.029009-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2408,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9436,SessionID=63910,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d7d87ed0-f645-4e6f-b65f-9c362a3e22fe, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:27.029011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2408,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9436,SessionID=63910,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d7d87ed0-f645-4e6f-b65f-9c362a3e22fe, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:27.233000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2408,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9436,SessionID=63910,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d7d87ed0-f645-4e6f-b65f-9c362a3e22fe, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:27.467010-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2409,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9437,SessionID=63911,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=3d4db280-05d8-42dd-945f-25a51a1ba6e3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:27.467012-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2409,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9437,SessionID=63911,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=3d4db280-05d8-42dd-945f-25a51a1ba6e3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:27.670000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2409,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9437,SessionID=63911,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=3d4db280-05d8-42dd-945f-25a51a1ba6e3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:27.670001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2409,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9437,SessionID=63911,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=3d4db280-05d8-42dd-945f-25a51a1ba6e3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:27.670003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2409,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9437,SessionID=63911,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=3d4db280-05d8-42dd-945f-25a51a1ba6e3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:27.670005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2409,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9437,SessionID=63911,Usr=ОмаровЖА,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=3d4db280-05d8-42dd-945f-25a51a1ba6e3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:27.873000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2409,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9437,SessionID=63911,Usr=ОмаровЖА,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=3d4db280-05d8-42dd-945f-25a51a1ba6e3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:51.092012-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=c33d58eb-4e4e-4868-9859-67024c438418,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9439,Administrator=Unknown,Result=Success
+06:51.795007-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=d8ad9c7d-0333-4a16-a45a-b215fe96df19,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9440,Administrator=Unknown,Result=Success
+06:51.842009-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2412,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9440,SessionID=63914,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ebc26abe-7d5e-429b-a628-fa4b8345cd37, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:51.842011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2412,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9440,SessionID=63914,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ebc26abe-7d5e-429b-a628-fa4b8345cd37, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.045000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2412,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9440,SessionID=63914,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ebc26abe-7d5e-429b-a628-fa4b8345cd37, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:52.045001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2412,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9440,SessionID=63914,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ebc26abe-7d5e-429b-a628-fa4b8345cd37, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:52.045003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2412,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9440,SessionID=63914,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ebc26abe-7d5e-429b-a628-fa4b8345cd37, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.045005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2412,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9440,SessionID=63914,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ebc26abe-7d5e-429b-a628-fa4b8345cd37, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.248000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2412,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9440,SessionID=63914,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ebc26abe-7d5e-429b-a628-fa4b8345cd37, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:52.404013-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=df70d78f-7cf0-4eb5-a4db-0b3325229eb9,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9441,Administrator=Unknown,Result=Success
+06:52.436042-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2413,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9441,SessionID=63915,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=46e42d78-a867-4809-959f-be988bb73042, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.436044-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2413,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9441,SessionID=63915,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=46e42d78-a867-4809-959f-be988bb73042, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.623006-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2411,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9439,SessionID=63913,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=058abe9f-95e0-479f-bec2-1743d392c517, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.623008-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2411,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9439,SessionID=63913,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=058abe9f-95e0-479f-bec2-1743d392c517, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.639000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2413,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9441,SessionID=63915,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=46e42d78-a867-4809-959f-be988bb73042, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:52.639001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2413,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9441,SessionID=63915,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=46e42d78-a867-4809-959f-be988bb73042, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:52.639003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2413,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9441,SessionID=63915,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=46e42d78-a867-4809-959f-be988bb73042, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.639005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2413,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9441,SessionID=63915,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=46e42d78-a867-4809-959f-be988bb73042, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.826000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2411,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9439,SessionID=63913,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=058abe9f-95e0-479f-bec2-1743d392c517, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:52.826001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2411,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9439,SessionID=63913,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=058abe9f-95e0-479f-bec2-1743d392c517, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:52.826003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2411,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9439,SessionID=63913,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=058abe9f-95e0-479f-bec2-1743d392c517, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.826005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2411,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9439,SessionID=63913,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=058abe9f-95e0-479f-bec2-1743d392c517, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:52.842000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2413,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9441,SessionID=63915,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=46e42d78-a867-4809-959f-be988bb73042, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:52.842023-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=c1ea911c-9950-44f2-891f-da5ab7f46daa,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9442,Administrator=Unknown,Result=Success
+06:53.029001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2411,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9439,SessionID=63913,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=058abe9f-95e0-479f-bec2-1743d392c517, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:53.123008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2414,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9442,SessionID=63916,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a6d221d6-a2c6-4c50-abd7-6367b58cb62c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:53.123010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2414,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9442,SessionID=63916,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a6d221d6-a2c6-4c50-abd7-6367b58cb62c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:53.279007-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2342,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=ef9e3ac2-fb15-453d-b76b-4b2d906f3a63,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9443,Administrator=Unknown,Result=Success
+06:53.326000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2414,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9442,SessionID=63916,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a6d221d6-a2c6-4c50-abd7-6367b58cb62c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:53.326001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2414,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9442,SessionID=63916,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a6d221d6-a2c6-4c50-abd7-6367b58cb62c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:53.326012-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2414,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9442,SessionID=63916,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a6d221d6-a2c6-4c50-abd7-6367b58cb62c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:53.326014-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2414,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9442,SessionID=63916,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a6d221d6-a2c6-4c50-abd7-6367b58cb62c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:53.420006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2592,t:clientID=2414,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9442,SessionID=63916,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a6d221d6-a2c6-4c50-abd7-6367b58cb62c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:53.608000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2415,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9443,SessionID=63917,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1de3f649-7e00-4aa8-9720-1d6059db0171, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:53.608002-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2415,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9443,SessionID=63917,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1de3f649-7e00-4aa8-9720-1d6059db0171, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:53.811000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2415,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9443,SessionID=63917,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1de3f649-7e00-4aa8-9720-1d6059db0171, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:53.811001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2415,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9443,SessionID=63917,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1de3f649-7e00-4aa8-9720-1d6059db0171, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+06:53.811003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2415,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9443,SessionID=63917,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1de3f649-7e00-4aa8-9720-1d6059db0171, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:53.811005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2415,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9443,SessionID=63917,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1de3f649-7e00-4aa8-9720-1d6059db0171, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+06:54.014000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4588,t:clientID=2415,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9443,SessionID=63917,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1de3f649-7e00-4aa8-9720-1d6059db0171, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+11:59.136029-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=61a2aeae-8f92-4296-bf7b-ef8e6cdfc62b,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9470,Administrator=Unknown,Result=Success
+11:59.136037-0,EXCP,5,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,DBMS=DBMSSQL,DataBase=DC1BUHDB01\bi_bk3wk1_prod_01,Exception=95c658d1-d3d5-4ea9-8a81-1bf820fea4a8,Descr='src\rscalls\src\remotecalllistenerimpl.cpp(3793):
+95c658d1-d3d5-4ea9-8a81-1bf820fea4a8: Сеанс работы завершен администратором.',Context='
+МодульСеанса : 7 : СтандартныеПодсистемыСервер.УстановкаПараметровСеанса(ИменаПараметровСеанса);
+	ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 56 : ВыполнитьОбработчикиУстановкиПараметровСеанса(ИменаПараметровСеанса, Обработчики, УстановленныеПараметры);
+		ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 2760 : ОбщегоНазначения.ВыполнитьМетодКонфигурации(Обработчик, ПараметрыОбработчика);
+			ОбщийМодуль.ОбщегоНазначения.Модуль : 4795 : Выполнить ИмяМетода + "(" + ПараметрыСтрока + ")";
+				 : 1 : УправлениеДоступомСлужебный.УстановкаПараметровСеанса(Параметры[0],Параметры[1])
+					ОбщийМодуль.УправлениеДоступомСлужебный.Модуль : 1320 : ВозможныеПрава = УправлениеДоступомСлужебныйПовтИсп.ВозможныеПраваДляНастройкиПравОбъектов();
+						ОбщийМодуль.УправлениеДоступомСлужебныйПовтИсп.Модуль : 23 : Возврат РегистрыСведений.НастройкиПравОбъектов.ВозможныеПраваДляНастройкиПравОбъектов();
+							РегистрСведений.НастройкиПравОбъектов.МодульМенеджера : 614 : ВозможныеПрава = СтандартныеПодсистемыСервер.ПараметрРаботыПрограммы(
+								ОбщийМодуль.СтандартныеПодсистемыСервер.Модуль : 607 : Возврат РегистрыСведений.ПараметрыРаботыПрограммы.ПараметрРаботыПрограммы(ИмяПараметра);
+									РегистрСведений.ПараметрыРаботыПрограммы.МодульМенеджера : 64 : ОписаниеЗначения = ОписаниеЗначенияПараметраРаботыПрограммы(ИмяПараметра);
+										РегистрСведений.ПараметрыРаботыПрограммы.МодульМенеджера : 591 : ОписаниеЗначения = ХранимыеДанныеПараметраРаботыПрограммы(ИмяПараметра);
+											РегистрСведений.ПараметрыРаботыПрограммы.МодульМенеджера : 637 : КонецФункции'
+11:59.136038-0,QERR,5,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,DBMS=DBMSSQL,DataBase=DC1BUHDB01\bi_bk3wk1_prod_01,Descr=Сеанс работы завершен администратором.,Query='#ПоЗначениям("Документ.ПоступлениеТоваровУслуг", "", "",
+"Организации", "Организация",
+"","",
+"","",
+"","",
+"","","","","","","","",
+"","","","","","","","",
+"","","","","","","",""
+)'
+11:59.136039-0,EXCP,5,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,DBMS=DBMSSQL,DataBase=DC1BUHDB01\bi_bk3wk1_prod_01,Exception=DataBaseException,Descr="Ошибка в ограничении доступа к данным.
+объект: 'Документ.ПоступлениеТоваровУслуг', поле: 'Номер'; право: 'Чтение'
+Сеанс работы завершен администратором."
+11:59.136043-0,QERR,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,Descr="Ошибка в ограничении доступа к данным.
+объект: 'Документ.ПоступлениеТоваровУслуг', поле: 'Номер'; право: 'Чтение'
+Сеанс работы завершен администратором.",Query='ВЫБРАТЬ РАЗРЕШЕННЫЕ
+	ДокументПоступлениеТоваровУслуг.Ссылка КАК Ссылка,
+	ДокументПоступлениеТоваровУслуг.Дата КАК Дата
+ИЗ
+	Документ.ПоступлениеТоваровУслуг КАК ДокументПоступлениеТоваровУслуг
+		ЛЕВОЕ СОЕДИНЕНИЕ РегистрСведений.НаличиеФайлов КАК НаличиеФайлов
+		ПО ДокументПоступлениеТоваровУслуг.Ссылка = НаличиеФайлов.ОбъектСФайлами
+ГДЕ
+	ДокументПоступлениеТоваровУслуг.Организация = &П
+	И (ДокументПоступлениеТоваровУслуг.Автор.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПоступлениеТоваровУслуг.ВалютаДокумента.Наименование = &П3
+			ИЛИ ДокументПоступлениеТоваровУслуг.ВидВходящегоДокумента ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПоступлениеТоваровУслуг.ВидОперации В (&П4)
+			ИЛИ ДокументПоступлениеТоваровУслуг.ДоговорКонтрагента.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПоступлениеТоваровУслуг.Комментарий ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПоступлениеТоваровУслуг.Контрагент.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПоступлениеТоваровУслуг.Номер ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПоступлениеТоваровУслуг.НомерВходящегоДокумента ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПоступлениеТоваровУслуг.Организация.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПоступлениеТоваровУслуг.Склад.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПоступлениеТоваровУслуг.СтруктурноеПодразделение.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/")
+	И ДокументПоступлениеТоваровУслуг.Ссылка В (&П5)'
+11:59.136045-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,Exception=eece8795-ccc9-4865-8779-0482cfe4a31e,Descr="src\rserver\src\serverjobexecutor.cpp(1024):
+eece8795-ccc9-4865-8779-0482cfe4a31e: Ошибка при выполнении запроса.
+bb4657f6-80d1-4ce6-acfe-69860ef1c3f4: Ошибка получения данных
+e01bc916-56a4-4302-b726-792a2f76e608: Ошибка создания набора данных ""НаборДанныхДинамическогоСписка""
+c238ea87-cc00-4e32-8cc8-f3b182a09711: Ошибка при исполнении запроса набора данных
+ae209c88-6b01-464c-adc9-0b72e240492f: Ошибка выполнения запроса
+dc31263e-ecbf-41bd-9b3a-7b55897d5fd6: Ошибка в ограничении доступа к данным.
+объект: 'Документ.ПоступлениеТоваровУслуг', поле: 'Номер'; право: 'Чтение'
+Сеанс работы завершен администратором.
+95c658d1-d3d5-4ea9-8a81-1bf820fea4a8: Сеанс работы завершен администратором."
+11:59.151005-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=be6d861e-f9ad-42bb-afc9-98ad73be84b9, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+11:59.151008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=be6d861e-f9ad-42bb-afc9-98ad73be84b9, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+11:59.370000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=be6d861e-f9ad-42bb-afc9-98ad73be84b9, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+11:59.370001-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=be6d861e-f9ad-42bb-afc9-98ad73be84b9, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+11:59.370004-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=be6d861e-f9ad-42bb-afc9-98ad73be84b9, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+11:59.370006-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=be6d861e-f9ad-42bb-afc9-98ad73be84b9, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+11:59.573000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2423,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9470,SessionID=63943,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=be6d861e-f9ad-42bb-afc9-98ad73be84b9, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:00.355016-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=5df29052-5d5d-41f3-8ff5-cad696649f28,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9472,Administrator=Unknown,Result=Success
+12:00.511004-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2426,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9472,SessionID=63945,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=52e572bc-01db-42ce-8e81-c9a840863440, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:00.511006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2426,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9472,SessionID=63945,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=52e572bc-01db-42ce-8e81-c9a840863440, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:00.714000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2426,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9472,SessionID=63945,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=52e572bc-01db-42ce-8e81-c9a840863440, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:00.714001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2426,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9472,SessionID=63945,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=52e572bc-01db-42ce-8e81-c9a840863440, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:00.714003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2426,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9472,SessionID=63945,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=52e572bc-01db-42ce-8e81-c9a840863440, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:00.714005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2426,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9472,SessionID=63945,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=52e572bc-01db-42ce-8e81-c9a840863440, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:00.792017-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=8641dfad-e882-45a0-94aa-4d642c3c9f16,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9473,Administrator=Unknown,Result=Success
+12:00.917000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2426,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9472,SessionID=63945,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=52e572bc-01db-42ce-8e81-c9a840863440, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:01.417015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=9b2e2c3a-bb14-4227-ab3a-3bc5d8037a93,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9474,Administrator=Unknown,Result=Success
+12:01.464035-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2427,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9473,SessionID=63946,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0acd96aa-c95a-4cf9-9702-6f37f4676ac2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:01.464037-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2427,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9473,SessionID=63946,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0acd96aa-c95a-4cf9-9702-6f37f4676ac2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:01.667000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2427,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9473,SessionID=63946,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0acd96aa-c95a-4cf9-9702-6f37f4676ac2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:01.667001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2427,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9473,SessionID=63946,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0acd96aa-c95a-4cf9-9702-6f37f4676ac2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:01.667008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2427,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9473,SessionID=63946,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0acd96aa-c95a-4cf9-9702-6f37f4676ac2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:01.667010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2427,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9473,SessionID=63946,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0acd96aa-c95a-4cf9-9702-6f37f4676ac2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:01.870001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4808,t:clientID=2427,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9473,SessionID=63946,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0acd96aa-c95a-4cf9-9702-6f37f4676ac2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:01.948004-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2428,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9474,SessionID=63947,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1beca4b9-7529-4db1-884d-1fd26b718fa4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:01.948006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2428,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9474,SessionID=63947,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1beca4b9-7529-4db1-884d-1fd26b718fa4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:02.136006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2428,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9474,SessionID=63947,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1beca4b9-7529-4db1-884d-1fd26b718fa4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:02.136007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2428,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9474,SessionID=63947,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1beca4b9-7529-4db1-884d-1fd26b718fa4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:02.136009-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2428,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9474,SessionID=63947,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1beca4b9-7529-4db1-884d-1fd26b718fa4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:02.136011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2428,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9474,SessionID=63947,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1beca4b9-7529-4db1-884d-1fd26b718fa4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:02.339000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2428,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9474,SessionID=63947,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1beca4b9-7529-4db1-884d-1fd26b718fa4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:19.136000-0,EXCP,0,process=rphost,OSThread=648,ClientID=423,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.50:59982 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=2273 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+12:19.136001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+12:19.136005-0,EXCP,0,process=rphost,OSThread=7828,ClientID=431,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.50:59994 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+12:19.136006-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+12:33.792015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=ec0ed7c9-7078-4cfe-a2e4-49788d8f7f5d,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9477,Administrator=Unknown,Result=Success
+12:35.386010-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2430,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9477,SessionID=63950,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=4517e254-d085-4185-993d-0b34a95aeb68, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:35.386012-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2430,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9477,SessionID=63950,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=4517e254-d085-4185-993d-0b34a95aeb68, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:35.589000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2430,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9477,SessionID=63950,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=4517e254-d085-4185-993d-0b34a95aeb68, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:35.589001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2430,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9477,SessionID=63950,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=4517e254-d085-4185-993d-0b34a95aeb68, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+12:35.589003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2430,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9477,SessionID=63950,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=4517e254-d085-4185-993d-0b34a95aeb68, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:35.589005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2430,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9477,SessionID=63950,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=4517e254-d085-4185-993d-0b34a95aeb68, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+12:35.651007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2430,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9477,SessionID=63950,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=4517e254-d085-4185-993d-0b34a95aeb68, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:04.247015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=d1336512-47b0-45d1-b53e-4fb94a0e8309,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9482,Administrator=Unknown,Result=Success
+13:05.763013-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8236,t:clientID=2432,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9482,SessionID=63955,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=775bac44-4703-45f6-98bc-621296dd4c17, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:05.763015-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8236,t:clientID=2432,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9482,SessionID=63955,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=775bac44-4703-45f6-98bc-621296dd4c17, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:05.966000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8236,t:clientID=2432,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9482,SessionID=63955,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=775bac44-4703-45f6-98bc-621296dd4c17, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:05.966001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8236,t:clientID=2432,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9482,SessionID=63955,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=775bac44-4703-45f6-98bc-621296dd4c17, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:05.966003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8236,t:clientID=2432,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9482,SessionID=63955,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=775bac44-4703-45f6-98bc-621296dd4c17, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:05.966005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8236,t:clientID=2432,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9482,SessionID=63955,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=775bac44-4703-45f6-98bc-621296dd4c17, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:06.122006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8236,t:clientID=2432,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9482,SessionID=63955,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=775bac44-4703-45f6-98bc-621296dd4c17, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:24.185015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=b0afe57c-91d1-4d55-9890-449f538911f4,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9484,Administrator=Unknown,Result=Success
+13:25.732008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2434,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9484,SessionID=63957,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d75d7a07-9fc6-4ffc-9662-86df49bc1cda, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:25.732010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2434,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9484,SessionID=63957,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d75d7a07-9fc6-4ffc-9662-86df49bc1cda, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:25.935000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2434,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9484,SessionID=63957,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d75d7a07-9fc6-4ffc-9662-86df49bc1cda, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:25.935001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2434,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9484,SessionID=63957,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d75d7a07-9fc6-4ffc-9662-86df49bc1cda, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:25.935003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2434,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9484,SessionID=63957,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d75d7a07-9fc6-4ffc-9662-86df49bc1cda, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:25.935005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2434,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9484,SessionID=63957,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d75d7a07-9fc6-4ffc-9662-86df49bc1cda, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:26.138000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9240,t:clientID=2434,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9484,SessionID=63957,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d75d7a07-9fc6-4ffc-9662-86df49bc1cda, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:47.935015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=835bd456-4066-43c9-893c-aa56286dac35,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9487,Administrator=Unknown,Result=Success
+13:48.372038-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=64981100-96a1-4be6-a4c7-acb11c38223d,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9488,Administrator=Unknown,Result=Success
+13:49.091015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=90bf74a6-dd3f-465a-a971-a1701dbdb8b4,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9490,Administrator=Unknown,Result=Success
+13:49.325013-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2438,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9487,SessionID=63960,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=727c3070-e21f-4ef7-9b4f-fd7fd793c3ed, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:49.325015-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2438,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9487,SessionID=63960,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=727c3070-e21f-4ef7-9b4f-fd7fd793c3ed, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:49.528000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2438,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9487,SessionID=63960,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=727c3070-e21f-4ef7-9b4f-fd7fd793c3ed, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:49.528001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2438,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9487,SessionID=63960,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=727c3070-e21f-4ef7-9b4f-fd7fd793c3ed, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:49.528006-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2438,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9487,SessionID=63960,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=727c3070-e21f-4ef7-9b4f-fd7fd793c3ed, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:49.528008-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2438,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9487,SessionID=63960,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=727c3070-e21f-4ef7-9b4f-fd7fd793c3ed, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:49.732000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=576,t:clientID=2438,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9487,SessionID=63960,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=727c3070-e21f-4ef7-9b4f-fd7fd793c3ed, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:49.919006-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2439,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9488,SessionID=63961,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=09ff66d0-b5df-447b-99a6-b593f4b0624f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:49.919008-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2439,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9488,SessionID=63961,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=09ff66d0-b5df-447b-99a6-b593f4b0624f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:50.122000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2439,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9488,SessionID=63961,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=09ff66d0-b5df-447b-99a6-b593f4b0624f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:50.122001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2439,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9488,SessionID=63961,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=09ff66d0-b5df-447b-99a6-b593f4b0624f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:50.122003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2439,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9488,SessionID=63961,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=09ff66d0-b5df-447b-99a6-b593f4b0624f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:50.122005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2439,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9488,SessionID=63961,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=09ff66d0-b5df-447b-99a6-b593f4b0624f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:50.325000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4424,t:clientID=2439,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9488,SessionID=63961,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=09ff66d0-b5df-447b-99a6-b593f4b0624f, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:50.325001-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2441,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9490,SessionID=63963,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=8217cf89-d8b8-4428-b525-f3cd4e709d4b, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:50.325003-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2441,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9490,SessionID=63963,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=8217cf89-d8b8-4428-b525-f3cd4e709d4b, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:50.528000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2441,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9490,SessionID=63963,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=8217cf89-d8b8-4428-b525-f3cd4e709d4b, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:50.528001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2441,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9490,SessionID=63963,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=8217cf89-d8b8-4428-b525-f3cd4e709d4b, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+13:50.528003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2441,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9490,SessionID=63963,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=8217cf89-d8b8-4428-b525-f3cd4e709d4b, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:50.528005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2441,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9490,SessionID=63963,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=8217cf89-d8b8-4428-b525-f3cd4e709d4b, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+13:50.732000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2441,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9490,SessionID=63963,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=8217cf89-d8b8-4428-b525-f3cd4e709d4b, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:08.672017-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=ca673dac-c14f-422b-81ca-2df45f54cc4f,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9492,Administrator=Unknown,Result=Success
+14:10.063008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2443,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9492,SessionID=63965,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0dca2f58-f425-40b8-a66a-dd2235ee5c72, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:10.063010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2443,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9492,SessionID=63965,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0dca2f58-f425-40b8-a66a-dd2235ee5c72, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:10.110006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2443,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9492,SessionID=63965,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0dca2f58-f425-40b8-a66a-dd2235ee5c72, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:10.110007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2443,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9492,SessionID=63965,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0dca2f58-f425-40b8-a66a-dd2235ee5c72, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:10.110009-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2443,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9492,SessionID=63965,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0dca2f58-f425-40b8-a66a-dd2235ee5c72, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:10.110011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2443,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9492,SessionID=63965,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0dca2f58-f425-40b8-a66a-dd2235ee5c72, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:10.313000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2443,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9492,SessionID=63965,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0dca2f58-f425-40b8-a66a-dd2235ee5c72, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:11.250016-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=b8dd7586-93d3-4d8a-97ae-1bc76fd0d3c1,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9494,Administrator=Unknown,Result=Success
+14:11.813005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2445,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9494,SessionID=63967,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=af636f60-21b3-4523-a8a4-3d7e40bf3ef6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:11.813007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2445,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9494,SessionID=63967,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=af636f60-21b3-4523-a8a4-3d7e40bf3ef6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:12.016000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2445,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9494,SessionID=63967,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=af636f60-21b3-4523-a8a4-3d7e40bf3ef6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:12.016001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2445,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9494,SessionID=63967,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=af636f60-21b3-4523-a8a4-3d7e40bf3ef6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:12.016003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2445,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9494,SessionID=63967,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=af636f60-21b3-4523-a8a4-3d7e40bf3ef6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:12.016005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2445,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9494,SessionID=63967,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=af636f60-21b3-4523-a8a4-3d7e40bf3ef6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:12.047015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=20aee1fb-b4dc-47c8-bd89-1303574c27f3,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9495,Administrator=Unknown,Result=Success
+14:12.141006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2445,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9494,SessionID=63967,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=af636f60-21b3-4523-a8a4-3d7e40bf3ef6, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:13.141008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2446,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9495,SessionID=63968,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=e74f0a07-7db2-4f0d-8736-836bb170b6a3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:13.141010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2446,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9495,SessionID=63968,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=e74f0a07-7db2-4f0d-8736-836bb170b6a3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:13.156006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2446,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9495,SessionID=63968,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=e74f0a07-7db2-4f0d-8736-836bb170b6a3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:13.156007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2446,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9495,SessionID=63968,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=e74f0a07-7db2-4f0d-8736-836bb170b6a3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:13.156009-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2446,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9495,SessionID=63968,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=e74f0a07-7db2-4f0d-8736-836bb170b6a3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:13.156011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2446,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9495,SessionID=63968,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=e74f0a07-7db2-4f0d-8736-836bb170b6a3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:13.360000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2446,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9495,SessionID=63968,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=e74f0a07-7db2-4f0d-8736-836bb170b6a3, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:29.610015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=b2294b71-05d8-4756-8b59-41b75b242b8c,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9497,Administrator=Unknown,Result=Success
+14:31.156004-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2448,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9497,SessionID=63970,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=93aa9252-d7b2-45e2-adc7-6298fd9a5179, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:31.156006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2448,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9497,SessionID=63970,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=93aa9252-d7b2-45e2-adc7-6298fd9a5179, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:31.360000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2448,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9497,SessionID=63970,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=93aa9252-d7b2-45e2-adc7-6298fd9a5179, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:31.360001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2448,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9497,SessionID=63970,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=93aa9252-d7b2-45e2-adc7-6298fd9a5179, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:31.360003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2448,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9497,SessionID=63970,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=93aa9252-d7b2-45e2-adc7-6298fd9a5179, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:31.360005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2448,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9497,SessionID=63970,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=93aa9252-d7b2-45e2-adc7-6298fd9a5179, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:31.422006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2448,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9497,SessionID=63970,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=93aa9252-d7b2-45e2-adc7-6298fd9a5179, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:31.469017-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=6b6ef019-ba98-4ee1-bbc1-e5e35f961dcb,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9499,Administrator=Unknown,Result=Success
+14:32.203000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2450,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9499,SessionID=63972,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d0ca2c0d-5e7b-4fb3-9191-a946dc6a9228, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:32.203002-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2450,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9499,SessionID=63972,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d0ca2c0d-5e7b-4fb3-9191-a946dc6a9228, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:32.406000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2450,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9499,SessionID=63972,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d0ca2c0d-5e7b-4fb3-9191-a946dc6a9228, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:32.406001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2450,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9499,SessionID=63972,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d0ca2c0d-5e7b-4fb3-9191-a946dc6a9228, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:32.406003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2450,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9499,SessionID=63972,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d0ca2c0d-5e7b-4fb3-9191-a946dc6a9228, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:32.406005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2450,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9499,SessionID=63972,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d0ca2c0d-5e7b-4fb3-9191-a946dc6a9228, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:32.438006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2450,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9499,SessionID=63972,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d0ca2c0d-5e7b-4fb3-9191-a946dc6a9228, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:54.672015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=ca3b8c4f-d4bb-4d95-bdac-ce85af397ab6,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9501,Administrator=Unknown,Result=Success
+14:56.250005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2452,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9501,SessionID=63974,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=06d30e99-c742-4d0e-9fef-d729433756f1, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:56.250007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2452,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9501,SessionID=63974,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=06d30e99-c742-4d0e-9fef-d729433756f1, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:56.453000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2452,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9501,SessionID=63974,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=06d30e99-c742-4d0e-9fef-d729433756f1, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:56.453001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2452,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9501,SessionID=63974,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=06d30e99-c742-4d0e-9fef-d729433756f1, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:56.453003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2452,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9501,SessionID=63974,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=06d30e99-c742-4d0e-9fef-d729433756f1, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:56.453005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2452,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9501,SessionID=63974,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=06d30e99-c742-4d0e-9fef-d729433756f1, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:56.656000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9280,t:clientID=2452,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9501,SessionID=63974,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=06d30e99-c742-4d0e-9fef-d729433756f1, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:56.766015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=6028,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=aa6ad59c-2b20-4abe-a397-842423f2a758,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9503,Administrator=Unknown,Result=Success
+14:58.269002-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2454,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9503,SessionID=63976,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=863ecca0-456d-456b-a4e2-a43f74356730, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:58.269004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2454,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9503,SessionID=63976,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=863ecca0-456d-456b-a4e2-a43f74356730, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:58.472000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2454,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9503,SessionID=63976,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=863ecca0-456d-456b-a4e2-a43f74356730, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:58.472001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2454,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9503,SessionID=63976,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=863ecca0-456d-456b-a4e2-a43f74356730, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:58.472003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2454,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9503,SessionID=63976,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=863ecca0-456d-456b-a4e2-a43f74356730, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:58.472005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2454,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9503,SessionID=63976,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=863ecca0-456d-456b-a4e2-a43f74356730, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+14:58.675000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4832,t:clientID=2454,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9503,SessionID=63976,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=863ecca0-456d-456b-a4e2-a43f74356730, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+15:13.081015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=676,t:clientID=2422,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=4cf45d1c-8aa7-4113-a497-15ecead84aec,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9505,Administrator=Unknown,Result=Success
+15:14.628005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2456,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9505,SessionID=63978,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=eca9c6ce-a8ae-42fd-9e8c-db5b759ccaeb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+15:14.628007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2456,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9505,SessionID=63978,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=eca9c6ce-a8ae-42fd-9e8c-db5b759ccaeb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+15:14.831000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2456,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9505,SessionID=63978,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=eca9c6ce-a8ae-42fd-9e8c-db5b759ccaeb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+15:14.831001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2456,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9505,SessionID=63978,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=eca9c6ce-a8ae-42fd-9e8c-db5b759ccaeb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+15:14.831003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2456,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9505,SessionID=63978,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=eca9c6ce-a8ae-42fd-9e8c-db5b759ccaeb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+15:14.831005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2456,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9505,SessionID=63978,Usr=Кутлюб Динара Рахимовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=eca9c6ce-a8ae-42fd-9e8c-db5b759ccaeb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+15:15.034000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=648,t:clientID=2456,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9505,SessionID=63978,Usr=Кутлюб Динара Рахимовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=eca9c6ce-a8ae-42fd-9e8c-db5b759ccaeb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+50:26.218000-0,EXCP,0,process=rphost,OSThread=3200,ClientID=1383,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.71:65429 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+50:26.218001-0,EXCP,0,process=rphost,OSThread=8408,ClientID=1382,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.71:65424 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+50:26.218002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+50:26.218003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=

@@ -1,0 +1,66 @@
+﻿03:24.536019-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2400,t:clientID=665,t:applicationName=1CV8C,t:computerName=DC2RDSH29,t:connectID=1050,SessionID=54100,Usr=Совцова Балжан Есимовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести: "Платежное поручение (исходящее)"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+03:24.598000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2400,t:clientID=665,t:applicationName=1CV8C,t:computerName=DC2RDSH29,t:connectID=1050,SessionID=54100,Usr=Совцова Балжан Есимовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести: "Платежное поручение (исходящее)"!'
+25:40.826002-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4688,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,SessionID=53843,Usr=КалиеваАБ,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести: "Платежное поручение (исходящее)"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+25:40.873000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4688,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,SessionID=53843,Usr=КалиеваАБ,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести: "Платежное поручение (исходящее)"!'
+49:33.149011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2920,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002053 от 17.04.2020 13:49:31"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+49:33.165014-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=2920,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002053 от 17.04.2020 13:49:31"!'
+52:16.314013-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5660,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002054 от 17.04.2020 13:52:14"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+52:16.345000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5660,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002054 от 17.04.2020 13:52:14"!'
+52:24.595014-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5660,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,SessionID=53843,Usr=КалиеваАБ,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\mngbase\src\rtsimplylogformsrvimpl.cpp(199):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+e0506925-b3e4-4dfb-b2fd-309eb7908ae3: Ошибка блокировки объекта. Объект уже заблокирован:
+компьютер: DC2RDSH26, пользователь: Кулгалиева Динара Багиткалиевна, сеанс: 54452, начат: 17.04.2020 в 13:51:24, приложение: Тонкий клиент',Context=Форма.ЗаблокироватьДанныеФормыДляРедактирования : Документ.ПлатежноеПоручениеВходящее.Форма.ФормаДокумента
+52:24.595015-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5660,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,SessionID=53843,Usr=КалиеваАБ,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+e0506925-b3e4-4dfb-b2fd-309eb7908ae3: Ошибка блокировки объекта. Объект уже заблокирован:
+компьютер: DC2RDSH26, пользователь: Кулгалиева Динара Багиткалиевна, сеанс: 54452, начат: 17.04.2020 в 13:51:24, приложение: Тонкий клиент'
+53:12.284017-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7516,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002055 от 17.04.2020 13:53:10"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+53:12.316000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7516,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002055 от 17.04.2020 13:53:10"!'
+57:01.038013-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4688,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002055 от 17.04.2020 13:56:58"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+57:01.054000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4688,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002055 от 17.04.2020 13:56:58"!'
+57:39.480013-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5660,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002056 от 17.04.2020 13:57:37"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+57:39.511000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5660,t:clientID=513,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=873,SessionID=53846,Usr=WK1_Есильбаева_Мадина_Танатовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002056 от 17.04.2020 13:57:37"!'

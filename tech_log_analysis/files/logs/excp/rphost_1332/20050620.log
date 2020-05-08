@@ -1,0 +1,10 @@
+﻿16:53.091001-0,EXCP,0,process=rphost,OSThread=7264,ClientID=836,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.125:55421 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:53.091003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:53.091002-0,EXCP,0,process=rphost,OSThread=4816,ClientID=841,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.125:55428 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:53.091005-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:56.919020-0,EXCP,0,process=rphost,OSThread=3608,ClientID=290,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.49:49590 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:56.919022-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+30:54.979000-0,EXCP,0,process=rphost,OSThread=3608,ClientID=428,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.6:61114 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+30:54.979002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+30:54.979001-0,EXCP,0,process=rphost,OSThread=8748,ClientID=432,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.6:61124 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+30:54.979005-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=

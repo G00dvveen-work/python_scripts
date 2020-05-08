@@ -1,0 +1,462 @@
+﻿04:43.854000-0,EXCP,0,process=rphost,OSThread=7172,ClientID=1741,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.210:65040 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+04:43.854001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+04:43.854002-0,EXCP,0,process=rphost,OSThread=7372,ClientID=1734,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.210:65034 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+04:43.854003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+28:22.312005-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=9592,t:clientID=2499,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=bd48043a-c6fc-4d68-ad4a-13b559d3e9e5,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=10226,Administrator=Unknown,Result=Success
+28:24.859005-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=9592,t:clientID=2499,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=333761db-4cb9-4a73-a243-af41bed0c2d8,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=10227,Administrator=Unknown,Result=Success
+28:24.875000-0,EXCP,6,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,dbpid=72,Exception=DataBaseException,Descr='Соединение с сервером баз данных разорвано администратором
+Microsoft SQL Server Native Client 11.0: Cannot continue the execution because the session is in the kill state.
+HRESULT=80004005, SQLSrvr: SQLSTATE=HY000, state=1, Severity=15, native=596, line=0
+'
+28:24.875001-0,EXCPCNTX,0,ClientComputerName=DC2BUHAPP11,ServerComputerName=DC2BUHAPP11,UserName=Байгаскин Есим Аскарович,ConnectString='Srvr="DC2BUHAPP11:2541";Ref="bi_bk3wk1_prod_01";'
+28:24.875002-1859002,EXCPCNTX,5,SrcName=DBMSSQL,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,Trans=0,dbpid=72,Sql="SELECT TOP 40
+T1._IDRRef,
+T1._Marked,
+T1._Number,
+T1._Date_Time,
+T1._Posted,
+T1._Fld4044RRef,
+T1._Fld4046RRef,
+T1._Fld4048RRef,
+CAST(T1._Fld4058 AS NVARCHAR(1000)),
+T1._Fld4059RRef,
+T1._Fld4062RRef,
+T1._Fld4066,
+T1._Fld4075,
+T1._Fld4079RRef,
+T1._Fld4085,
+(T1._Fld4075 + T1._Fld4085),
+CASE WHEN T1._Fld4086 = 0x01 THEN CASE WHEN (T1._Fld4050RRef = 0xBA22E09467805B6911E951361273C358) THEN 0.0 ELSE 1.0 END ELSE 2.0 END,
+CAST(SUM(CASE WHEN (T20.Fld4917_ = 0x01 AND (0xBA22E09467805B6911E95136187CC703 <> T1._Fld4046RRef)) THEN 1.0 WHEN ((CASE WHEN (T20.Fld4915_ < 0.0) THEN (-1.0 * (T1._Fld4075 + T1._Fld4085)) ELSE (T1._Fld4075 + T1._Fld4085) END <> T20.Fld4915_) AND (0xBA22E09467805B6911E95136187CC703 = T1._Fld4046RRef)) THEN 1.0 ELSE 0.0 END) AS NUMERIC(7, 0)),
+MAX(ISNULL(T20.IDRRef,0x00000000000000000000000000000000)),
+T29._Fld17979RRef
+FROM dbo._Document346 T1
+LEFT OUTER JOIN (SELECT TOP 1
+T3._Document346_IDRRef AS Q_001_F_000RRef,
+T5._Fld3106RRef AS Q_001_F_001RRef
+FROM dbo._Document346_VT4115 T3
+INNER JOIN dbo._Document346 T4
+ON T3._Document346_IDRRef = T4._IDRRef AND T3._Fld750 = T4._Fld750
+LEFT OUTER JOIN dbo._Document321 T5
+ON (T3._Fld4117RRef = T5._IDRRef) AND (T5._Fld750 = ?)
+WHERE ((T3._Fld750 = ?)) AND (EXISTS(SELECT
+0x01 AS Q_001_F_000_
+FROM dbo._Reference109 T6
+INNER JOIN dbo._Reference86 T7
+ON (((T6._Fld13864 = ?) AND EXISTS(SELECT
+0x01 AS Q_004_F_000_
+FROM dbo._InfoRg11251 T8
+WHERE ((T8._Fld750 = ?)) AND ((T8._Fld11252RRef = T6._IDRRef) AND (T8._Fld11253RRef = T7._IDRRef)))) AND 0x00000056 = 0x00000056 AND T7._IDRRef IN
+(SELECT
+T9._Reference86_IDRRef AS Q_005_F_000RRef
+FROM dbo._Reference86_VT13618 T9
+INNER JOIN dbo._InfoRg10857 T10
+ON ((T10._Fld10859_TYPE = 0x08 AND T10._Fld10859_RTRef = 0x000000C7 AND T10._Fld10859_RRRef = ?) AND (T10._Fld10858_TYPE = T9._Fld13620_TYPE AND T10._Fld10858_RTRef = T9._Fld13620_RTRef AND T10._Fld10858_RRRef = T9._Fld13620_RRRef))
+WHERE ((T9._Fld750 = ?)) AND (T10._Fld750 = ?)))
+WHERE ((T7._Fld750 = ?)) AND ((0x08 <> 0x01) AND (CASE WHEN EXISTS(SELECT
+0x01 AS Q_002_F_000_
+FROM dbo._InfoRg9324 T11
+WHERE ((T11._Fld750 = ?)) AND ((T11._Fld9325RRef = T7._IDRRef) AND (T11._Fld9326_TYPE = 0x08 AND T11._Fld9326_RTRef = 0x000000E3 AND T11._Fld9326_RRRef = T4._Fld4062RRef))) THEN 0x01 ELSE 0x00 END = CASE WHEN EXISTS(SELECT
+0x01 AS Q_003_F_000_
+FROM dbo._InfoRg9331 T12
+WHERE ((T12._Fld750 = ?)) AND ((T12._Fld9332RRef = T7._IDRRef) AND T12._Fld9333_TYPE = 0x08 AND T12._Fld9333_RTRef = 0x000000E3 AND (T12._Fld9334 = 0x00))) THEN 0x01 ELSE 0x00 END))) OR EXISTS(SELECT
+0x01 AS Q_001_F_000_
+FROM dbo._Reference109 T13
+INNER JOIN dbo._Reference86 T14
+ON (((T13._Fld13864 = ?) AND EXISTS(SELECT
+0x01 AS Q_004_F_000_
+FROM dbo._InfoRg11251 T15
+WHERE ((T15._Fld750 = ?)) AND ((T15._Fld11252RRef = T13._IDRRef) AND (T15._Fld11253RRef = T14._IDRRef)))) AND 0x00000056 = 0x00000056 AND T14._IDRRef IN
+(SELECT
+T16._Reference86_IDRRef AS Q_005_F_000RRef
+FROM dbo._Reference86_VT13618 T16
+INNER JOIN dbo._InfoRg10857 T17
+ON ((T17._Fld10859_TYPE = 0x08 AND T17._Fld10859_RTRef = 0x000000C7 AND T17._Fld10859_RRRef = ?) AND (T17._Fld10858_TYPE = T16._Fld13620_TYPE AND T17._Fld10858_RTRef = T16._Fld13620_RTRef AND T17._Fld10858_RRRef = T16._Fld13620_RRRef))
+WHERE ((T16._Fld750 = ?)) AND (T17._Fld750 = ?)))
+WHERE ((T14._Fld750 = ?)) AND ((0x08 <> 0x01) AND (CASE WHEN EXISTS(SELECT
+0x01 AS Q_002_F_000_
+FROM dbo._InfoRg9324 T18
+WHERE ((T18._Fld750 = ?)) AND ((T18._Fld9325RRef = T14._IDRRef) AND (T18._Fld9326_TYPE = 0x08 AND T18._Fld9326_RTRef = 0x000000E3 AND T18._Fld9326_RRRef = T4._Fld4062RRef))) THEN 0x01 ELSE 0x00 END = CASE WHEN EXISTS(SELECT
+0x01 AS Q_003_F_000_
+FROM dbo._InfoRg9331 T19
+WHERE ((T19._Fld750 = ?)) AND ((T19._Fld9332RRef = T14._IDRRef) AND T19._Fld9333_TYPE = 0x08 AND T19._Fld9333_RTRef = 0x000000E3 AND (T19._Fld9334 = 0x00))) THEN 0x01 ELSE 0x00 END))))) T2
+ON (T1._IDRRef = T2.Q_001_F_000RRef)
+LEFT OUTER JOIN (SELECT
+T21._IDRRef AS IDRRef,
+T21._Fld4915 AS Fld4915_,
+T21._Fld4917 AS Fld4917_,
+T21._Fld4913RRef AS Fld4913RRef,
+T21._Fld750 AS Fld750_,
+T21._Fld4911_TYPE AS Fld4911_TYPE,
+T21._Fld4911_RTRef AS Fld4911_RTRef,
+T21._Fld4911_RRRef AS Fld4911_RRRef,
+T21._Marked AS Marked_
+FROM dbo._Document360 T21
+WHERE ((EXISTS(SELECT
+0x01 AS Q_001_F_000_
+FROM dbo._Reference109 T22
+INNER JOIN dbo._Reference86 T23
+ON (((T22._Fld13864 = ?) AND EXISTS(SELECT
+0x01 AS Q_004_F_000_
+FROM dbo._InfoRg11251 T24
+WHERE ((T24._Fld750 = ?)) AND ((T24._Fld11252RRef = T22._IDRRef) AND (T24._Fld11253RRef = T23._IDRRef)))) AND 0x00000056 = 0x00000056 AND T23._IDRRef IN
+(SELECT
+T25._Reference86_IDRRef AS Q_005_F_000RRef
+FROM dbo._Reference86_VT13618 T25
+INNER JOIN dbo._InfoRg10857 T26
+ON ((T26._Fld10859_TYPE = 0x08 AND T26._Fld10859_RTRef = 0x000000C7 AND T26._Fld10859_RRRef = ?) AND (T26._Fld10858_TYPE = T25._Fld13620_TYPE AND T26._Fld10858_RTRef = T25._Fld13620_RTRef AND T26._Fld10858_RRRef = T25._Fld13620_RRRef))
+WHERE ((T25._Fld750 = ?)) AND (T26._Fld750 = ?)))
+WHERE ((T23._Fld750 = ?)) AND ((0x08 <> 0x01) AND (CASE WHEN EXISTS(SELECT
+0x01 AS Q_002_F_000_
+FROM dbo._InfoRg9324 T27
+WHERE ((T27._Fld750 = ?)) AND ((T27._Fld9325RRef = T23._IDRRef) AND (T27._Fld9326_TYPE = 0x08 AND T27._Fld9326_RTRef = 0x000000E3 AND T27._Fld9326_RRRef = T21._Fld4913RRef))) THEN 0x01 ELSE 0x00 END = CASE WHEN EXISTS(SELECT
+0x01 AS Q_003_F_000_
+FROM dbo._InfoRg9331 T28
+WHERE ((T28._Fld750 = ?)) AND ((T28._Fld9332RRef = T23._IDRRef) AND T28._Fld9333_TYPE = 0x08 AND T28._Fld9333_RTRef = 0x000000E3 AND (T28._Fld9334 = 0x00))) THEN 0x01 ELSE 0x00 END))))) AND (T21._Fld750 = ?)) T20
+ON ((0x08 = T20.Fld4911_TYPE AND 0x0000015A = T20.Fld4911_RTRef AND T1._IDRRef = T20.Fld4911_RRRef) AND (T20.Marked_ = 0x00))
+LEFT OUTER JOIN dbo._Reference216 T29
+ON (T1._Fld4059RRef = T29._IDRRef) AND (T29._Fld750 = ?)
+LEFT OUTER JOIN dbo._Reference199 T30
+ON (T1._Fld4044RRef = T30._IDRRef) AND (T30._Fld750 = ?)
+LEFT OUTER JOIN dbo._Reference198 T31
+ON (T1._Fld4046RRef = T31._IDRRef) AND (T31._Fld750 = ?)
+LEFT OUTER JOIN dbo._Reference173 T32
+ON (T29._Fld17979RRef = T32._IDRRef) AND (T32._Fld750 = ?)
+LEFT OUTER JOIN dbo._Reference227 T33
+ON (T1._Fld4062RRef = T33._IDRRef) AND (T33._Fld750 = ?)
+LEFT OUTER JOIN dbo._Reference48 T34
+ON (T1._Fld4079RRef = T34._IDRRef) AND (T34._Fld750 = ?)
+WHERE (((T1._Fld750 = ?)) AND (EXISTS(SELECT
+0x01 AS Q_001_F_000_
+FROM dbo._Reference109 T35
+INNER JOIN dbo._Reference86 T36
+ON (((T35._Fld13864 = ?) AND EXISTS(SELECT
+0x01 AS Q_004_F_000_
+FROM dbo._InfoRg11251 T37
+WHERE ((T37._Fld750 = ?)) AND ((T37._Fld11252RRef = T35._IDRRef) AND (T37._Fld11253RRef = T36._IDRRef)))) AND 0x00000056 = 0x00000056 AND T36._IDRRef IN
+(SELECT
+T38._Reference86_IDRRef AS Q_005_F_000RRef
+FROM dbo._Reference86_VT13618 T38
+INNER JOIN dbo._InfoRg10857 T39
+ON ((T39._Fld10859_TYPE = 0x08 AND T39._Fld10859_RTRef = 0x000000C7 AND T39._Fld10859_RRRef = ?) AND (T39._Fld10858_TYPE = T38._Fld13620_TYPE AND T39._Fld10858_RTRef = T38._Fld13620_RTRef AND T39._Fld10858_RRRef = T38._Fld13620_RRRef))
+WHERE ((T38._Fld750 = ?)) AND (T39._Fld750 = ?)))
+WHERE ((T36._Fld750 = ?)) AND ((0x08 <> 0x01) AND (CASE WHEN EXISTS(SELECT
+0x01 AS Q_002_F_000_
+FROM dbo._InfoRg9324 T40
+WHERE ((T40._Fld750 = ?)) AND ((T40._Fld9325RRef = T36._IDRRef) AND (T40._Fld9326_TYPE = 0x08 AND T40._Fld9326_RTRef = 0x000000E3 AND T40._Fld9326_RRRef = T1._Fld4062RRef))) THEN 0x01 ELSE 0x00 END = CASE WHEN EXISTS(SELECT
+0x01 AS Q_003_F_000_
+FROM dbo._InfoRg9331 T41
+WHERE ((T41._Fld750 = ?)) AND ((T41._Fld9332RRef = T36._IDRRef) AND T41._Fld9333_TYPE = 0x08 AND T41._Fld9333_RTRef = 0x000000E3 AND (T41._Fld9334 = 0x00))) THEN 0x01 ELSE 0x00 END))) OR EXISTS(SELECT
+0x01 AS Q_001_F_000_
+FROM dbo._Reference109 T42
+INNER JOIN dbo._Reference86 T43
+ON (((T42._Fld13864 = ?) AND EXISTS(SELECT
+0x01 AS Q_004_F_000_
+FROM dbo._InfoRg11251 T44
+WHERE ((T44._Fld750 = ?)) AND ((T44._Fld11252RRef = T42._IDRRef) AND (T44._Fld11253RRef = T43._IDRRef)))) AND 0x00000056 = 0x00000056 AND T43._IDRRef IN
+(SELECT
+T45._Reference86_IDRRef AS Q_005_F_000RRef
+FROM dbo._Reference86_VT13618 T45
+INNER JOIN dbo._InfoRg10857 T46
+ON ((T46._Fld10859_TYPE = 0x08 AND T46._Fld10859_RTRef = 0x000000C7 AND T46._Fld10859_RRRef = ?) AND (T46._Fld10858_TYPE = T45._Fld13620_TYPE AND T46._Fld10858_RTRef = T45._Fld13620_RTRef AND T46._Fld10858_RRRef = T45._Fld13620_RRRef))
+WHERE ((T45._Fld750 = ?)) AND (T46._Fld750 = ?)))
+WHERE ((T43._Fld750 = ?)) AND ((0x08 <> 0x01) AND (CASE WHEN EXISTS(SELECT
+0x01 AS Q_002_F_000_
+FROM dbo._InfoRg9324 T47
+WHERE ((T47._Fld750 = ?)) AND ((T47._Fld9325RRef = T43._IDRRef) AND (T47._Fld9326_TYPE = 0x08 AND T47._Fld9326_RTRef = 0x000000E3 AND T47._Fld9326_RRRef = T1._Fld4062RRef))) THEN 0x01 ELSE 0x00 END = CASE WHEN EXISTS(SELECT
+0x01 AS Q_003_F_000_
+FROM dbo._InfoRg9331 T48
+WHERE ((T48._Fld750 = ?)) AND ((T48._Fld9332RRef = T43._IDRRef) AND T48._Fld9333_TYPE = 0x08 AND T48._Fld9333_RTRef = 0x000000E3 AND (T48._Fld9334 = 0x00))) THEN 0x01 ELSE 0x00 END))))) AND ((T1._Marked = 0x00) AND (((((((((T30._Description LIKE ? ESCAPE '/') OR (T31._Description LIKE ? ESCAPE '/'))) OR (CAST(T1._Fld4058 AS NVARCHAR(1000)) LIKE ? ESCAPE '/')) OR (T29._Description LIKE ? ESCAPE '/')) OR (T32._Description LIKE ? ESCAPE '/')) OR (T1._Number LIKE ? ESCAPE '/')) OR (T33._Description LIKE ? ESCAPE '/')) OR (T34._Description LIKE ? ESCAPE '/')))
+GROUP BY T1._IDRRef,
+T1._Marked,
+T1._Number,
+T1._Date_Time,
+T1._Posted,
+T1._Fld4044RRef,
+T1._Fld4046RRef,
+T1._Fld4048RRef,
+CAST(T1._Fld4058 AS NVARCHAR(1000)),
+T1._Fld4059RRef,
+T1._Fld4062RRef,
+T1._Fld4066,
+T1._Fld4075,
+T1._Fld4079RRef,
+T1._Fld4085,
+(T1._Fld4075 + T1._Fld4085),
+CASE WHEN T1._Fld4086 = 0x01 THEN CASE WHEN (T1._Fld4050RRef = 0xBA22E09467805B6911E951361273C358) THEN 0.0 ELSE 1.0 END ELSE 2.0 END,
+T29._Fld17979RRef
+ORDER BY 4 DESC, 1 DESC
+p_0: 0N
+p_1: 0N
+p_2: 'Документ.ПлатежноеПоручениеИсходящее'
+p_3: 0N
+p_4: 0xAA94001DD8B71EF211E99BBC2FB77A39
+p_5: 0N
+p_6: 0N
+p_7: 0N
+p_8: 0N
+p_9: 0N
+p_10: 'Документ.ПлатежноеПоручениеИсходящее'
+p_11: 0N
+p_12: 0xAA94001DD8B71EF211E99BBC2FB77A39
+p_13: 0N
+p_14: 0N
+p_15: 0N
+p_16: 0N
+p_17: 0N
+p_18: 'Документ.РазноскаБДДС'
+p_19: 0N
+p_20: 0xAA94001DD8B71EF211E99BBC2FB77A39
+p_21: 0N
+p_22: 0N
+p_23: 0N
+p_24: 0N
+p_25: 0N
+p_26: 0N
+p_27: 0N
+p_28: 0N
+p_29: 0N
+p_30: 0N
+p_31: 0N
+p_32: 0N
+p_33: 0N
+p_34: 'Документ.ПлатежноеПоручениеИсходящее'
+p_35: 0N
+p_36: 0xAA94001DD8B71EF211E99BBC2FB77A39
+p_37: 0N
+p_38: 0N
+p_39: 0N
+p_40: 0N
+p_41: 0N
+p_42: 'Документ.ПлатежноеПоручениеИсходящее'
+p_43: 0N
+p_44: 0xAA94001DD8B71EF211E99BBC2FB77A39
+p_45: 0N
+p_46: 0N
+p_47: 0N
+p_48: 0N
+p_49: 0N
+p_50: '%Берг%'
+p_51: '%Берг%'
+p_52: '%Берг%'
+p_53: '%Берг%'
+p_54: '%Берг%'
+p_55: '%Берг%'
+p_56: '%Берг%'
+p_57: '%Берг%'
+",Rows=0,RowsAffected=0
+28:24.875003-1984001,EXCPCNTX,4,SrcName=SDBL,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,Trans=0,Sdbl='SELECT ALLOWED TOP 40
+Q_000_T_001.ID sf_2,
+Q_000_T_001.Marked,
+Q_000_T_001.Number,
+Q_000_T_001.Date_Time sf_1,
+Q_000_T_001.Posted,
+Q_000_T_001.Fld4044,
+Q_000_T_001.Fld4046,
+Q_000_T_001.Fld4048,
+CAST(Q_000_T_001.Fld4058 AS STRING(1000)VARYING),
+Q_000_T_001.Fld4059,
+Q_000_T_001.Fld4062,
+Q_000_T_001.Fld4066,
+Q_000_T_001.Fld4075,
+Q_000_T_001.Fld4079,
+Q_000_T_001.Fld4085,
+(Q_000_T_001.Fld4075 + Q_000_T_001.Fld4085),
+CASE  WHEN Q_000_T_001.Fld4086 THEN CASE WHEN (Q_000_T_001.Fld4050 = 71:ba22e09467805b6911e951361273c358) THEN 0 ELSE 1 END ELSE 2 END ,
+SUM(CASE WHEN (Q_000_T_003.Fld4917 AND (198:ba22e09467805b6911e95136187cc703 <> Q_000_T_001.Fld4046)) THEN 1 WHEN ((CASE WHEN (Q_000_T_003.Fld4915 < 0) THEN (-1 * (Q_000_T_001.Fld4075 + Q_000_T_001.Fld4085)) ELSE (Q_000_T_001.Fld4075 + Q_000_T_001.Fld4085) END <> Q_000_T_003.Fld4915) AND (198:ba22e09467805b6911e95136187cc703 = Q_000_T_001.Fld4046)) THEN 1 ELSE 0 END),
+MAX(ISNULL(Q_000_T_003.ID, 360:00000000000000000000000000000000)),
+CAST(Q_000_T_001.Fld4059 AS REF(Reference216)).Fld17979
+FROM
+Document346 Q_000_T_001 LEFT JOIN (SELECT TOP 1
+Q_001_T_001.ID Q_001_F_000,
+CAST(Q_001_T_001.Fld4117 AS REF(Document321)).Fld3106 Q_001_F_001
+FROM
+Document346.VT4115 Q_001_T_001
+) Q_000_T_002 ON (Q_000_T_001.ID = Q_000_T_002.Q_001_F_000) LEFT JOIN Document360 Q_000_T_003 ON ((Q_000_T_001.ID = Q_000_T_003.Fld4911) AND (NOT(Q_000_T_003.Marked)))
+WHERE
+(NOT(Q_000_T_001.Marked)) AND (((((((((CAST(Q_000_T_001.Fld4044 AS REF(Reference199)).Description LIKE "%Берг%" ESCAPE "/") OR (CAST(Q_000_T_001.Fld4046 AS REF(Reference198)).Description LIKE "%Берг%" ESCAPE "/")) OR FALSE) OR (CAST(Q_000_T_001.Fld4058 AS STRING(1000)VARYING) LIKE "%Берг%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld4059 AS REF(Reference216)).Description LIKE "%Берг%" ESCAPE "/")) OR (CAST(CAST(Q_000_T_001.Fld4059 AS REF(Reference216)).Fld17979 AS REF(Reference173)).Description LIKE "%Берг%" ESCAPE "/")) OR (Q_000_T_001.Number LIKE "%Берг%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld4062 AS REF(Reference227)).Description LIKE "%Берг%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld4079 AS REF(Reference48)).Description LIKE "%Берг%" ESCAPE "/"))
+GROUP BY
+Q_000_T_001.ID,
+Q_000_T_001.Marked,
+Q_000_T_001.Number,
+Q_000_T_001.Date_Time,
+Q_000_T_001.Posted,
+Q_000_T_001.Fld4044,
+Q_000_T_001.Fld4046,
+Q_000_T_001.Fld4048,
+CAST(Q_000_T_001.Fld4058 AS STRING(1000)VARYING),
+Q_000_T_001.Fld4059,
+Q_000_T_001.Fld4062,
+Q_000_T_001.Fld4066,
+Q_000_T_001.Fld4075,
+Q_000_T_001.Fld4079,
+Q_000_T_001.Fld4085,
+(Q_000_T_001.Fld4075 + Q_000_T_001.Fld4085),
+CASE  WHEN Q_000_T_001.Fld4086 THEN CASE WHEN (Q_000_T_001.Fld4050 = 71:ba22e09467805b6911e951361273c358) THEN 0 ELSE 1 END ELSE 2 END ,
+CAST(Q_000_T_001.Fld4059 AS REF(Reference216)).Fld17979
+ORDER BY
+sf_1 DESC,
+sf_2 DESC
+'
+28:24.875004-1984003,EXCPCNTX,3,SrcName=SDBL,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,Trans=0,Func=HoldConnection
+28:24.875005-2546999,EXCPCNTX,2,SrcName=CONN,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,ClientID=2502,Txt=Outgoing connection closed
+28:24.875006-2547004,EXCPCNTX,1,SrcName=CALL,process=rphost,OSThread=9932,t:clientID=2501,Usr=Байгаскин Есим Аскарович,SessionID=12169(12039),p:processName=bi_bk3wk1_prod_01,Func=Dynamic list search,Form=Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаСписка,FormItem=Список,SearchString=Берг
+28:24.875007-2547006,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=9932,t:clientID=2501
+28:24.875015-0,QERR,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,Descr='Соединение с сервером баз данных разорвано администратором
+Microsoft SQL Server Native Client 11.0: Cannot continue the execution because the session is in the kill state.
+HRESULT=80004005, SQLSrvr: SQLSTATE=HY000, state=1, Severity=15, native=596, line=0
+',Query='ВЫБРАТЬ РАЗРЕШЕННЫЕ
+	ДокументПлатежноеПоручениеИсходящее.Ссылка КАК Ссылка,
+	ДокументПлатежноеПоручениеИсходящее.ПометкаУдаления КАК ПометкаУдаления,
+	ДокументПлатежноеПоручениеИсходящее.Номер КАК Номер,
+	ДокументПлатежноеПоручениеИсходящее.Дата КАК Дата,
+	ДокументПлатежноеПоручениеИсходящее.Проведен КАК Проведен,
+	ДокументПлатежноеПоручениеИсходящее.Автор КАК Автор,
+	ДокументПлатежноеПоручениеИсходящее.ВалютаДокумента КАК ВалютаДокумента,
+	ДокументПлатежноеПоручениеИсходящее.ВидОперации КАК ВидОперации,
+	ВЫРАЗИТЬ(ДокументПлатежноеПоручениеИсходящее.Комментарий КАК СТРОКА(1000)) КАК Комментарий,
+	ДокументПлатежноеПоручениеИсходящее.Контрагент КАК Контрагент,
+	ДокументПлатежноеПоручениеИсходящее.Организация КАК Организация,
+	ДокументПлатежноеПоручениеИсходящее.РучнаяКорректировка КАК РучнаяКорректировка,
+	ДокументПлатежноеПоручениеИсходящее.СуммаДокумента КАК СуммаДокумента,
+	ДокументПлатежноеПоручениеИсходящее.СчетОрганизации КАК СчетОрганизации,
+	ДокументПлатежноеПоручениеИсходящее.СуммаКомиссии КАК СуммаКомиссии,
+	ДокументПлатежноеПоручениеИсходящее.СуммаДокумента + ДокументПлатежноеПоручениеИсходящее.СуммаКомиссии КАК Всего,
+	ВЫБОР
+		КОГДА ДокументПлатежноеПоручениеИсходящее.УчитыватьКПН
+			ТОГДА ВЫБОР
+					КОГДА ДокументПлатежноеПоручениеИсходящее.ВидУчетаНУ = ЗНАЧЕНИЕ(Справочник.ВидыУчетаНУ.НУ)
+						ТОГДА 0
+					ИНАЧЕ 1
+				КОНЕЦ
+		ИНАЧЕ 2
+	КОНЕЦ КАК ПринятиеКУчетуНУ,
+	СУММА(ВЫБОР
+			КОГДА РазноскаБДДС.ЕстьОшибки
+					И &ВалютаРеглУчета <> ДокументПлатежноеПоручениеИсходящее.ВалютаДокумента
+				ТОГДА 1
+			КОГДА ВЫБОР
+						КОГДА РазноскаБДДС.СуммаДокумента < 0
+							ТОГДА -1 * (ДокументПлатежноеПоручениеИсходящее.СуммаДокумента + ДокументПлатежноеПоручениеИсходящее.СуммаКомиссии)
+						ИНАЧЕ ДокументПлатежноеПоручениеИсходящее.СуммаДокумента + ДокументПлатежноеПоручениеИсходящее.СуммаКомиссии
+					КОНЕЦ <> РазноскаБДДС.СуммаДокумента
+					И &ВалютаРеглУчета = ДокументПлатежноеПоручениеИсходящее.ВалютаДокумента
+				ТОГДА 1
+			ИНАЧЕ 0
+		КОНЕЦ) КАК ЕстьОшибки,
+	МАКСИМУМ(ЕСТЬNULL(РазноскаБДДС.Ссылка, ЗНАЧЕНИЕ(Документ.РазноскаБДДС.ПустаяСсылка))) КАК РазноскаБДДС,
+	ДокументПлатежноеПоручениеИсходящее.Контрагент.Проект КАК КонтрагентПроект
+ИЗ
+	Документ.ПлатежноеПоручениеИсходящее КАК ДокументПлатежноеПоручениеИсходящее
+		ЛЕВОЕ СОЕДИНЕНИЕ (ВЫБРАТЬ ПЕРВЫЕ 1
+			ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов.Ссылка КАК Ссылка,
+			ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов.Документ.ВидОперации КАК ВидОперацииПВ
+		ИЗ
+			Документ.ПлатежноеПоручениеИсходящее.ПеречислениеПенсионныхВзносов КАК ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов) КАК ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов
+		ПО ДокументПлатежноеПоручениеИсходящее.Ссылка = ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов.Ссылка
+		ЛЕВОЕ СОЕДИНЕНИЕ Документ.РазноскаБДДС КАК РазноскаБДДС
+		ПО ДокументПлатежноеПоручениеИсходящее.Ссылка = РазноскаБДДС.ДокументОснование
+			И (НЕ РазноскаБДДС.ПометкаУдаления)
+ГДЕ
+	ДокументПлатежноеПоручениеИсходящее.ПометкаУдаления = &П
+	И (ДокументПлатежноеПоручениеИсходящее.Автор.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПлатежноеПоручениеИсходящее.ВалютаДокумента.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПлатежноеПоручениеИсходящее.ВидОперации В (&П3)
+			ИЛИ ВЫРАЗИТЬ(ДокументПлатежноеПоручениеИсходящее.Комментарий КАК СТРОКА(1000)) ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПлатежноеПоручениеИсходящее.Контрагент.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПлатежноеПоручениеИсходящее.Контрагент.Проект.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПлатежноеПоручениеИсходящее.Номер ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПлатежноеПоручениеИсходящее.Организация.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ ДокументПлатежноеПоручениеИсходящее.СчетОрганизации.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/")
+
+СГРУППИРОВАТЬ ПО
+	ДокументПлатежноеПоручениеИсходящее.Ссылка,
+	ДокументПлатежноеПоручениеИсходящее.ПометкаУдаления,
+	ДокументПлатежноеПоручениеИсходящее.Номер,
+	ДокументПлатежноеПоручениеИсходящее.Дата,
+	ДокументПлатежноеПоручениеИсходящее.Проведен,
+	ДокументПлатежноеПоручениеИсходящее.Автор,
+	ДокументПлатежноеПоручениеИсходящее.ВалютаДокумента,
+	ДокументПлатежноеПоручениеИсходящее.ВидОперации,
+	ВЫРАЗИТЬ(ДокументПлатежноеПоручениеИсходящее.Комментарий КАК СТРОКА(1000)),
+	ДокументПлатежноеПоручениеИсходящее.Контрагент,
+	ДокументПлатежноеПоручениеИсходящее.Организация,
+	ДокументПлатежноеПоручениеИсходящее.РучнаяКорректировка,
+	ДокументПлатежноеПоручениеИсходящее.СуммаДокумента,
+	ДокументПлатежноеПоручениеИсходящее.СчетОрганизации,
+	ДокументПлатежноеПоручениеИсходящее.СуммаКомиссии,
+	ДокументПлатежноеПоручениеИсходящее.СуммаДокумента + ДокументПлатежноеПоручениеИсходящее.СуммаКомиссии,
+	ВЫБОР
+		КОГДА ДокументПлатежноеПоручениеИсходящее.УчитыватьКПН
+			ТОГДА ВЫБОР
+					КОГДА ДокументПлатежноеПоручениеИсходящее.ВидУчетаНУ = ЗНАЧЕНИЕ(Справочник.ВидыУчетаНУ.НУ)
+						ТОГДА 0
+					ИНАЧЕ 1
+				КОНЕЦ
+		ИНАЧЕ 2
+	КОНЕЦ
+
+УПОРЯДОЧИТЬ ПО
+	Дата,
+	Ссылка'
+28:24.875016-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,Exception=dc31263e-ecbf-41bd-9b3a-7b55897d5fd6,Descr='src\rserver\src\serverjobexecutor.cpp(1024):
+dc31263e-ecbf-41bd-9b3a-7b55897d5fd6: Соединение с сервером баз данных разорвано администратором
+Microsoft SQL Server Native Client 11.0: Cannot continue the execution because the session is in the kill state.
+HRESULT=80004005, SQLSrvr: SQLSTATE=HY000, state=1, Severity=15, native=596, line=0
+'
+28:24.875022-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=b4fa7490-1cdd-41c0-b0e7-43c26f2a5fca, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+28:24.875024-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=b4fa7490-1cdd-41c0-b0e7-43c26f2a5fca, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+28:25.078000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=b4fa7490-1cdd-41c0-b0e7-43c26f2a5fca, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+28:25.078001-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=b4fa7490-1cdd-41c0-b0e7-43c26f2a5fca, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+28:25.078003-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=b4fa7490-1cdd-41c0-b0e7-43c26f2a5fca, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+28:25.078005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=b4fa7490-1cdd-41c0-b0e7-43c26f2a5fca, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+28:25.281000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2501,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10227,SessionID=12169,Usr=Байгаскин Есим Аскарович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=b4fa7490-1cdd-41c0-b0e7-43c26f2a5fca, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+28:26.812005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7004,t:clientID=2500,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10226,SessionID=12168,Usr=Байгаскин Есим Аскарович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1d387f97-4b8e-48cd-97f0-ec5fe98a9034, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+28:26.812007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7004,t:clientID=2500,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10226,SessionID=12168,Usr=Байгаскин Есим Аскарович,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1d387f97-4b8e-48cd-97f0-ec5fe98a9034, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+28:27.016000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7004,t:clientID=2500,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10226,SessionID=12168,Usr=Байгаскин Есим Аскарович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1d387f97-4b8e-48cd-97f0-ec5fe98a9034, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+28:27.016001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7004,t:clientID=2500,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10226,SessionID=12168,Usr=Байгаскин Есим Аскарович,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1d387f97-4b8e-48cd-97f0-ec5fe98a9034, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+28:27.016003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7004,t:clientID=2500,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10226,SessionID=12168,Usr=Байгаскин Есим Аскарович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1d387f97-4b8e-48cd-97f0-ec5fe98a9034, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+28:27.016005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7004,t:clientID=2500,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10226,SessionID=12168,Usr=Байгаскин Есим Аскарович,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1d387f97-4b8e-48cd-97f0-ec5fe98a9034, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+28:27.219000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7004,t:clientID=2500,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10226,SessionID=12168,Usr=Байгаскин Есим Аскарович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1d387f97-4b8e-48cd-97f0-ec5fe98a9034, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+33:55.854000-0,EXCP,0,process=rphost,OSThread=9104,ClientID=384,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.25:52396 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:55.854001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:55.854004-0,EXCP,0,process=rphost,OSThread=7348,ClientID=388,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.25:52401 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:55.854005-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:47.933000-0,EXCP,0,process=rphost,OSThread=6976,ClientID=2506,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:52598 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:47.933001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:49.951000-0,EXCP,0,process=rphost,OSThread=6976,ClientID=2515,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:52615 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:49.951001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+48:14.720000-0,EXCP,0,process=rphost,OSThread=9820,ClientID=2516,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:52632 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+48:14.720001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+48:39.079017-0,EXCP,0,process=rphost,OSThread=7348,ClientID=594,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.212:53021 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+48:39.079019-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:12.726000-0,EXCP,0,process=rphost,OSThread=9104,ClientID=2517,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:52652 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:12.726001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:12.944000-0,EXCP,0,process=rphost,OSThread=7372,ClientID=2520,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:52680 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:12.944001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:33.210001-0,EXCP,0,process=rphost,OSThread=8036,ClientID=2521,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:52701 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:33.210002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:51.588000-0,EXCP,0,process=rphost,OSThread=9360,ClientID=2522,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:52730 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:51.588001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:51.058000-0,EXCP,0,process=rphost,OSThread=7372,ClientID=2523,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:52746 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:51.058001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=

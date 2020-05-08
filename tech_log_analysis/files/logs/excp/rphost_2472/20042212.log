@@ -1,0 +1,16 @@
+﻿23:53.728017-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10244,t:clientID=13,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1618,SessionID=482,Usr=WK1_Закарьянова_Самал_Мухтаровна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату EAP00001358 от 22.04.2020 12:23:45"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+23:53.759000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10244,t:clientID=13,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1618,SessionID=482,Usr=WK1_Закарьянова_Самал_Мухтаровна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату EAP00001358 от 22.04.2020 12:23:45"!'
+32:53.382025-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10244,t:clientID=13,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1618,SessionID=482,Usr=WK1_Закарьянова_Самал_Мухтаровна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату EAP00001358 от 22.04.2020 12:32:45"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
+32:53.413000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10244,t:clientID=13,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1618,SessionID=482,Usr=WK1_Закарьянова_Самал_Мухтаровна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату EAP00001358 от 22.04.2020 12:32:45"!'

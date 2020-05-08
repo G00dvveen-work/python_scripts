@@ -1,0 +1,116 @@
+﻿01:52.083012-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5660,t:clientID=674,t:applicationName=1CV8C,t:computerName=DC3RDSH12,t:connectID=1086,SessionID=54139,Usr=WK1_Есенбаева_Дана_Исаханкызы,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести: "Платежное поручение (исходящее)"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+01:52.146000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5660,t:clientID=674,t:applicationName=1CV8C,t:computerName=DC3RDSH12,t:connectID=1086,SessionID=54139,Usr=WK1_Есенбаева_Дана_Исаханкызы,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести: "Платежное поручение (исходящее)"!'
+38:16.852000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8660,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,SessionID=54061,Usr=WK1_Нагашбекова_Галия_Оразовна,AppID=1CV8C,Exception=eece8795-ccc9-4865-8779-0482cfe4a31e,Descr='src\mngbase\src\ulsettingssourceserverstrategyimpl.cpp(64):
+eece8795-ccc9-4865-8779-0482cfe4a31e: Ошибка при выполнении запроса.
+ae209c88-6b01-464c-adc9-0b72e240492f: {(83, 70)}: Поле не найдено "ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов.Документ.ВидОперации"
+ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов.Документ.<<?>>ВидОперации КАК ВидОперацииПВ',Context=Система.ПолучитьФорму : Документ.ПлатежноеПоручениеИсходящее.ФормаСписка
+38:16.852001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8660,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,SessionID=54061,Usr=WK1_Нагашбекова_Галия_Оразовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\mngbase\src\logformedithelperext.cpp(9294):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+eece8795-ccc9-4865-8779-0482cfe4a31e: Ошибка при выполнении запроса.
+ae209c88-6b01-464c-adc9-0b72e240492f: {(83, 70)}: Поле не найдено "ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов.Документ.ВидОперации"
+ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов.Документ.<<?>>ВидОперации КАК ВидОперацииПВ',Context=Система.ПолучитьФорму : Документ.ПлатежноеПоручениеИсходящее.ФормаСписка
+38:16.852002-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8660,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,SessionID=54061,Usr=WK1_Нагашбекова_Галия_Оразовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+eece8795-ccc9-4865-8779-0482cfe4a31e: Ошибка при выполнении запроса.
+ae209c88-6b01-464c-adc9-0b72e240492f: {(83, 70)}: Поле не найдено "ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов.Документ.ВидОперации"
+ПлатежноеПоручениеИсходящееПеречислениеПенсионныхВзносов.Документ.<<?>>ВидОперации КАК ВидОперацииПВ'
+39:28.167019-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8540,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,SessionID=54061,Usr=WK1_Нагашбекова_Галия_Оразовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00000787 от 14.04.2020 14:47:14"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+39:28.214000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8540,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,SessionID=54061,Usr=WK1_Нагашбекова_Галия_Оразовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00000787 от 14.04.2020 14:47:14"!'
+41:43.795028-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6516,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,SessionID=53843,Usr=КалиеваАБ,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) EAP00001912 от 17.04.2020 11:57:26"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+41:43.873000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6516,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,SessionID=53843,Usr=КалиеваАБ,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) EAP00001912 от 17.04.2020 11:57:26"!'
+45:12.037027-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=1304,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,SessionID=54061,Usr=WK1_Нагашбекова_Галия_Оразовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00000787 от 14.04.2020 14:47:14"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+45:12.099000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=1304,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,SessionID=54061,Usr=WK1_Нагашбекова_Галия_Оразовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00000787 от 14.04.2020 14:47:14"!'
+45:22.427002-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=1304,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,SessionID=53843,Usr=КалиеваАБ,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Ошибка при выполнении обработчика - ''ОбработкаПроведения''
+8d366056-4d5a-4d88-a207-0ae535b7d28e: {ОбщийМодуль.BI_ОбщийМодульСервер.Модуль(1959)}: Ошибка при вызове метода контекста (Записать)
+f08d92f8-9eb2-4e19-9dd9-977d907cec2d
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось записать: "Журнал проводок (бухгалтерский учет)"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеВходящее.Форма.ФормаДокумента
+45:22.474000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=1304,t:clientID=511,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=871,SessionID=53843,Usr=КалиеваАБ,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Ошибка при выполнении обработчика - ''ОбработкаПроведения''
+8d366056-4d5a-4d88-a207-0ae535b7d28e: {ОбщийМодуль.BI_ОбщийМодульСервер.Модуль(1959)}: Ошибка при вызове метода контекста (Записать)
+f08d92f8-9eb2-4e19-9dd9-977d907cec2d
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось записать: "Журнал проводок (бухгалтерский учет)"!'
+45:51.177002-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7516,t:clientID=665,t:applicationName=1CV8C,t:computerName=DC2RDSH29,t:connectID=1050,SessionID=54100,Usr=Совцова Балжан Есимовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести: "Платежное поручение (исходящее)"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+45:51.224000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7516,t:clientID=665,t:applicationName=1CV8C,t:computerName=DC2RDSH29,t:connectID=1050,SessionID=54100,Usr=Совцова Балжан Есимовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести: "Платежное поручение (исходящее)"!'
+46:07.369003-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4536,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,SessionID=54061,Usr=WK1_Нагашбекова_Галия_Оразовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00000814 от 14.04.2020 15:56:31"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+46:07.431000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4536,t:clientID=635,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1020,SessionID=54061,Usr=WK1_Нагашбекова_Галия_Оразовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00000814 от 14.04.2020 15:56:31"!'
+50:22.873041-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4536,t:clientID=579,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=964,SessionID=53976,Usr=WK1_Галиева_Гульнара_Албакировна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Поступление ТМЗ и услуг EAP00000329 от 13.04.2020 22:07:07"!',Context=Форма.Записать : Документ.ПоступлениеТоваровУслуг.Форма.ФормаДокумента
+50:22.935000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4536,t:clientID=579,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=964,SessionID=53976,Usr=WK1_Галиева_Гульнара_Албакировна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Поступление ТМЗ и услуг EAP00000329 от 13.04.2020 22:07:07"!'
+50:33.185010-0,QERR,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4536,t:clientID=579,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=964,SessionID=53976,Usr=WK1_Галиева_Гульнара_Албакировна,AppID=1CV8C,Descr='{(14, 31)}: Не задано значение параметра "Ссылка"
+ЗаявкаНаЗакупТовары.Ссылка = <<?>>&Ссылка',Query='ВЫБРАТЬ РАЗРЕШЕННЫЕ
+	ЗаявкаНаЗакупТовары.НомерСтроки КАК НомерСтроки,
+	ЗаявкаНаЗакупТовары.Номенклатура КАК Номенклатура,
+	ЗаявкаНаЗакупТовары.ТехническаяСпецификация КАК ТехническаяСпецификация,
+	ЗаявкаНаЗакупТовары.ДатаПоставки КАК ДатаПоставки,
+	ЗаявкаНаЗакупТовары.ЕдИз КАК ЕдИз,
+	ЗаявкаНаЗакупТовары.НелеквидыПоОрганизации КАК НелеквидыПоОрганизации,
+	ЗаявкаНаЗакупТовары.Количество КАК Количество,
+	ЗаявкаНаЗакупТовары.ПроверкаНелеквида КАК ПроверкаНелеквида,
+	ЗаявкаНаЗакупТовары.ПолноеНаименование КАК ПолноеНаименование
+ИЗ
+	Документ.ЗаявкаНаЗакуп.Товары КАК ЗаявкаНаЗакупТовары
+ГДЕ
+	ЗаявкаНаЗакупТовары.Ссылка = &Ссылка',Context=Система.ПолучитьФорму : Документ.ЗаявкаНаЗакуп.ФормаВыбора
+52:14.870006-0,QERR,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4536,t:clientID=579,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=964,SessionID=53976,Usr=WK1_Галиева_Гульнара_Албакировна,AppID=1CV8C,Descr='{(14, 31)}: Не задано значение параметра "Ссылка"
+ЗаявкаНаЗакупТовары.Ссылка = <<?>>&Ссылка',Query='ВЫБРАТЬ РАЗРЕШЕННЫЕ
+	ЗаявкаНаЗакупТовары.НомерСтроки КАК НомерСтроки,
+	ЗаявкаНаЗакупТовары.Номенклатура КАК Номенклатура,
+	ЗаявкаНаЗакупТовары.ТехническаяСпецификация КАК ТехническаяСпецификация,
+	ЗаявкаНаЗакупТовары.ДатаПоставки КАК ДатаПоставки,
+	ЗаявкаНаЗакупТовары.ЕдИз КАК ЕдИз,
+	ЗаявкаНаЗакупТовары.НелеквидыПоОрганизации КАК НелеквидыПоОрганизации,
+	ЗаявкаНаЗакупТовары.Количество КАК Количество,
+	ЗаявкаНаЗакупТовары.ПроверкаНелеквида КАК ПроверкаНелеквида,
+	ЗаявкаНаЗакупТовары.ПолноеНаименование КАК ПолноеНаименование
+ИЗ
+	Документ.ЗаявкаНаЗакуп.Товары КАК ЗаявкаНаЗакупТовары
+ГДЕ
+	ЗаявкаНаЗакупТовары.Ссылка = &Ссылка',Context=Система.ПолучитьФорму : Документ.ЗаявкаНаЗакуп.ФормаВыбора

@@ -1,0 +1,15 @@
+﻿13:53.419024-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8324,t:clientID=18,t:applicationName=1CV8C,t:computerName=DC1RDSH12,t:connectID=14,SessionID=43753,Usr=Жакупова Айдем Муратовна,AppID=1CV8C,Exception=SeanceContextException,Descr='Параметр сеанса отсутствует или удален
+ID=5ea571d4-95f5-473b-b0b8-a04c2641e621, Prm=3B64949C-87C4-4E49-865A-1C4EBE8D4C85, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\mngbase\src\logformmngrsrv.cpp(3295)'
+13:53.434000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8324,t:clientID=18,t:applicationName=1CV8C,t:computerName=DC1RDSH12,t:connectID=14,SessionID=43753,Usr=Жакупова Айдем Муратовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Параметр сеанса отсутствует или удален
+ID=5ea571d4-95f5-473b-b0b8-a04c2641e621, Prm=3B64949C-87C4-4E49-865A-1C4EBE8D4C85, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\mngbase\src\logformmngrsrv.cpp(3295)'
+13:57.434000-0,EXCP,0,process=rphost,OSThread=7452,ClientID=28,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.49:58826 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:57.434001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+13:57.434003-0,EXCP,0,process=rphost,OSThread=7452,ClientID=18,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.49:58816 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:57.434004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+46:40.040000-0,EXCP,0,process=rphost,OSThread=7448,ClientID=8,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.210:50360 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+46:40.040002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+46:40.040001-0,EXCP,0,process=rphost,OSThread=7472,ClientID=24,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.210:50363 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+46:40.040005-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=

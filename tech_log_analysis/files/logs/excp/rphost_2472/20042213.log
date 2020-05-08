@@ -1,0 +1,529 @@
+﻿00:31.077016-0,EXCP,0,process=rphost,OSThread=5496,ClientID=155,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.218:65073 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:31.077018-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:34.124018-0,EXCP,0,process=rphost,OSThread=7896,ClientID=196,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.203:53940 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:34.124020-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:34.374016-0,EXCP,0,process=rphost,OSThread=10424,ClientID=550,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.248:65457 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:34.374018-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:36.796006-0,EXCP,0,process=rphost,OSThread=7716,ClientID=85,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.24:62553 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:36.796008-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:37.671019-0,EXCP,0,process=rphost,OSThread=3792,ClientID=347,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.6:54418 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:37.671022-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:37.811032-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=824,t:applicationName=1CV8C,t:computerName=DC2RDSH07,t:connectID=5952,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1011):
+580392e6-ba49-4280-ac67-fcd6f2180121: HTTP: Forbidden
+Ошибка при выполнении запроса POST к ресурсу /e1cib/login:
+a01f465c-ed70-442e-ada5-847668d7a41c: Начало сеанса с информационной базой запрещено.'
+00:37.983011-0,EXCP,0,process=rphost,OSThread=2752,ClientID=67,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.7:60735 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:37.983014-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:40.343006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=202,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=1956,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=d103f5c2-92ed-43aa-9189-61bcbecdab8a, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:40.343007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=202,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=1956,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=d103f5c2-92ed-43aa-9189-61bcbecdab8a, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:41.249004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5372,t:clientID=229,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=2000,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f19fa3a3-12da-4886-b8b2-ff91c8084e63, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:41.249005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5372,t:clientID=229,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=2000,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f19fa3a3-12da-4886-b8b2-ff91c8084e63, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:42.546005-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5372,t:clientID=488,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2342,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0911b619-ed82-47bd-889b-e08bc49abf3c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:42.546007-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5372,t:clientID=488,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2342,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0911b619-ed82-47bd-889b-e08bc49abf3c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:42.640004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=456,t:applicationName=1CV8C,t:computerName=DC1RDSH20,t:connectID=2301,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=79831eba-8cdc-45de-aa27-28584c103286, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:42.640005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=456,t:applicationName=1CV8C,t:computerName=DC1RDSH20,t:connectID=2301,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=79831eba-8cdc-45de-aa27-28584c103286, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:42.718006-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5372,t:clientID=488,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2342,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0911b619-ed82-47bd-889b-e08bc49abf3c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:42.718007-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5372,t:clientID=488,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2342,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logout:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0911b619-ed82-47bd-889b-e08bc49abf3c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:43.780002-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9472,t:clientID=488,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2342,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0911b619-ed82-47bd-889b-e08bc49abf3c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:43.780004-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9472,t:clientID=488,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2342,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0911b619-ed82-47bd-889b-e08bc49abf3c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:43.983000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9472,t:clientID=488,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2342,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=0911b619-ed82-47bd-889b-e08bc49abf3c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:43.983001-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9472,t:clientID=488,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2342,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\srvrinfobaseimpl.cpp(899):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=0911b619-ed82-47bd-889b-e08bc49abf3c, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:43.983018-0,EXCP,0,process=rphost,OSThread=7716,ClientID=492,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.125:63693 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:43.983020-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:44.374018-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9472,t:clientID=825,t:applicationName=1CV8C,t:computerName=DC2RDSH29,t:connectID=5971,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1011):
+580392e6-ba49-4280-ac67-fcd6f2180121: HTTP: Forbidden
+Ошибка при выполнении запроса POST к ресурсу /e1cib/login:
+a01f465c-ed70-442e-ada5-847668d7a41c: Начало сеанса с информационной базой запрещено.'
+00:44.624030-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=595,t:applicationName=1CV8C,t:computerName=DC1RDSH13,t:connectID=2441,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=bf702447-bc8c-4861-a1e5-5ee35be3ce9b, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:44.624031-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=595,t:applicationName=1CV8C,t:computerName=DC1RDSH13,t:connectID=2441,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=bf702447-bc8c-4861-a1e5-5ee35be3ce9b, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:45.249004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=548,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=2396,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=abc0009d-5a66-44a2-ab20-cd6519e2c288, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:45.249005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=548,t:applicationName=1CV8C,t:computerName=DC3RDSH11,t:connectID=2396,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=abc0009d-5a66-44a2-ab20-cd6519e2c288, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:46.436001-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=103,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1815,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=601dd8bd-0a00-4c68-8843-5bd78a0aa320, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:46.436002-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=103,t:applicationName=1CV8C,t:computerName=DC1RDSH07,t:connectID=1815,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=601dd8bd-0a00-4c68-8843-5bd78a0aa320, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:48.296003-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=44,t:applicationName=1CV8C,t:computerName=DC2RDSH25,t:connectID=1663,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=e5c9ec29-90de-40dd-86ec-f9557e29dcb5, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:48.296004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=44,t:applicationName=1CV8C,t:computerName=DC2RDSH25,t:connectID=1663,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=e5c9ec29-90de-40dd-86ec-f9557e29dcb5, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:49.327003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:49.327005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:49.530000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:49.530001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/dlist:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:50.077017-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=826,t:applicationName=1CV8C,t:computerName=DC1RDSH19,t:connectID=5974,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1011):
+580392e6-ba49-4280-ac67-fcd6f2180121: HTTP: Forbidden
+Ошибка при выполнении запроса POST к ресурсу /e1cib/login:
+a01f465c-ed70-442e-ada5-847668d7a41c: Начало сеанса с информационной базой запрещено.'
+00:51.780010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=522,t:applicationName=1CV8C,t:computerName=DC2RDSH01,t:connectID=2374,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=2eb86bd9-91b6-4cc6-a286-a5e13b1e2815, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:51.780011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7236,t:clientID=522,t:applicationName=1CV8C,t:computerName=DC2RDSH01,t:connectID=2374,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=2eb86bd9-91b6-4cc6-a286-a5e13b1e2815, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:52.780003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:52.780005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:52.874006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:52.874007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logout:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:52.905000-0,EXCP,0,process=rphost,OSThread=2752,ClientID=396,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.125:63578 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:52.905001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:52.905002-0,EXCP,0,process=rphost,OSThread=10288,ClientID=387,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.125:63573 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=2273 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:52.905003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:52.905008-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:52.905010-0,EXCP,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:53.108000-0,EXCP,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:53.108001-0,EXCP,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=387,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=2178,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\srvrinfobaseimpl.cpp(899):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=fa5c0c2d-77a6-467a-a440-1ad22fa914d8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+00:53.530016-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=828,t:applicationName=1CV8C,t:computerName=DC2RDSH17,t:connectID=5983,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1011):
+580392e6-ba49-4280-ac67-fcd6f2180121: HTTP: Forbidden
+Ошибка при выполнении запроса POST к ресурсу /e1cib/login:
+a01f465c-ed70-442e-ada5-847668d7a41c: Начало сеанса с информационной базой запрещено.'
+00:56.405007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=401,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=2188,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=50b97eea-0cba-47bb-afae-9910886bc2e1, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:56.405008-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=401,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=2188,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=50b97eea-0cba-47bb-afae-9910886bc2e1, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:59.030009-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5372,t:clientID=13,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1618,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=495a08eb-7057-4ffa-b954-d481ed7ebd49, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+00:59.983011-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7464,t:clientID=657,t:applicationName=1CV8C,t:computerName=DC1RDSH06,t:connectID=2554,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=b8d1b3b5-fa4b-4635-bddc-9541ef454b12, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:00.077004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10484,t:clientID=779,t:applicationName=1CV8C,t:computerName=DC3RDSH10,t:connectID=3525,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=f29a586d-7dd7-4ea2-93fd-89e2aecc2be7, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:02.296008-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8808,t:clientID=69,t:applicationName=1CV8C,t:computerName=DC2RDSH23,t:connectID=1754,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=19f54acb-1062-4f6d-8367-f6fc17e9a937, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:02.374003-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5372,t:clientID=13,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1618,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=495a08eb-7057-4ffa-b954-d481ed7ebd49, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:02.374004-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7464,t:clientID=657,t:applicationName=1CV8C,t:computerName=DC1RDSH06,t:connectID=2554,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=b8d1b3b5-fa4b-4635-bddc-9541ef454b12, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:02.374005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10484,t:clientID=779,t:applicationName=1CV8C,t:computerName=DC3RDSH10,t:connectID=3525,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=f29a586d-7dd7-4ea2-93fd-89e2aecc2be7, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:02.374006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8808,t:clientID=69,t:applicationName=1CV8C,t:computerName=DC2RDSH23,t:connectID=1754,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=19f54acb-1062-4f6d-8367-f6fc17e9a937, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:10.921010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=80,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=1776,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=3ab45408-e2bd-4cf6-901e-3c6165451806, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:10.921011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=80,t:applicationName=1CV8C,t:computerName=DC1RDSH05,t:connectID=1776,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=3ab45408-e2bd-4cf6-901e-3c6165451806, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:11.827013-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=8a5ec3f6-2b43-421f-8cc5-1fe0dbf0fd04,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2RDSH08,Connection=1618,Administrator=Unknown,Result=Success
+01:11.827030-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=6d5f2caf-5910-4b51-bfee-693bf6d1f806,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH07,Connection=1650,Administrator=Unknown,Result=Success
+01:11.843003-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=068a68f0-0c13-4102-94bb-e38b63ec5464,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2RDSH25,Connection=1663,Administrator=Unknown,Result=Success
+01:11.843021-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=aba40aac-36d5-4a76-855a-6441e0ba02e7,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2RDSH23,Connection=1754,Administrator=Unknown,Result=Success
+01:11.843039-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=2f4b7156-73ac-4fa1-92ad-dec39180708b,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH05,Connection=1776,Administrator=Unknown,Result=Success
+01:11.843056-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=c71a7597-c769-48d1-8c30-3eb1e82aa8ed,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH07,Connection=1815,Administrator=Unknown,Result=Success
+01:11.858004-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=18cad383-5439-4bb0-bea4-2e31f5d0a3fe,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2RDSH26,Connection=1823,Administrator=Unknown,Result=Success
+01:11.858022-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=8d5c705e-e09b-4cc3-9b85-40efd773ef03,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH19,Connection=1946,Administrator=Unknown,Result=Success
+01:11.858040-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=aa3ad0f3-473e-4d24-9334-2a4ebff74270,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH11,Connection=1956,Administrator=Unknown,Result=Success
+01:11.874001-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=9f6e4656-d495-4de5-975f-5cdb8fe86fd7,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH05,Connection=2000,Administrator=Unknown,Result=Success
+01:11.874020-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=39345256-fadb-4cc3-8a05-f0342cbc4a25,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH05,Connection=2188,Administrator=Unknown,Result=Success
+01:11.874038-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=12afc0ab-c45c-4f8b-bf2a-d22b2eed3be1,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2RDSH17,Connection=2294,Administrator=Unknown,Result=Success
+01:11.890002-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=ddc7567e-b28f-4aeb-9630-de64d98b9153,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH20,Connection=2301,Administrator=Unknown,Result=Success
+01:11.890020-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=9555cc23-5094-4cc3-9850-a1a9607c2584,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH11,Connection=2334,Administrator=Unknown,Result=Success
+01:11.890038-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=846dce47-f1be-4396-ab00-c158e572bff2,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2RDSH01,Connection=2374,Administrator=Unknown,Result=Success
+01:11.890056-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=d4d2d713-9738-4452-aa97-97031fef77c5,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH10,Connection=2389,Administrator=Unknown,Result=Success
+01:11.905008-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=1cbd0c7a-9983-49f3-b3cb-d8df6e06efb8,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH11,Connection=2396,Administrator=Unknown,Result=Success
+01:11.905026-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=0d8f694d-66c3-4add-9c50-1c0235d0574f,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH13,Connection=2441,Administrator=Unknown,Result=Success
+01:11.905044-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=3bf5ed33-01f7-4cee-adbf-d4267dbef360,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH05,Connection=2465,Administrator=Unknown,Result=Success
+01:11.921009-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=baef2884-2f38-4732-9861-1326e89b61af,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH07,Connection=2503,Administrator=Unknown,Result=Success
+01:11.921027-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=cf4a11e9-ce28-4698-87d1-2632b0338cc8,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH06,Connection=2554,Administrator=Unknown,Result=Success
+01:11.921045-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=f009c1e9-53a5-4b9a-8311-4d0dd08f0184,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH08,Connection=2634,Administrator=Unknown,Result=Success
+01:11.936005-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=1d00ec3b-6c2c-4717-8737-5d6cb90d1321,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH10,Connection=3525,Administrator=Unknown,Result=Success
+01:12.702004-0,EXCP,2,process=rphost,OSThread=5160,t:clientID=615,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:12.702006-5,CALL,1,process=rphost,OSThread=5160,t:clientID=615,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=2053,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13311,MemoryPeak=13311,InBytes=0,OutBytes=0,CpuTime=0
+01:13.561013-0,EXCP,0,process=rphost,OSThread=5596,ClientID=615,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.6:54930 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:13.561014-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:13.561020-0,EXCP,0,process=rphost,OSThread=5596,ClientID=620,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.6:54935 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:13.561021-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:13.561029-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10988,t:clientID=833,t:applicationName=1CV8C,t:computerName=DC3RDSH05,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a938d321-f923-4563-bc7f-d526f54a6b45, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:13.561030-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10988,t:clientID=833,t:applicationName=1CV8C,t:computerName=DC3RDSH05,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a938d321-f923-4563-bc7f-d526f54a6b45, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:14.374003-0,EXCP,2,process=rphost,OSThread=5160,t:clientID=110,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:14.374004-3,CALL,1,process=rphost,OSThread=5160,t:clientID=110,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=9908,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13238,MemoryPeak=13238,InBytes=0,OutBytes=0,CpuTime=0
+01:14.624009-0,EXCP,0,process=rphost,OSThread=5596,ClientID=110,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.217:49313 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:14.624010-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:14.640010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10988,t:clientID=835,t:applicationName=1CV8C,t:computerName=DC2RDSH26,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=5b32086b-b75a-43d8-9a7d-3e424a0a6063, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:14.640011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10988,t:clientID=835,t:applicationName=1CV8C,t:computerName=DC2RDSH26,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=5b32086b-b75a-43d8-9a7d-3e424a0a6063, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:14.936004-0,EXCP,2,process=rphost,OSThread=5160,t:clientID=190,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:14.936005-3,CALL,1,process=rphost,OSThread=5160,t:clientID=190,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=24359,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13293,MemoryPeak=13293,InBytes=0,OutBytes=0,CpuTime=0
+01:15.202003-0,EXCP,0,process=rphost,OSThread=10424,ClientID=190,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.57:51454 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:15.202004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:15.202016-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=836,t:applicationName=1CV8C,t:computerName=DC1RDSH19,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1c43a5cf-e38f-4f53-9f62-67afa8415957, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:15.202017-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=836,t:applicationName=1CV8C,t:computerName=DC1RDSH19,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1c43a5cf-e38f-4f53-9f62-67afa8415957, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:16.858000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=10288,t:clientID=824,t:applicationName=1CV8C,t:computerName=DC2RDSH07,t:connectID=6007,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1011):
+580392e6-ba49-4280-ac67-fcd6f2180121: HTTP: Forbidden
+Ошибка при выполнении запроса POST к ресурсу /e1cib/login:
+a01f465c-ed70-442e-ada5-847668d7a41c: Начало сеанса с информационной базой запрещено.'
+01:11.936023-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=5da1e1db-2c76-4730-a82a-15758e909675,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH06,Connection=3885,Administrator=Unknown,Result=Success
+01:17.046006-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=c25f9379-d46a-4901-bfd9-cc3a0e552adc,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c),Host=DC2RDSH07,Connection=6007,Administrator=Unknown,Result=Success
+01:17.046011-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=dd3535f9-da61-455b-b635-c4fd420bbf71,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c),Host=DC1RDSH19,Connection=5974,Administrator=Unknown,Result=Success
+01:17.046023-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=4c1a1157-1c47-45e6-b7b7-2796ef315e31,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c),Host=DC2RDSH17,Connection=5983,Administrator=Unknown,Result=Success
+01:19.655003-0,EXCP,2,process=rphost,OSThread=5160,t:clientID=684,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:19.655004-3,CALL,1,process=rphost,OSThread=5160,t:clientID=684,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=28371,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13363,MemoryPeak=13363,InBytes=0,OutBytes=0,CpuTime=0
+01:19.796003-0,EXCP,2,process=rphost,OSThread=5160,t:clientID=481,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:19.796004-3,CALL,1,process=rphost,OSThread=5160,t:clientID=481,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=2004,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13423,MemoryPeak=13423,InBytes=0,OutBytes=0,CpuTime=0
+01:19.936012-0,EXCP,0,process=rphost,OSThread=5596,ClientID=684,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.9:53937 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:19.936013-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:19.936019-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=11260,t:clientID=837,t:applicationName=1CV8C,t:computerName=DC3RDSH08,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=dc1567da-0704-464a-8a21-e40f034f881e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:19.936020-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=11260,t:clientID=837,t:applicationName=1CV8C,t:computerName=DC3RDSH08,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=dc1567da-0704-464a-8a21-e40f034f881e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:19.999000-0,EXCP,0,process=rphost,OSThread=5596,ClientID=827,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.248:53868 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:19.999001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:19.999006-0,EXCP,0,process=rphost,OSThread=5496,ClientID=824,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.248:53851 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:19.999007-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:20.093012-0,EXCP,0,process=rphost,OSThread=5496,ClientID=481,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.24:63212 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:20.093013-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:20.093019-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=838,t:applicationName=1CV8C,t:computerName=DC3RDSH11,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ece1769f-a7dd-4ba4-a332-55c203d47865, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:20.093020-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=838,t:applicationName=1CV8C,t:computerName=DC3RDSH11,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ece1769f-a7dd-4ba4-a332-55c203d47865, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:20.093024-0,EXCP,0,process=rphost,OSThread=5596,ClientID=486,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.24:63218 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:20.093025-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:20.202003-0,EXCP,2,process=rphost,OSThread=5160,t:clientID=448,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:20.202004-3,CALL,1,process=rphost,OSThread=5160,t:clientID=448,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=11204,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13558,MemoryPeak=13558,InBytes=0,OutBytes=0,CpuTime=0
+01:20.421012-0,EXCP,0,process=rphost,OSThread=5496,ClientID=448,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.206:51754 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:20.421013-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:20.421024-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7132,t:clientID=840,t:applicationName=1CV8C,t:computerName=DC2RDSH17,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=02087fdc-0139-485e-b881-82d91b68d88e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:20.421025-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7132,t:clientID=840,t:applicationName=1CV8C,t:computerName=DC2RDSH17,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=02087fdc-0139-485e-b881-82d91b68d88e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:22.593003-0,EXCP,2,process=rphost,OSThread=5160,t:clientID=26,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:22.593004-3,CALL,1,process=rphost,OSThread=5160,t:clientID=26,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=6855,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13597,MemoryPeak=13597,InBytes=0,OutBytes=0,CpuTime=0
+01:22.858012-0,EXCP,0,process=rphost,OSThread=6524,ClientID=26,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.8:54548 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:22.858013-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:22.858025-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7132,t:clientID=841,t:applicationName=1CV8C,t:computerName=DC3RDSH07,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ed70ab91-4ebf-46fd-b2c1-16d979a72b88, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:22.858026-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7132,t:clientID=841,t:applicationName=1CV8C,t:computerName=DC3RDSH07,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ed70ab91-4ebf-46fd-b2c1-16d979a72b88, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:23.593018-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=840,t:applicationName=1CV8C,t:computerName=DC2RDSH17,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=02087fdc-0139-485e-b881-82d91b68d88e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:23.593019-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=840,t:applicationName=1CV8C,t:computerName=DC2RDSH17,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/history:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=02087fdc-0139-485e-b881-82d91b68d88e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:23.608004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=840,t:applicationName=1CV8C,t:computerName=DC2RDSH17,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=02087fdc-0139-485e-b881-82d91b68d88e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:23.608005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=840,t:applicationName=1CV8C,t:computerName=DC2RDSH17,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/misc:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=02087fdc-0139-485e-b881-82d91b68d88e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:23.608013-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=840,t:applicationName=1CV8C,t:computerName=DC2RDSH17,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=02087fdc-0139-485e-b881-82d91b68d88e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:23.608014-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=840,t:applicationName=1CV8C,t:computerName=DC2RDSH17,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logout:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=02087fdc-0139-485e-b881-82d91b68d88e, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:23.640000-0,EXCP,0,process=rphost,OSThread=6524,ClientID=459,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.206:51759 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:23.640001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:23.640003-0,EXCP,0,process=rphost,OSThread=10288,ClientID=840,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.206:56374 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=2273 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:23.640004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:24.015002-0,EXCP,2,process=rphost,OSThread=6656,t:clientID=540,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:24.015004-3,CALL,1,process=rphost,OSThread=6656,t:clientID=540,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=27154,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13660,MemoryPeak=13660,InBytes=0,OutBytes=0,CpuTime=0
+01:24.030003-0,EXCP,2,process=rphost,OSThread=6656,t:clientID=626,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:24.030004-3,CALL,1,process=rphost,OSThread=6656,t:clientID=626,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=4887,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13711,MemoryPeak=13711,InBytes=0,OutBytes=0,CpuTime=0
+01:24.061001-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=0412791d-339c-45ef-92ac-02e2510b9ec5,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH05,Connection=0,Administrator=Unknown,Result=Success
+01:24.061006-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=e316183b-0d09-436e-b800-e5626f4205c6,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2RDSH26,Connection=0,Administrator=Unknown,Result=Success
+01:24.077000-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=6f171249-8054-4ffe-9859-0ba924186c0b,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH19,Connection=0,Administrator=Unknown,Result=Success
+01:24.077008-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=2e6a5a5c-d526-4f3c-bfa4-be0b47486646,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH08,Connection=0,Administrator=Unknown,Result=Success
+01:24.077016-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=a83c832f-2f13-47db-817e-afd4f7b66d93,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH11,Connection=0,Administrator=Unknown,Result=Success
+01:24.077022-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=6656,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=f52fea83-c043-4065-8feb-3e4cad5eb588,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH07,Connection=0,Administrator=Unknown,Result=Success
+01:24.874014-0,EXCP,0,process=rphost,OSThread=5496,ClientID=540,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.15:55310 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:24.874015-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:24.874017-0,EXCP,0,process=rphost,OSThread=11128,ClientID=626,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.46:55128 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:24.874018-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:24.874027-0,EXCP,0,process=rphost,OSThread=11128,ClientID=549,Exception=NetDataExchangeException,Descr='server_addr=(2)10.3.172.15:55316 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:24.874028-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:24.874033-0,EXCP,0,process=rphost,OSThread=11128,ClientID=630,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.46:55133 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:24.874036-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:24.874045-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=843,t:applicationName=1CV8C,t:computerName=DC1RDSH07,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=4b6d3ad7-986b-40eb-b106-c13593ee4d36, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:24.874047-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7132,t:clientID=842,t:applicationName=1CV8C,t:computerName=DC3RDSH10,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=670b7485-39a4-4cfc-ba1d-49817add86e2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:24.874048-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=843,t:applicationName=1CV8C,t:computerName=DC1RDSH07,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=4b6d3ad7-986b-40eb-b106-c13593ee4d36, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:24.874049-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7132,t:clientID=842,t:applicationName=1CV8C,t:computerName=DC3RDSH10,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/license/getlast:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=670b7485-39a4-4cfc-ba1d-49817add86e2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:33.155004-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=842,t:applicationName=1CV8C,t:computerName=DC3RDSH10,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=670b7485-39a4-4cfc-ba1d-49817add86e2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:33.155005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10288,t:clientID=842,t:applicationName=1CV8C,t:computerName=DC3RDSH10,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=670b7485-39a4-4cfc-ba1d-49817add86e2, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:49.671001-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=2588,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=7bb49340-a824-423f-90e7-c9623cc8c943,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC3RDSH10,Connection=0,Administrator=Unknown,Result=Success
+01:49.671006-0,ADMIN,2,process=rphost,p:processName=bi_bk3wk1_prod_01,p:processName=bi_bk3wk1_prod_019a85a1ff-7e3a-4975-a26c-84a0ff79039c,OSThread=2588,t:clientID=832,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=9356689c-8ce9-4467-94a7-17760450bb11,Mode=1,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC1RDSH07,Connection=0,Administrator=Unknown,Result=Success
+01:50.827012-0,EXCP,0,process=rphost,OSThread=7216,Exception=acea3e6e-3687-4792-8319-09c009274c9a,Descr='src\rserver\src\rhostimpl.cpp(5997):
+acea3e6e-3687-4792-8319-09c009274c9a: Рабочий процесс не найден'
+01:51.124003-0,EXCP,2,process=rphost,OSThread=5160,t:clientID=826,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(2069):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+01:51.124005-3,CALL,1,process=rphost,OSThread=5160,t:clientID=826,Interface=bc15bd01-10bf-413c-a856-ddc907fcd123,IName=IVResourceRemoteConnection,Method=0,CallID=27985,MName=send,RetExcp=Сеанс работы завершен администратором.,Memory=13773,MemoryPeak=13773,InBytes=0,OutBytes=0,CpuTime=0
+01:51.405000-0,PROC,0,process=rphost,OSThread=7716,Txt='Process terminated.
+Stopped on error (working)'
+01:51.733000-0,PROC,0,process=rphost,OSThread=10588,Txt='Process terminated.
+Stopped on error (working)'
+01:51.733005-0,EXCP,2,process=rphost,OSThread=9536,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: OnFinishRpHost'
+01:51.733007-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733008-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(543):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733009-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733010-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733011-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733012-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733013-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733014-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733015-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733016-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.733017-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.749001-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.749002-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.749003-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.749004-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.843000-0,EXCP,0,process=rphost,OSThread=7216,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.843001-0,EXCP,0,process=rphost,OSThread=7216,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(543):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.843002-0,EXCP,0,process=rphost,OSThread=7216,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.843003-0,EXCP,0,process=rphost,OSThread=7216,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.843004-0,EXCP,0,process=rphost,OSThread=7216,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952000-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952001-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(543):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952002-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952003-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952004-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952005-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952006-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952007-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952008-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952009-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952010-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952011-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952012-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952013-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.952016-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.968000-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(6261):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.968001-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.968002-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:51.968003-0,EXCP,0,process=rphost,OSThread=4812,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: onFinishConnection'
+01:51.968004-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.046000-0,EXCP,0,process=rphost,OSThread=7216,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.046001-0,EXCP,0,process=rphost,OSThread=7216,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(5770):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.171001-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.171000-0,EXCP,0,process=rphost,OSThread=5620,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.171002-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(6261):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.171003-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.171004-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.171005-0,EXCP,0,process=rphost,OSThread=4812,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: onFinishConnection'
+01:52.171006-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.374000-0,EXCP,0,process=rphost,OSThread=5620,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.374001-0,EXCP,0,process=rphost,OSThread=5620,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\clusterdistribimpl.cpp(2624):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.374002-0,EXCP,0,process=rphost,OSThread=5620,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.374003-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.374004-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(6261):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.374005-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.374006-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.374007-0,EXCP,0,process=rphost,OSThread=4812,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: onFinishConnection'
+01:52.374008-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.577000-0,EXCP,0,process=rphost,OSThread=5620,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.577001-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.577003-0,EXCP,0,process=rphost,OSThread=5620,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\clusterdistribimpl.cpp(2624):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.577002-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rhostimpl.cpp(6261):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.577004-0,EXCP,0,process=rphost,OSThread=5620,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.577005-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.577006-0,EXCP,0,process=rphost,OSThread=4812,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(739):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.577007-0,EXCP,0,process=rphost,OSThread=4812,Exception=96380a22-60f7-4a8b-8fca-1224e6bc518f,Descr='src\rserver\src\rmngrcalls.cpp(951):
+96380a22-60f7-4a8b-8fca-1224e6bc518f: onFinishConnection'
+01:52.780001-0,EXCP,0,process=rphost,OSThread=5620,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\rmngrcalls.cpp(586):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:52.780002-0,EXCP,0,process=rphost,OSThread=5620,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\clusterdistribimpl.cpp(2624):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:54.389001-0,EXCP,1,process=rphost,OSThread=9536,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(736):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Процесс завершается. Исходящий вызов запрещен.'
+01:54.389006-0,PROC,1,process=rphost,OSThread=9536,Err=0,Txt=1C:Enterprise 8.3 (x86-64) (8.3.14.1694) Working Process finished.

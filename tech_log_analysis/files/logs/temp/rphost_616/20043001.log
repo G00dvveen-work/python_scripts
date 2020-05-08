@@ -1,0 +1,40 @@
+﻿01:37.082002-0,PROC,1,process=rphost,OSThread=6976,Err=0,Txt=1C:Enterprise 8.3 (x86-64) (8.3.14.1694) Working Process started. Ctrl+C to exit.
+01:53.832004-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10064,t:clientID=6,t:applicationName=1CV8C,t:computerName=DC2RDSH23,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ded5e3c8-c65e-4e0d-b7ca-4ab72e416e00, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:53.832005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10064,t:clientID=6,t:applicationName=1CV8C,t:computerName=DC2RDSH23,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ded5e3c8-c65e-4e0d-b7ca-4ab72e416e00, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:55.411016-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6404,t:clientID=7,t:applicationName=1CV8C,t:computerName=DC1RDSH09,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=eea75a8d-3e7c-4add-9b3d-7919c0f4e5c4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:55.411017-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6404,t:clientID=7,t:applicationName=1CV8C,t:computerName=DC1RDSH09,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=eea75a8d-3e7c-4add-9b3d-7919c0f4e5c4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:59.442003-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8212,t:clientID=8,t:applicationName=1CV8C,t:computerName=DC1RDSH09,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=2228fd57-146a-4aa4-9b1b-cf5a43367fd9, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+01:59.442004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=8212,t:clientID=8,t:applicationName=1CV8C,t:computerName=DC1RDSH09,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=2228fd57-146a-4aa4-9b1b-cf5a43367fd9, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+02:24.676016-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10064,t:clientID=12,t:applicationName=1CV8C,t:computerName=DC2RDSH06,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=64a7005b-bc0e-4633-ad0c-3389f4599691, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+02:24.676017-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=10064,t:clientID=12,t:applicationName=1CV8C,t:computerName=DC2RDSH06,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=64a7005b-bc0e-4633-ad0c-3389f4599691, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+52:16.770004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4324,t:clientID=12,t:applicationName=1CV8C,t:computerName=DC2RDSH06,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=64a7005b-bc0e-4633-ad0c-3389f4599691, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+52:16.770005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4324,t:clientID=12,t:applicationName=1CV8C,t:computerName=DC2RDSH06,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1058):
+580392e6-ba49-4280-ac67-fcd6f2180121: Ошибка работы сеанса
+Ошибка при выполнении запроса POST к ресурсу /e1cib/modules/call:
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=64a7005b-bc0e-4633-ad0c-3389f4599691, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+52:21.723000-0,EXCP,0,process=rphost,OSThread=8312,ClientID=13,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.44:52301 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:21.723001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:21.723003-0,EXCP,0,process=rphost,OSThread=3920,ClientID=12,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.44:52296 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:21.723004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=

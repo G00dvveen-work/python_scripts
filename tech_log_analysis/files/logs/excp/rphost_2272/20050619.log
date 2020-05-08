@@ -1,0 +1,721 @@
+﻿00:04.657004-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4420,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50848 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:04.657005-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:19.735000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4424,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50854 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:19.735001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:34.829000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4425,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50861 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:34.829001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:49.923000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4426,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50867 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+00:49.923001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:05.001000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4427,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50871 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:05.001001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:10.126007-15999,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4429,t:applicationName=1CV8,t:computerName=DC2MGMT03,t:connectID=10259,Interface=a2cf4e8a-06e2-4f81-92b3-604ea54ba92b,IName=IFolderFileHost,Method=0,CallID=9128,MName=open,RetExcp="Файл не обнаружен 'bi_bk3wk1_prod_01/ConfigSave/version'",Memory=1752,MemoryPeak=5122,InBytes=0,OutBytes=0,CpuTime=0
+01:10.126025-7,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4429,t:applicationName=1CV8,t:computerName=DC2MGMT03,t:connectID=10259,Interface=a2cf4e8a-06e2-4f81-92b3-604ea54ba92b,IName=IFolderFileHost,Method=0,CallID=9129,MName=open,RetExcp="Файл не обнаружен 'bi_bk3wk1_prod_01/ConfigSave/versions'",Memory=694,MemoryPeak=4230,InBytes=0,OutBytes=0,CpuTime=0
+01:10.345071-5,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4429,t:applicationName=1CV8,t:computerName=DC2MGMT03,t:connectID=10259,Interface=a2cf4e8a-06e2-4f81-92b3-604ea54ba92b,IName=IFolderFileHost,Method=0,CallID=9182,MName=open,RetExcp="Файл не обнаружен 'bi_bk3wk1_prod_01/Config/convertPhase'",Memory=1298,MemoryPeak=4806,InBytes=0,OutBytes=0,CpuTime=0
+01:10.626034-5,CALL,1,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4429,t:applicationName=1CV8,t:computerName=DC2MGMT03,t:connectID=10259,SessionID=13353,Usr=ОбновлениеБазы,Interface=a2cf4e8a-06e2-4f81-92b3-604ea54ba92b,IName=IFolderFileHost,Method=0,CallID=9224,MName=open,RetExcp="Файл не обнаружен 'bi_bk3wk1_prod_01/Params/DBNames-Ext--1'",Memory=1218,MemoryPeak=5044,InBytes=0,OutBytes=0,CpuTime=0
+01:20.079000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4428,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50877 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:20.079001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:35.173000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4430,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50884 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:35.173001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+01:50.235000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4431,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50899 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+01:50.235001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+02:05.329000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4432,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50905 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+02:05.329001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+02:20.408000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4433,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50911 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+02:20.408001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+02:35.502000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4437,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50918 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+02:35.502001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+02:50.580001-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4439,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50924 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+02:50.580002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+03:05.658000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4440,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50930 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+03:05.658001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+03:20.736023-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4441,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50936 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+03:20.736025-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+03:35.799055-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4444,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50944 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+03:35.799056-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+03:50.908067-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4445,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50950 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+03:50.908068-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+03:55.705004-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=473,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1080,SessionID=967,Usr=Асарова Аида Мейрамбекқызы,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00001764 от 06.05.2020 10:48:22"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+03:55.767038-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=473,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1080,SessionID=967,Usr=Асарова Аида Мейрамбекқызы,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00001764 от 06.05.2020 10:48:22"!'
+04:05.986061-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4446,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50971 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+04:05.986062-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+04:21.081018-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4447,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50977 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+04:21.081019-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+04:30.518032-2686965,TLOCK,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6384,t:clientID=4443,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10272,SessionID=13365,Usr=DefUser,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,Regions=InfoRg8967.DIMS,Locks='InfoRg8967.DIMS Shared Fld750=0 Fld8968=346:aaae001dd8b71ef511ea8f92d23449c3 Fld8969=2',WaitConnections=2519,connectionID=135dbd10-24b4-4abb-8017-07bedb12b718,Context='
+ОбщийМодуль.ОбменДаннымиСервер.Модуль : 3627 : ВыполнитьОбменДаннымиПоСценариюОбменаДанными(Ложь, Выборка.Ссылка);
+	ОбщийМодуль.ОбменДаннымиСервер.Модуль : 3572 : ВыполнитьОбменДаннымиЧерезФайловыйРесурс(СтруктураНастроекОбмена);
+		ОбщийМодуль.ОбменДаннымиСервер.Модуль : 5238 : ЗаписатьСообщениеСИзменениямиДляУзла(СтруктураНастроекОбмена, СтруктураНастроекОбмена.ОбработкаТранспортаСообщенийОбмена.ИмяФайлаСообщенияОбмена());
+			ОбщийМодуль.ОбменДаннымиСервер.Модуль : 5395 : ОбработкаОбменаДанными.ВыполнитьВыгрузкуДанных(Отказ);
+				Обработка.КонвертацияОбъектовРаспределенныхИнформационныхБаз.МодульОбъекта : 95 : ЗаписатьИзмененияВФайлСообщенияОбмена(Отказ, ЗаписьXML);
+					Обработка.КонвертацияОбъектовРаспределенныхИнформационныхБаз.МодульОбъекта : 266 : ПланыОбмена.ЗаписатьИзменения(ЗаписьСообщения, КоличествоЭлементовВТранзакции);'
+04:36.159002-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4449,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50981 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+04:36.159003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+04:51.237019-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4450,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50987 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+04:51.237020-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+05:06.315000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4451,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50993 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+05:06.315001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+05:21.409000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4452,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:50999 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+05:21.409001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+05:36.472000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4454,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51004 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+05:36.472001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+05:51.550000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4455,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51010 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+05:51.550001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+06:06.628000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4456,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51017 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+06:06.628001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+06:21.706000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4457,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51021 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+06:21.706001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+06:36.784001-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4458,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51027 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+06:36.784002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+06:51.862000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4459,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51033 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+06:51.862001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+07:06.956000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4460,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51039 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+07:06.956001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+07:22.019000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4461,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51043 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+07:22.019001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+07:37.113000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4462,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51050 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+07:37.113001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+07:52.207000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4463,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51056 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+07:52.207001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+08:07.285006-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4464,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51061 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+08:07.285007-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+08:22.363000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4465,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51067 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+08:22.363001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+08:37.457000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4466,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51073 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+08:37.457001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+08:52.519000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4467,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51079 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+08:52.519001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+09:07.598000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4468,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51083 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+09:07.598001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+09:22.692000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4469,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51089 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+09:22.692001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+09:37.786001-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4470,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51096 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+09:37.786002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+09:52.864000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4473,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51100 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+09:52.864001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+10:07.942054-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4474,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51107 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+10:07.942055-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+10:23.020018-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4478,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51113 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+10:23.020019-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+10:38.114000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4479,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51119 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+10:38.114001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+10:53.192000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4486,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51124 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+10:53.192001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+10:59.942025-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4401,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53411 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+10:59.942026-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+11:00.427000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4776,t:clientID=473,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1080,SessionID=967,Usr=Асарова Аида Мейрамбекқызы,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00001764 от 06.05.2020 10:48:22"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+11:00.474000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4776,t:clientID=473,t:applicationName=1CV8C,t:computerName=DC2RDSH08,t:connectID=1080,SessionID=967,Usr=Асарова Аида Мейрамбекқызы,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) PSC00001764 от 06.05.2020 10:48:22"!'
+11:08.270000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4487,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51131 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+11:08.270001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+11:23.350000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4489,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51137 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+11:23.350001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+11:38.412000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4490,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51142 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+11:38.412001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+11:42.115000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4488,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53440 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+11:42.115001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+11:53.490000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4491,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51148 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+11:53.490001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+12:08.584001-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4493,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51155 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+12:08.584002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+12:23.663000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4494,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51161 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+12:23.663001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+12:38.726000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4497,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51165 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+12:38.726001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+12:53.819000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4501,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51171 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+12:53.819001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+13:08.913000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4506,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51189 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:08.913001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+13:23.992001-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4507,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51194 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:23.992002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+13:39.086000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4508,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51200 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:39.086001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+13:50.336000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4492,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53454 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:50.336001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+13:50.570000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4510,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53473 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:50.570001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+13:54.164000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4509,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51206 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+13:54.164001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:09.242001-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4512,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51213 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:09.242002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:24.336000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4513,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51217 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:24.336001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:35.461000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4511,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53492 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:35.461001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:35.727000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4515,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53508 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:35.727001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:38.883000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4516,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53527 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:38.883001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:39.039000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4517,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53543 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:39.039001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:39.414000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4514,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51225 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:39.414001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:42.258000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4518,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53562 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:42.258001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:42.492000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4520,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53579 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:42.492001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:45.492021-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4521,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53598 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:45.492022-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:45.695000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4522,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53614 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:45.695001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:48.602000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4523,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53633 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:48.602001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:48.836000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4524,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53649 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:48.836001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:51.742000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4525,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53668 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:51.742001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:52.039000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4526,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53684 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:52.039001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:54.508000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4519,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51231 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:54.508001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:54.914000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4527,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53703 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:54.914001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:55.086000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4530,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53719 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:55.086001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:57.352000-0,EXCP,0,process=rphost,OSThread=8992,Exception=NetDataExchangeException,Descr='Ping time out expired on direction: directionID=76ebb46b-6ee1-45a1-81a2-30a42667db7a, lastActivity=4232877809, lastActivityTestTs=(4232884997,4232886012,4232887012,4232888028,4232889044,4232890059,4232891075,4232892091), timeout=15000, period=3000, currentTS=4232893091, nChecks=3'
+14:57.867000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=259,Exception=NetDataExchangeException,Descr=Ping time out expired on connection
+14:58.289000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4531,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53738 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:58.289001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:58.523000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4532,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53754 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:58.523001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+15:09.601001-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4529,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51236 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+15:09.601002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+15:13.663000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4533,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53773 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+15:13.663001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+15:24.679001-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4535,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51243 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+15:24.679002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+15:28.772000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4536,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53789 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+15:28.772001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+15:39.757000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4537,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51250 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+15:39.757001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+15:43.897000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4538,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53809 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+15:43.897001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+15:50.038000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4540,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53820 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+15:50.038001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+15:54.835001-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4539,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51258 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+15:54.835002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:05.163006-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4541,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53837 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:05.163007-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:09.914000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4542,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51263 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:09.914001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:20.258000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4543,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53853 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:20.258001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:25.008000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4544,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51269 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:25.008001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:35.383000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4545,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53869 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:35.383001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:40.086000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4546,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51275 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:40.086001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:50.508000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4547,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53878 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:50.508001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:51.336000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4534,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:60932 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:51.336001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:55.164000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4548,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51281 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:55.164001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:58.258000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4549,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53888 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:58.258001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:58.336000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4552,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53904 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:58.336001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:58.523000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4553,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53923 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:58.523001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:59.367000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4550,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61027 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:59.367001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:59.648000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4555,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61068 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:59.648001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+16:59.961000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4556,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61091 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+16:59.961001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:00.227000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4557,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61108 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:00.227001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:00.695001-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4554,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53944 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:00.695002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:10.258000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4551,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51285 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:10.258001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:10.617000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4558,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61131 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:10.617001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:10.836007-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4561,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61151 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:10.836008-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:15.805000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4559,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53966 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:15.805001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:25.336000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4560,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51291 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:25.336001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:29.461000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4563,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:53982 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:29.461001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:33.539000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4562,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61174 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:33.539001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:40.430000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4564,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51299 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:40.430001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+17:55.523000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4566,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51303 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+17:55.523001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+18:10.603000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4567,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51310 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+18:10.603001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+18:25.681023-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4568,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51328 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+18:25.681024-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+18:40.759018-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4573,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51334 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+18:40.759019-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+18:55.837033-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4574,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51343 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+18:55.837034-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+19:10.930035-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4575,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51349 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+19:10.930036-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+19:26.008002-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4577,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51355 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+19:26.008003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+19:41.086041-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4578,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51364 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+19:41.086042-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+19:56.180027-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4579,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51370 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+19:56.180028-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+20:11.274039-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4580,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51377 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+20:11.274040-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+20:26.368000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4582,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51383 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+20:26.368001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+20:41.446000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4583,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51387 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+20:41.446001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+20:56.509000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4584,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51393 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+20:56.509001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+21:11.603000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4585,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51401 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+21:11.603001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+21:26.681000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4586,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51405 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+21:26.681001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+21:41.759000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4587,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51412 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+21:41.759001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+21:56.853001-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4588,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51418 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+21:56.853002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+22:11.916000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4589,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51425 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+22:11.916001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+22:27.010000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4590,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51429 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+22:27.010001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+22:33.697000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4565,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61202 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+22:33.697001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+22:34.041012-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4592,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61350 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+22:34.041013-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+22:42.088000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4591,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51437 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+22:42.088001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+22:57.182000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4595,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51443 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+22:57.182001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+23:12.260000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4596,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51447 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+23:12.260001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+23:27.354000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4597,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51453 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+23:27.354001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+23:42.416000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4598,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51462 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+23:42.416001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+23:57.494000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4599,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51468 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+23:57.494001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:12.573000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4600,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51473 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:12.573001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:27.667000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4601,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51479 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:27.667001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:37.042001-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4594,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61373 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:37.042002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:38.292000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4603,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61439 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:38.292001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:38.511000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4605,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61457 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:38.511001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:39.058000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4606,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61478 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:39.058001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:41.542000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4607,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61493 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:41.542001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:41.808000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4608,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61510 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:41.808001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:42.745014-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4602,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51485 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:42.745015-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:44.792006-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4609,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61529 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:44.792007-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:45.042000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4611,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61545 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:45.042001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:48.151001-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4612,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61564 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:48.151002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:48.370000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4613,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61580 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:48.370001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:54.401000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4614,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61599 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:54.401001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:54.620000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4615,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61616 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:54.620001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:57.839000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4610,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51501 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:57.839001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+25:12.917000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4617,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51506 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+25:12.917001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+25:27.995000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4618,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51512 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+25:27.995001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+25:43.073000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4619,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51521 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+25:43.073001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+25:58.151001-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4620,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51526 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+25:58.151002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+26:13.245000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4621,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51533 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+26:13.245001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+26:28.355000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4622,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51539 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+26:28.355001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+26:43.433001-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4623,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51545 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+26:43.433002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+26:58.511001-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4624,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51550 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+26:58.511002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+27:13.607000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4625,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51556 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+27:13.607001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+27:28.669001-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4626,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51562 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+27:28.669002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+27:43.763000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4627,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51567 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+27:43.763001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+27:58.857000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4628,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51576 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+27:58.857001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+28:13.936000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4629,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51582 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+28:13.936001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+28:29.014000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4630,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51588 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+28:29.014001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+28:44.076001-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4631,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51592 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+28:44.076002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+28:59.170000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4632,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51599 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+28:59.170001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+29:14.235000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4633,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51605 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+29:14.235001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+29:29.328000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4634,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51612 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+29:29.328001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+29:44.406000-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4635,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51621 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+29:44.406001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+29:59.500000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4637,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51628 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+29:59.500001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+30:14.564014-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4638,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51634 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+30:14.564015-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+30:29.642018-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4640,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51638 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+30:29.642019-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+30:44.720000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4641,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51644 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+30:44.720001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+30:59.798000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4645,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51650 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+30:59.798001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+31:14.876000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4646,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51656 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+31:14.876001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+31:29.954000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4647,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51662 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+31:29.954001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+31:34.236015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=4204,t:clientID=4636,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=8aaec06f-ea06-4e53-9473-0f0e7f8290cb,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=10339,Administrator=Unknown,Result=Success
+31:34.376008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4650,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10339,SessionID=13352,Usr=Бектасова Алия Белгибаевна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a5884b7b-dd9e-4e11-bb07-2eabee50c8b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+31:34.376010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4650,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10339,SessionID=13352,Usr=Бектасова Алия Белгибаевна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a5884b7b-dd9e-4e11-bb07-2eabee50c8b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+31:34.579000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4650,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10339,SessionID=13352,Usr=Бектасова Алия Белгибаевна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a5884b7b-dd9e-4e11-bb07-2eabee50c8b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+31:34.579001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4650,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10339,SessionID=13352,Usr=Бектасова Алия Белгибаевна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a5884b7b-dd9e-4e11-bb07-2eabee50c8b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+31:34.579003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4650,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10339,SessionID=13352,Usr=Бектасова Алия Белгибаевна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a5884b7b-dd9e-4e11-bb07-2eabee50c8b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+31:34.579005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4650,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10339,SessionID=13352,Usr=Бектасова Алия Белгибаевна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=a5884b7b-dd9e-4e11-bb07-2eabee50c8b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+31:34.782000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5312,t:clientID=4650,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10339,SessionID=13352,Usr=Бектасова Алия Белгибаевна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=a5884b7b-dd9e-4e11-bb07-2eabee50c8b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+31:45.032000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4648,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51670 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+31:45.032001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+32:00.111000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4651,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51679 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+32:00.111001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+32:15.190001-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4658,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51683 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+32:15.190002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+32:30.268000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4659,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51689 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+32:30.268001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+32:45.346000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4660,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51723 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+32:45.346001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+32:59.908003-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4616,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61636 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+32:59.908004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:00.268000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4663,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61690 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:00.268001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:00.424000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4661,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51730 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:00.424001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:15.518007-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4665,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51737 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:15.518008-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:30.596003-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4667,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51744 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:30.596005-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+33:45.674000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4668,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51750 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:45.674001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:00.737027-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4669,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51756 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:00.737028-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:15.831012-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4670,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51762 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:15.831013-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:30.894022-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4671,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51768 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:30.894023-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:45.972034-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4672,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51772 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:45.972035-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:47.503018-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4664,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61713 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:47.503019-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:51.519020-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4674,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61736 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:51.519021-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+35:01.050014-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4673,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51778 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+35:01.050015-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+35:01.566001-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4675,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61752 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+35:01.566002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+35:16.144000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4676,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51797 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+35:16.144001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+35:31.222000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4678,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51819 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+35:31.222001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+35:46.300000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4679,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51823 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+35:46.300001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+36:01.378000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4680,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51830 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+36:01.378001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+36:16.457000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4681,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51843 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+36:16.457001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+36:31.535000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4682,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51848 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+36:31.535001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+36:46.614000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4683,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51853 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+36:46.614001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+37:01.692000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4684,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51860 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+37:01.692001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+37:16.787000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4685,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51866 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+37:16.787001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+37:31.866000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4686,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51872 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+37:31.866001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+37:46.944006-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4687,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51880 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+37:46.944007-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+38:02.022000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4688,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51887 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+38:02.022001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+38:17.102000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4689,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51892 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+38:17.102001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+38:32.180000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4695,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51898 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+38:32.180001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+38:47.258001-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4696,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51904 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+38:47.258002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+39:02.336001-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4697,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51910 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+39:02.336002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+39:17.432000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4698,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51914 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+39:17.432001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+39:32.510000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4699,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51921 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+39:32.510001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+39:47.588000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4700,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51927 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+39:47.588001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+40:02.666001-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4701,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51936 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+40:02.666002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+40:17.731000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4702,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51940 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+40:17.731001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+40:32.840000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4705,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51946 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+40:32.840001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+40:47.918000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4706,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51954 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+40:47.918001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+41:03.012000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4707,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51959 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+41:03.012001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+41:18.076000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4708,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51965 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+41:18.076001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+41:33.154000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4709,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51972 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+41:33.154001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+41:48.248000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4710,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51978 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+41:48.248001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+41:59.170000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4677,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61767 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+41:59.170001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+42:03.326000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4712,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51983 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+42:03.326001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+42:18.421000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4715,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51989 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+42:18.421001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+42:23.249000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4714,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61798 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+42:23.249001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+42:23.577000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4717,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61815 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+42:23.577001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+42:33.515000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4716,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51995 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+42:33.515001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+42:48.593000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4719,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:51999 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+42:48.593001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+43:03.671001-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4720,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52007 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+43:03.671002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+43:18.750001-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4721,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52013 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+43:18.750002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+43:33.828000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4722,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52020 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+43:33.828001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+43:48.906000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4723,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52024 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+43:48.906001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:04.000000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4724,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52031 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:04.000001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:19.081000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4729,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52037 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:19.081001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:34.175001-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4730,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52041 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:34.175002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:37.222000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4718,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61834 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:37.222001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:37.488000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4732,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61858 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:37.488001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:41.847001-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4733,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61877 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:41.847002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:42.066000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4734,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61893 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:42.066001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:45.144001-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4735,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61912 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:45.144002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:45.753000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4736,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61928 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:45.753001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:49.269000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4731,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52047 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:49.269001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+45:04.331000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4738,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52053 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+45:04.331001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+45:19.428000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4740,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52069 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+45:19.428001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+45:34.506000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4741,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52074 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+45:34.506001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+45:49.584000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4742,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52080 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+45:49.584001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+46:04.662000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4743,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52087 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+46:04.662001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+46:19.740001-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4744,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52091 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+46:19.740002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+46:34.818000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4745,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52098 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+46:34.818001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+46:49.911001-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4746,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52105 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+46:49.911002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+47:04.990000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4747,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52111 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+47:04.990001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+47:10.132019-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4713,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.232:54634 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+47:10.132020-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+47:20.085000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4748,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52127 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+47:20.085001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+47:35.163014-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4749,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52134 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+47:35.163015-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+47:50.242000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4750,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52141 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+47:50.242001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+48:05.335000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4751,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52148 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+48:05.335001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+48:20.415001-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4752,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52153 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+48:20.415002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+48:35.494019-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4757,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52159 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+48:35.494021-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+48:50.587003-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4758,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52168 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+48:50.587004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+49:05.665013-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4759,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52172 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+49:05.665014-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+49:20.746017-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4760,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52178 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+49:20.746019-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+49:35.824027-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4761,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52187 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+49:35.824028-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+49:50.917023-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4762,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52192 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+49:50.917024-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+50:05.996010-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4763,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52198 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+50:05.996012-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+50:21.074018-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4765,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52204 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+50:21.074019-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+50:36.152001-0,EXCP,0,process=rphost,OSThread=4628,ClientID=4766,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52210 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+50:36.152002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+50:51.246001-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4767,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52214 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+50:51.246002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+50:51.449000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4737,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61947 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+50:51.449001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:03.464000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4769,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:61987 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:03.464001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:03.714000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4770,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:62009 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:03.714001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:06.324000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4768,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52220 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:06.324001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:21.387001-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4772,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52226 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:21.387002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:36.465000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4773,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52233 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:36.465001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+51:51.543000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4774,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52237 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+51:51.543001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:06.622000-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4775,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52244 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:06.622001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:21.715000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4776,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52250 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:21.715001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:36.809000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4777,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52254 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:36.809001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:44.122000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4771,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:62028 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:44.122001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:44.497000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4779,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:62078 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:44.497001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+52:51.887006-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4778,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52260 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+52:51.887007-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+53:06.965000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4781,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52266 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+53:06.965001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+53:22.044000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4782,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52272 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+53:22.044001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+53:37.123001-0,EXCP,0,process=rphost,OSThread=5508,ClientID=4783,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52277 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+53:37.123002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+53:52.201000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4784,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52283 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+53:52.201001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:07.279000-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4785,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52290 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:07.279001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:22.357000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4786,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52295 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:22.357001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:37.435000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4787,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52303 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:37.435001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:40.888000-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4780,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:62098 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:40.888001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:41.248000-0,EXCP,0,process=rphost,OSThread=6856,ClientID=4790,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:62118 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:41.248001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:44.466001-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4791,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:62138 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:44.466002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:44.638006-0,EXCP,0,process=rphost,OSThread=8168,ClientID=4792,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:62155 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:44.638007-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:52.529000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4789,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52310 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:52.529001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+55:07.607000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4794,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52316 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+55:07.607001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+55:22.702001-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4795,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52320 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+55:22.702002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+55:37.780000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4796,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52327 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+55:37.780001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+55:52.842000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4798,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52333 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+55:52.842001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+56:00.342015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=8324,t:clientID=4788,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=2c7fd7f7-292d-4a25-86f5-7c6756258aa1,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=10404,Administrator=Unknown,Result=Success
+56:02.905010-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4801,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10404,SessionID=13344,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=e197ec45-b70b-4ea7-8f4f-c437435aa0e4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+56:02.905012-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4801,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10404,SessionID=13344,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=e197ec45-b70b-4ea7-8f4f-c437435aa0e4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+56:03.108000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4801,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10404,SessionID=13344,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=e197ec45-b70b-4ea7-8f4f-c437435aa0e4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+56:03.108001-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4801,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10404,SessionID=13344,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=e197ec45-b70b-4ea7-8f4f-c437435aa0e4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+56:03.108003-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4801,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10404,SessionID=13344,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=e197ec45-b70b-4ea7-8f4f-c437435aa0e4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+56:03.108005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4801,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10404,SessionID=13344,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=e197ec45-b70b-4ea7-8f4f-c437435aa0e4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+56:03.311000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4801,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10404,SessionID=13344,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=e197ec45-b70b-4ea7-8f4f-c437435aa0e4, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+56:03.780015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=4204,t:clientID=4788,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=827573b5-64a8-49bd-b9e9-9a3fdcc726c0,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=10409,Administrator=Unknown,Result=Success
+56:05.420012-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4803,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10409,SessionID=13349,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=abd6f8b8-09a7-4fe8-84bb-c8423a5696b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+56:05.420014-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4803,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10409,SessionID=13349,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=abd6f8b8-09a7-4fe8-84bb-c8423a5696b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+56:05.624000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4803,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10409,SessionID=13349,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=abd6f8b8-09a7-4fe8-84bb-c8423a5696b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+56:05.624001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4803,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10409,SessionID=13349,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=abd6f8b8-09a7-4fe8-84bb-c8423a5696b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+56:05.624003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4803,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10409,SessionID=13349,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=abd6f8b8-09a7-4fe8-84bb-c8423a5696b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+56:05.624005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4803,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10409,SessionID=13349,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=abd6f8b8-09a7-4fe8-84bb-c8423a5696b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+56:05.827000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5984,t:clientID=4803,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10409,SessionID=13349,Usr=WK1_Сакупова_Гульден_Сериковна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=abd6f8b8-09a7-4fe8-84bb-c8423a5696b8, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+56:07.920007-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4800,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52339 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+56:07.920008-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+56:23.000000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4804,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52345 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+56:23.000001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+56:38.078000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4805,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52351 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+56:38.078001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+56:53.171001-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4806,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52359 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+56:53.171002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+57:08.234000-0,EXCP,0,process=rphost,OSThread=7736,ClientID=4807,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52363 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+57:08.234001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+57:23.329000-0,EXCP,0,process=rphost,OSThread=8992,ClientID=4808,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52369 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+57:23.329001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+57:38.407000-0,EXCP,0,process=rphost,OSThread=8916,ClientID=4809,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52377 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+57:38.407001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+57:53.485000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4810,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52383 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+57:53.485001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+58:08.563000-0,EXCP,0,process=rphost,OSThread=3172,ClientID=4811,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52390 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+58:08.563001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+58:23.672000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4812,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52396 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+58:23.672001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+58:38.735001-0,EXCP,0,process=rphost,OSThread=6164,ClientID=4813,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52402 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+58:38.735002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+58:53.813000-0,EXCP,0,process=rphost,OSThread=1264,ClientID=4814,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52408 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+58:53.813001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+59:08.891000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4815,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52414 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+59:08.891001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+59:23.970000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4816,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52422 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+59:23.970001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+59:39.048000-0,EXCP,0,process=rphost,OSThread=5904,ClientID=4817,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52428 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+59:39.048001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+59:54.127000-0,EXCP,0,process=rphost,OSThread=3924,ClientID=4819,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.97:52433 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+59:54.127001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=

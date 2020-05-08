@@ -1,0 +1,168 @@
+﻿00:06.989000-0,PROC,0,process=rphost,OSThread=6104,Txt='Process terminated.
+Stop signal received (ragent)'
+00:07.099000-0,PROC,0,process=rphost,OSThread=7068,Txt='Process terminated.
+Stop signal received (ragent)'
+00:07.145000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7556,t:clientID=554,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=507,SessionID=15,Usr=DefUser,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rscalls\src\remotecalllistenerimpl.cpp(3802):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.',Context='
+ОбщийМодуль.ЭСФСервер.Модуль : 1215 : ИдентификаторСессии = ОткрытьСессию(ДанныеПрофиляИСЭСФ, ВерсияИСЭСФ);
+	ОбщийМодуль.ЭСФСервер.Модуль : 19 : Возврат ЭСФСерверПовтИсп.ОбработкаОбменЭСФ().ОткрытьСессию(ПрофильИСЭСФ, ВерсияИСЭСФ);
+		Обработка.ОбменЭСФ.МодульОбъекта : 3240 : ОтветXML = ВыполнитьМетодВебСервиса(ТекстЗапроса, ИмяСервисаSessionService(), , ВерсияИСЭСФ);
+			Обработка.ОбменЭСФ.МодульОбъекта : 8425 : HTTPОтвет = HTTPСоединение.ОтправитьДляОбработки(HTTPЗапрос);'
+00:07.145001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7556,t:clientID=554,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=507,SessionID=15,Usr=DefUser,Exception=dd149677-3d47-4e05-a55f-4e75b13a441f,Descr='src\rserver\src\serverjobexecutor.cpp(1024):
+dd149677-3d47-4e05-a55f-4e75b13a441f: Сеанс работы завершен администратором.'
+00:07.536001-0,EXCP,1,process=rphost,OSThread=9028,ClientID=532,Exception=NetDataExchangeException,Descr=' server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:07.536002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:07.536003-469003,EXCPCNTX,0,SrcName=SCALL,process=rphost,OSThread=9028,ClientID=532,Interface=64016dc5-c439-49fa-8a71-c3cb708e243b,IName=IClusterLocks,Method=8,CallID=442159,MName=getProcessesSetVersion
+00:07.536000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,ClientID=551,Exception=NetDataExchangeException,Descr=' server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536006-0,EXCP,0,process=rphost,OSThread=9028,ClientID=532,Exception=NetDataExchangeException,Descr=' server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:07.536007-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:07.536008-0,EXCP,0,process=rphost,OSThread=9028,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(825):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:07.536004-0,EXCPCNTX,0,ClientComputerName=DC2BUHAPP11,ServerComputerName=DC2BUHAPP11,UserName=DefUser,ConnectString='Srvr="DC2BUHAPP11:2541";Ref="bi_bk3wk1_prod_01";',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536010-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7556,t:clientID=554,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=507,SessionID=15,Usr=DefUser,ClientID=556,Exception=NetDataExchangeException,Descr=' server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:07.536011-187010,EXCPCNTX,2,SrcName=SCALL,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,ClientID=551,Interface=7f58f27d-5ad8-43a1-aa1e-c982f41bed5c,IName=IRemoteCreatorService,Method=2,CallID=442160,MName=callPutEventContext,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536013-3593997,EXCPCNTX,1,SrcName=CALL,process=rphost,OSThread=7344,t:clientID=553,Usr=DefUser,SessionID=14,p:processName=bi_bk3wk1_prod_01,Func=Background job,Module=ПолнотекстовыйПоискСервер,Method=ОбновлениеИндексаППДПоРасписанию,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536012-0,EXCPCNTX,0,ClientComputerName=DC2BUHAPP11,ServerComputerName=DC2BUHAPP11,UserName=DefUser,ConnectString='Srvr="DC2BUHAPP11:2541";Ref="bi_bk3wk1_prod_01";'
+00:07.536015-391013,EXCPCNTX,2,SrcName=CONN,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7556,t:clientID=554,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=507,SessionID=15,Usr=DefUser,ClientID=556,Txt=Outgoing connection closed
+00:07.536014-3594000,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=7344,t:clientID=553,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536016-2578013,EXCPCNTX,1,SrcName=CALL,process=rphost,OSThread=7556,t:clientID=554,Usr=DefUser,SessionID=15,p:processName=bi_bk3wk1_prod_01,Func=Background job,Module=ЭСФСервер,Method=ВыполнитьСинхронизациюСИСЭСФ
+00:07.536017-2578015,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=7556,t:clientID=554
+00:07.536020-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,ClientID=551,Exception=NetDataExchangeException,Descr=' server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536021-0,EXCP,0,process=rphost,OSThread=9028,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(543):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:07.536022-0,EXCPCNTX,0,ClientComputerName=DC2BUHAPP11,ServerComputerName=DC2BUHAPP11,UserName=DefUser,ConnectString='Srvr="DC2BUHAPP11:2541";Ref="bi_bk3wk1_prod_01";',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536024-3594008,EXCPCNTX,1,SrcName=CALL,process=rphost,OSThread=7344,t:clientID=553,Usr=DefUser,SessionID=14,p:processName=bi_bk3wk1_prod_01,Func=Background job,Module=ПолнотекстовыйПоискСервер,Method=ОбновлениеИндексаППДПоРасписанию,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536025-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7556,t:clientID=554,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=507,SessionID=15,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:07.536026-3594012,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=7344,t:clientID=553,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536027-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(825):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536030-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(508):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536031-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(825):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:07.536032-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(543):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:09.755000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7556,t:clientID=554,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=507,SessionID=15,Usr=DefUser,ClientID=558,Exception=NetDataExchangeException,Descr='server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:09.755001-0,EXCPCNTX,0,ClientComputerName=DC2BUHAPP11,ServerComputerName=DC2BUHAPP11,UserName=DefUser,ConnectString='Srvr="DC2BUHAPP11:2541";Ref="bi_bk3wk1_prod_01";'
+00:09.755002-2016001,EXCPCNTX,2,SrcName=CONN,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7556,t:clientID=554,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=507,SessionID=15,Usr=DefUser,ClientID=558,Txt=Outgoing connection closed
+00:09.755003-4797000,EXCPCNTX,1,SrcName=CALL,process=rphost,OSThread=7556,t:clientID=554,Usr=DefUser,SessionID=15,p:processName=bi_bk3wk1_prod_01,Func=Background job,Module=ЭСФСервер,Method=ВыполнитьСинхронизациюСИСЭСФ
+00:09.755004-4797002,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=7556,t:clientID=554
+00:09.755006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7556,t:clientID=554,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=507,SessionID=15,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:09.755007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7556,t:clientID=554,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=507,SessionID=15,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\serverjobexecutor.cpp(1684):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:09.770000-0,EXCP,1,process=rphost,OSThread=9028,ClientID=557,Exception=NetDataExchangeException,Descr='server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:09.770001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:09.770002-2031002,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=9028,ClientID=557,Txt=Outgoing connection closed
+00:09.770004-0,EXCP,0,process=rphost,OSThread=9028,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:09.770005-0,EXCP,0,process=rphost,OSThread=9028,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\clusterdistribimpl.cpp(2624):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:09.786000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,ClientID=559,Exception=NetDataExchangeException,Descr='server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:09.786001-0,EXCPCNTX,0,ClientComputerName=DC2BUHAPP11,ServerComputerName=DC2BUHAPP11,UserName=DefUser,ConnectString='Srvr="DC2BUHAPP11:2541";Ref="bi_bk3wk1_prod_01";',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:09.786002-2047000,EXCPCNTX,2,SrcName=CONN,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,ClientID=559,Txt=Outgoing connection closed,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:09.786003-5843987,EXCPCNTX,1,SrcName=CALL,process=rphost,OSThread=7344,t:clientID=553,Usr=DefUser,SessionID=14,p:processName=bi_bk3wk1_prod_01,Func=Background job,Module=ПолнотекстовыйПоискСервер,Method=ОбновлениеИндексаППДПоРасписанию,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:09.786004-5843990,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=7344,t:clientID=553,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:09.786006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:09.786007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\ftextmngrrhostimpl.cpp(346):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:09.786009-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\backend\src\backendcontextimpl.cpp(12494):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 148 : ОбновлениеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 6 : ОбновитьИндекс(НСтр("ru = ''Обновление индекса ППД''"), Ложь, Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:09.786010-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=7344,t:clientID=553,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=506,SessionID=14,Usr=DefUser,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\serverjobexecutor.cpp(1024):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:09.989000-0,EXCP,1,process=rphost,OSThread=5956,ClientID=560,Exception=NetDataExchangeException,Descr='server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:09.989001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:09.989002-2047002,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=5956,ClientID=560,Txt=Outgoing connection closed
+00:09.989004-0,EXCP,0,process=rphost,OSThread=5956,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'

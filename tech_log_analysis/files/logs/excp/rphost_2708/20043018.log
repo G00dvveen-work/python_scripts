@@ -1,0 +1,378 @@
+﻿08:24.877020-0,EXCP,0,process=rphost,OSThread=8036,ClientID=24,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.50:49867 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+08:24.877021-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+08:30.596015-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=9592,t:clientID=2346,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=b7abdb99-6e91-46d0-90d2-2c92e833d064,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9585,Administrator=Unknown,Result=Success
+08:31.674023-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2351,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9585,SessionID=11465,Usr=Абзолдаева Анеля Шахкузовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=6817d1d4-eea5-4ea9-ab81-2aea730cac87, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+08:31.674025-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2351,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9585,SessionID=11465,Usr=Абзолдаева Анеля Шахкузовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=6817d1d4-eea5-4ea9-ab81-2aea730cac87, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+08:31.877000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2351,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9585,SessionID=11465,Usr=Абзолдаева Анеля Шахкузовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=6817d1d4-eea5-4ea9-ab81-2aea730cac87, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+08:31.877001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2351,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9585,SessionID=11465,Usr=Абзолдаева Анеля Шахкузовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=6817d1d4-eea5-4ea9-ab81-2aea730cac87, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+08:31.877003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2351,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9585,SessionID=11465,Usr=Абзолдаева Анеля Шахкузовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=6817d1d4-eea5-4ea9-ab81-2aea730cac87, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+08:31.877005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2351,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9585,SessionID=11465,Usr=Абзолдаева Анеля Шахкузовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=6817d1d4-eea5-4ea9-ab81-2aea730cac87, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+08:32.080000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2351,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9585,SessionID=11465,Usr=Абзолдаева Анеля Шахкузовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=6817d1d4-eea5-4ea9-ab81-2aea730cac87, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+14:37.723000-0,EXCP,0,process=rphost,OSThread=888,ClientID=2354,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54463 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:37.723001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:37.738000-0,EXCP,0,process=rphost,OSThread=9820,ClientID=2357,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54478 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:37.738001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:38.348000-0,EXCP,0,process=rphost,OSThread=8036,ClientID=2358,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54495 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:38.348001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:41.613000-0,EXCP,0,process=rphost,OSThread=7172,ClientID=2359,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54515 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:41.613001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+14:41.848000-0,EXCP,0,process=rphost,OSThread=9820,ClientID=2360,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54533 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+14:41.848001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+18:50.783000-0,EXCP,0,process=rphost,OSThread=9360,ClientID=2125,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.44:61231 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+18:50.783001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+19:36.642013-0,EXCP,0,process=rphost,OSThread=888,ClientID=2361,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54554 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+19:36.642014-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+19:36.892001-0,EXCP,0,process=rphost,OSThread=9820,ClientID=2364,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54582 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+19:36.892002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+22:31.330000-0,EXCP,0,process=rphost,OSThread=888,ClientID=2365,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54604 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+22:31.330001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+22:34.986030-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=9592,t:clientID=2366,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=df2be4f5-ef99-4e28-b77c-d128d6322b37,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9698,Administrator=Unknown,Result=Success
+22:34.986038-0,EXCP,5,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,dbpid=227,Exception=DataBaseException,Descr='Соединение с сервером баз данных разорвано администратором
+Microsoft SQL Server Native Client 11.0: Cannot continue the execution because the session is in the kill state.
+HRESULT=80004005, SQLSrvr: SQLSTATE=HY000, state=1, Severity=15, native=596, line=0
+'
+22:34.986039-0,EXCPCNTX,0,ClientComputerName=DC2BUHAPP11,ServerComputerName=DC2BUHAPP11,UserName=WK1_Жангожин_Ильяс_Салимжанович,ConnectString='Srvr="DC2BUHAPP11:2541";Ref="bi_bk3wk1_prod_01";'
+22:34.986040-11328038,EXCPCNTX,4,SrcName=DBMSSQL,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,Trans=0,dbpid=227,Sql="SELECT TOP 45
+T1._IDRRef,
+T1._Marked,
+T1._OwnerIDRRef,
+T1._ParentIDRRef,
+CASE WHEN (T1._Folder = 0x00) THEN 0x01 ELSE 0x00 END,
+T1._Code,
+T1._Description,
+T1._Fld15318RRef,
+T1._Fld15321RRef,
+T1._Fld15323RRef,
+T1._Fld15336RRef,
+T1._Fld15355RRef,
+CASE WHEN T1._PredefinedID > 0x00000000000000000000000000000000 THEN 0x01 ELSE 0x00 END
+FROM dbo._Reference205 T1
+LEFT OUTER JOIN dbo._Reference216 T2
+ON (T1._OwnerIDRRef = T2._IDRRef) AND (T2._Fld750 = ?)
+LEFT OUTER JOIN dbo._Reference198 T3
+ON (T1._Fld15318RRef = T3._IDRRef) AND (T3._Fld750 = ?)
+LEFT OUTER JOIN dbo._Reference55 T4
+ON (T1._Fld15336RRef = T4._IDRRef) AND (T4._Fld750 = ?)
+LEFT OUTER JOIN dbo._Reference227 T5
+ON (T1._Fld15321RRef = T5._IDRRef) AND (T5._Fld750 = ?)
+LEFT OUTER JOIN dbo._Reference173 T6
+ON (T1._Fld15355RRef = T6._IDRRef) AND (T6._Fld750 = ?)
+WHERE ((T1._Fld750 = ?)) AND ((T1._Fld15336RRef <> ?) AND ((((((((T1._Code LIKE ? ESCAPE '/') OR (T1._Description LIKE ? ESCAPE '/')) OR (T2._Description LIKE ? ESCAPE '/')) OR (T3._Description LIKE ? ESCAPE '/'))) OR (T4._Description LIKE ? ESCAPE '/')) OR (T5._Description LIKE ? ESCAPE '/')) OR (T6._Description LIKE ? ESCAPE '/')) AND ((((((((T1._Code LIKE ? ESCAPE '/') OR (T1._Description LIKE ? ESCAPE '/')) OR (T2._Description LIKE ? ESCAPE '/')) OR (T3._Description LIKE ? ESCAPE '/'))) OR (T4._Description LIKE ? ESCAPE '/')) OR (T5._Description LIKE ? ESCAPE '/')) OR (T6._Description LIKE ? ESCAPE '/')) AND ((((((((T1._Code LIKE ? ESCAPE '/') OR (T1._Description LIKE ? ESCAPE '/')) OR (T2._Description LIKE ? ESCAPE '/')) OR (T3._Description LIKE ? ESCAPE '/'))) OR (T4._Description LIKE ? ESCAPE '/')) OR (T5._Description LIKE ? ESCAPE '/')) OR (T6._Description LIKE ? ESCAPE '/')) AND ((((((((T1._Code LIKE ? ESCAPE '/') OR (T1._Description LIKE ? ESCAPE '/')) OR (T2._Description LIKE ? ESCAPE '/')) OR (T3._Description LIKE ? ESCAPE '/'))) OR (T4._Description LIKE ? ESCAPE '/')) OR (T5._Description LIKE ? ESCAPE '/')) OR (T6._Description LIKE ? ESCAPE '/')))
+ORDER BY (T1._Description), (T1._IDRRef)
+p_0: 0N
+p_1: 0N
+p_2: 0N
+p_3: 0N
+p_4: 0N
+p_5: 0N
+p_6: 0xBA22E09467805B6911E951374AAEADC6
+p_7: '%BCC%'
+p_8: '%BCC%'
+p_9: '%BCC%'
+p_10: '%BCC%'
+p_11: '%BCC%'
+p_12: '%BCC%'
+p_13: '%BCC%'
+p_14: '%Под%'
+p_15: '%Под%'
+p_16: '%Под%'
+p_17: '%Под%'
+p_18: '%Под%'
+p_19: '%Под%'
+p_20: '%Под%'
+p_21: '%ЛК6%'
+p_22: '%ЛК6%'
+p_23: '%ЛК6%'
+p_24: '%ЛК6%'
+p_25: '%ЛК6%'
+p_26: '%ЛК6%'
+p_27: '%ЛК6%'
+p_28: '%360%'
+p_29: '%360%'
+p_30: '%360%'
+p_31: '%360%'
+p_32: '%360%'
+p_33: '%360%'
+p_34: '%360%'
+",Rows=1,RowsAffected=-1
+22:34.986041-11328040,EXCPCNTX,3,SrcName=SDBL,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,Trans=0,Sdbl='SELECT ALLOWED TOP 45
+Q_000_T_001.ID sf_2,
+Q_000_T_001.Marked,
+Q_000_T_001.OwnerID,
+Q_000_T_001.ParentID,
+(NOT(Q_000_T_001.Folder)),
+Q_000_T_001.Code,
+Q_000_T_001.Description sf_1,
+Q_000_T_001.Fld15318,
+Q_000_T_001.Fld15321,
+Q_000_T_001.Fld15323,
+Q_000_T_001.Fld15336,
+Q_000_T_001.Fld15355,
+CASE
+  WHEN Q_000_T_001.PredefinedID IS NULL THEN NULL
+  WHEN Q_000_T_001.PredefinedID>0x00000000000000000000000000000000 THEN TRUE
+  ELSE FALSE
+END
+FROM
+Reference205 Q_000_T_001
+WHERE
+(Q_000_T_001.Fld15336 <> 55:ba22e09467805b6911e951374aaeadc6) AND ((((((((Q_000_T_001.Code LIKE "%BCC%" ESCAPE "/") OR (Q_000_T_001.Description LIKE "%BCC%" ESCAPE "/")) OR (CAST(Q_000_T_001.OwnerID AS REF(Reference216)).Description LIKE "%BCC%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15318 AS REF(Reference198)).Description LIKE "%BCC%" ESCAPE "/")) OR FALSE) OR (CAST(Q_000_T_001.Fld15336 AS REF(Reference55)).Description LIKE "%BCC%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15321 AS REF(Reference227)).Description LIKE "%BCC%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15355 AS REF(Reference173)).Description LIKE "%BCC%" ESCAPE "/")) AND ((((((((Q_000_T_001.Code LIKE "%Под%" ESCAPE "/") OR (Q_000_T_001.Description LIKE "%Под%" ESCAPE "/")) OR (CAST(Q_000_T_001.OwnerID AS REF(Reference216)).Description LIKE "%Под%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15318 AS REF(Reference198)).Description LIKE "%Под%" ESCAPE "/")) OR FALSE) OR (CAST(Q_000_T_001.Fld15336 AS REF(Reference55)).Description LIKE "%Под%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15321 AS REF(Reference227)).Description LIKE "%Под%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15355 AS REF(Reference173)).Description LIKE "%Под%" ESCAPE "/")) AND ((((((((Q_000_T_001.Code LIKE "%ЛК6%" ESCAPE "/") OR (Q_000_T_001.Description LIKE "%ЛК6%" ESCAPE "/")) OR (CAST(Q_000_T_001.OwnerID AS REF(Reference216)).Description LIKE "%ЛК6%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15318 AS REF(Reference198)).Description LIKE "%ЛК6%" ESCAPE "/")) OR FALSE) OR (CAST(Q_000_T_001.Fld15336 AS REF(Reference55)).Description LIKE "%ЛК6%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15321 AS REF(Reference227)).Description LIKE "%ЛК6%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15355 AS REF(Reference173)).Description LIKE "%ЛК6%" ESCAPE "/")) AND ((((((((Q_000_T_001.Code LIKE "%360%" ESCAPE "/") OR (Q_000_T_001.Description LIKE "%360%" ESCAPE "/")) OR (CAST(Q_000_T_001.OwnerID AS REF(Reference216)).Description LIKE "%360%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15318 AS REF(Reference198)).Description LIKE "%360%" ESCAPE "/")) OR FALSE) OR (CAST(Q_000_T_001.Fld15336 AS REF(Reference55)).Description LIKE "%360%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15321 AS REF(Reference227)).Description LIKE "%360%" ESCAPE "/")) OR (CAST(Q_000_T_001.Fld15355 AS REF(Reference173)).Description LIKE "%360%" ESCAPE "/"))
+ORDER BY
+sf_1,
+sf_2
+'
+22:34.986042-11328042,EXCPCNTX,2,SrcName=SDBL,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,Trans=0,Func=HoldConnection
+22:34.986043-11500035,EXCPCNTX,1,SrcName=CALL,process=rphost,OSThread=5248,t:clientID=2376,Usr=WK1_Жангожин_Ильяс_Салимжанович,SessionID=11600(10986),p:processName=bi_bk3wk1_prod_01,Func=Dynamic list search,Form=Справочник.ДоговорыКонтрагентов.Форма.ФормаСписка,FormItem=Список,SearchString=BCC/Под/ЛК6/360
+22:34.986044-11500037,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=5248,t:clientID=2376
+22:34.986056-0,QERR,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,Descr='Соединение с сервером баз данных разорвано администратором
+Microsoft SQL Server Native Client 11.0: Cannot continue the execution because the session is in the kill state.
+HRESULT=80004005, SQLSrvr: SQLSTATE=HY000, state=1, Severity=15, native=596, line=0
+',Query='ВЫБРАТЬ РАЗРЕШЕННЫЕ
+	СправочникДоговорыКонтрагентов.Ссылка КАК Ссылка,
+	СправочникДоговорыКонтрагентов.ПометкаУдаления КАК ПометкаУдаления,
+	СправочникДоговорыКонтрагентов.Владелец КАК Владелец,
+	СправочникДоговорыКонтрагентов.Родитель КАК Родитель,
+	СправочникДоговорыКонтрагентов.ЭтоГруппа КАК ЭтоГруппа,
+	СправочникДоговорыКонтрагентов.Код КАК Код,
+	СправочникДоговорыКонтрагентов.Наименование КАК Наименование,
+	СправочникДоговорыКонтрагентов.ВалютаВзаиморасчетов КАК ВалютаВзаиморасчетов,
+	СправочникДоговорыКонтрагентов.Организация КАК Организация,
+	СправочникДоговорыКонтрагентов.ВидДоговора КАК ВидДоговора,
+	СправочникДоговорыКонтрагентов.ВидОснования КАК ВидОснования,
+	СправочникДоговорыКонтрагентов.Проект КАК Проект,
+	СправочникДоговорыКонтрагентов.Предопределенный КАК Предопределенный
+ИЗ
+	Справочник.ДоговорыКонтрагентов КАК СправочникДоговорыКонтрагентов
+ГДЕ
+	СправочникДоговорыКонтрагентов.ВидОснования <> &П
+	И (СправочникДоговорыКонтрагентов.Код ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ СправочникДоговорыКонтрагентов.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ СправочникДоговорыКонтрагентов.Владелец.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ СправочникДоговорыКонтрагентов.ВалютаВзаиморасчетов.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ СправочникДоговорыКонтрагентов.ВидДоговора В (&П3)
+			ИЛИ СправочникДоговорыКонтрагентов.ВидОснования.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ СправочникДоговорыКонтрагентов.Организация.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/"
+			ИЛИ СправочникДоговорыКонтрагентов.Проект.Наименование ПОДОБНО &П2 СПЕЦСИМВОЛ "/")
+			И (СправочникДоговорыКонтрагентов.Код ПОДОБНО &П4 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Наименование ПОДОБНО &П4 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Владелец.Наименование ПОДОБНО &П4 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.ВалютаВзаиморасчетов.Наименование ПОДОБНО &П4 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.ВидДоговора В (&П5)
+				ИЛИ СправочникДоговорыКонтрагентов.ВидОснования.Наименование ПОДОБНО &П4 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Организация.Наименование ПОДОБНО &П4 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Проект.Наименование ПОДОБНО &П4 СПЕЦСИМВОЛ "/")
+			И (СправочникДоговорыКонтрагентов.Код ПОДОБНО &П6 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Наименование ПОДОБНО &П6 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Владелец.Наименование ПОДОБНО &П6 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.ВалютаВзаиморасчетов.Наименование ПОДОБНО &П6 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.ВидДоговора В (&П7)
+				ИЛИ СправочникДоговорыКонтрагентов.ВидОснования.Наименование ПОДОБНО &П6 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Организация.Наименование ПОДОБНО &П6 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Проект.Наименование ПОДОБНО &П6 СПЕЦСИМВОЛ "/")
+			И (СправочникДоговорыКонтрагентов.Код ПОДОБНО &П8 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Наименование ПОДОБНО &П8 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Владелец.Наименование ПОДОБНО &П8 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.ВалютаВзаиморасчетов.Наименование ПОДОБНО &П8 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.ВидДоговора В (&П9)
+				ИЛИ СправочникДоговорыКонтрагентов.ВидОснования.Наименование ПОДОБНО &П8 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Организация.Наименование ПОДОБНО &П8 СПЕЦСИМВОЛ "/"
+				ИЛИ СправочникДоговорыКонтрагентов.Проект.Наименование ПОДОБНО &П8 СПЕЦСИМВОЛ "/")
+
+УПОРЯДОЧИТЬ ПО
+	Наименование,
+	Ссылка'
+22:34.986057-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,Exception=dc31263e-ecbf-41bd-9b3a-7b55897d5fd6,Descr='src\rserver\src\serverjobexecutor.cpp(1024):
+dc31263e-ecbf-41bd-9b3a-7b55897d5fd6: Соединение с сервером баз данных разорвано администратором
+Microsoft SQL Server Native Client 11.0: Cannot continue the execution because the session is in the kill state.
+HRESULT=80004005, SQLSrvr: SQLSTATE=HY000, state=1, Severity=15, native=596, line=0
+'
+22:35.002005-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ccacb60f-0636-4ab2-8832-b132bccc4ba5, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+22:35.002007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ccacb60f-0636-4ab2-8832-b132bccc4ba5, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+22:35.127006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ccacb60f-0636-4ab2-8832-b132bccc4ba5, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+22:35.127007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ccacb60f-0636-4ab2-8832-b132bccc4ba5, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+22:35.127009-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ccacb60f-0636-4ab2-8832-b132bccc4ba5, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+22:35.127011-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=ccacb60f-0636-4ab2-8832-b132bccc4ba5, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+22:35.330000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=5248,t:clientID=2376,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9698,SessionID=11600,Usr=WK1_Жангожин_Ильяс_Салимжанович,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=ccacb60f-0636-4ab2-8832-b132bccc4ba5, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+24:37.410000-0,EXCP,0,process=rphost,OSThread=4828,ClientID=2377,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54634 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:37.410001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:37.707000-0,EXCP,0,process=rphost,OSThread=4668,ClientID=2379,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54691 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:37.707001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:42.957000-0,EXCP,0,process=rphost,OSThread=888,ClientID=2380,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54713 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:42.957001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:43.129000-0,EXCP,0,process=rphost,OSThread=9820,ClientID=2382,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54732 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:43.129001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:46.207000-0,EXCP,0,process=rphost,OSThread=9360,ClientID=2383,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54754 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:46.207001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:46.441000-0,EXCP,0,process=rphost,OSThread=9360,ClientID=2384,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54773 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:46.441001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+24:48.035000-0,EXCP,0,process=rphost,OSThread=8036,ClientID=2385,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54795 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+24:48.035001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+27:20.085000-0,EXCP,0,process=rphost,OSThread=4828,ClientID=2387,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51312 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+27:20.085001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+31:16.699007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6748,t:clientID=1288,t:applicationName=1CV8C,t:computerName=DC3RDSH05,t:connectID=2826,SessionID=3437,Usr=Совцова Балжан Есимовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) CCO00000825 от 21.04.2020 12:28:42"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеИсходящее.Форма.ФормаДокумента
+31:16.762000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6748,t:clientID=1288,t:applicationName=1CV8C,t:computerName=DC3RDSH05,t:connectID=2826,SessionID=3437,Usr=Совцова Балжан Есимовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Платежное поручение (исходящее) CCO00000825 от 21.04.2020 12:28:42"!'
+33:03.282001-0,EXCP,0,process=rphost,OSThread=6976,ClientID=2389,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51324 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+33:03.282002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:43.642001-0,EXCP,0,process=rphost,OSThread=888,ClientID=2391,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51362 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:43.642002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:43.642005-0,EXCP,0,process=rphost,OSThread=9820,ClientID=2392,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51379 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:43.642006-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:44.298000-0,EXCP,0,process=rphost,OSThread=9104,ClientID=2386,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54811 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:44.298001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+34:44.314008-0,EXCP,0,process=rphost,OSThread=7808,ClientID=2394,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54855 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+34:44.314009-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+37:54.734001-0,EXCP,0,process=rphost,OSThread=9360,ClientID=1325,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.203:58508 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+37:54.734002-0,EXCP,0,process=rphost,OSThread=7348,ClientID=1329,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.203:58527 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+37:54.734003-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+37:54.734004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+38:19.999003-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=3380,t:clientID=2396,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=5cc22540-5fc7-4003-bdb8-25091679c5fc,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9868,Administrator=Unknown,Result=Success
+38:20.296001-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2401,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9868,SessionID=11785,Usr=Керимкулов Толеген Амангельдиевич,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=846ae19c-8a85-4a9f-ba26-1e3d124b8121, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+38:20.296003-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2401,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9868,SessionID=11785,Usr=Керимкулов Толеген Амангельдиевич,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=846ae19c-8a85-4a9f-ba26-1e3d124b8121, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+38:20.499000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2401,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9868,SessionID=11785,Usr=Керимкулов Толеген Амангельдиевич,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=846ae19c-8a85-4a9f-ba26-1e3d124b8121, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+38:20.499001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2401,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9868,SessionID=11785,Usr=Керимкулов Толеген Амангельдиевич,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=846ae19c-8a85-4a9f-ba26-1e3d124b8121, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+38:20.499003-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2401,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9868,SessionID=11785,Usr=Керимкулов Толеген Амангельдиевич,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=846ae19c-8a85-4a9f-ba26-1e3d124b8121, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+38:20.499005-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2401,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9868,SessionID=11785,Usr=Керимкулов Толеген Амангельдиевич,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=846ae19c-8a85-4a9f-ba26-1e3d124b8121, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+38:20.577006-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6924,t:clientID=2401,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9868,SessionID=11785,Usr=Керимкулов Толеген Амангельдиевич,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=846ae19c-8a85-4a9f-ba26-1e3d124b8121, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+39:25.751000-0,EXCP,0,process=rphost,OSThread=888,ClientID=217,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.46:52543 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+39:25.751001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+39:25.751002-0,EXCP,0,process=rphost,OSThread=9820,ClientID=221,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.46:52548 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+39:25.751004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+39:59.570019-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6868,t:clientID=1288,t:applicationName=1CV8C,t:computerName=DC3RDSH05,t:connectID=2826,SessionID=3437,Usr=Совцова Балжан Есимовна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Ошибка при выполнении обработчика - ''ОбработкаПроведения''
+8d366056-4d5a-4d88-a207-0ae535b7d28e: {ОбщийМодуль.BI_ОбщийМодульСервер.Модуль(1968)}: Ошибка при вызове метода контекста (Записать)
+f08d92f8-9eb2-4e19-9dd9-977d907cec2d
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось записать: "Журнал проводок (бухгалтерский учет)"!',Context=Форма.Записать : Документ.ПлатежноеПоручениеВходящее.Форма.ФормаДокумента
+39:59.632000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=6868,t:clientID=1288,t:applicationName=1CV8C,t:computerName=DC3RDSH05,t:connectID=2826,SessionID=3437,Usr=Совцова Балжан Есимовна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
+580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
+Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
+afd2b550-0d52-4e03-b448-15ed68d87ac5
+0d2200af-1696-4395-91e5-2872675e6d3d: Ошибка при выполнении обработчика - ''ОбработкаПроведения''
+8d366056-4d5a-4d88-a207-0ae535b7d28e: {ОбщийМодуль.BI_ОбщийМодульСервер.Модуль(1968)}: Ошибка при вызове метода контекста (Записать)
+f08d92f8-9eb2-4e19-9dd9-977d907cec2d
+0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось записать: "Журнал проводок (бухгалтерский учет)"!'
+44:18.574017-0,EXCP,0,process=rphost,OSThread=7348,ClientID=2395,Exception=NetDataExchangeException,Descr='server_addr=(2)10.225.32.15:54870 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:18.574018-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:19.809001-0,EXCP,0,process=rphost,OSThread=9360,ClientID=2393,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51394 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:19.809002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:36.496000-0,EXCP,0,process=rphost,OSThread=7372,ClientID=2425,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51423 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:36.496001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:36.746000-0,EXCP,0,process=rphost,OSThread=4668,ClientID=2426,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51439 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:36.746001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:39.840001-0,EXCP,0,process=rphost,OSThread=4668,ClientID=2427,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51458 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:39.840002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:40.168000-0,EXCP,0,process=rphost,OSThread=7372,ClientID=2428,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51475 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:40.168001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:43.199000-0,EXCP,0,process=rphost,OSThread=7808,ClientID=2429,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51494 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:43.199001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:43.465000-0,EXCP,0,process=rphost,OSThread=7372,ClientID=2432,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51510 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:43.481000-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:50.091000-0,EXCP,0,process=rphost,OSThread=9820,ClientID=2433,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51529 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:50.091001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:50.341000-0,EXCP,0,process=rphost,OSThread=9360,ClientID=2434,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51554 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:50.341001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:53.482000-0,EXCP,0,process=rphost,OSThread=7808,ClientID=2435,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51573 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:53.482001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:53.747000-0,EXCP,0,process=rphost,OSThread=8036,ClientID=2436,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51589 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:53.747001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:59.591000-0,EXCP,0,process=rphost,OSThread=7808,ClientID=2437,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51608 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:59.591001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+44:59.857000-0,EXCP,0,process=rphost,OSThread=7372,ClientID=2441,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51625 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+44:59.857001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+50:57.031048-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=3380,t:clientID=2396,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=a4bb965c-689b-451d-a89d-b914cfd16274,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=9968,Administrator=Unknown,Result=Success
+51:01.218075-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2465,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9968,SessionID=11888,Usr=Кулгалиева Динара Багиткалиевна,Exception=95c658d1-d3d5-4ea9-8a81-1bf820fea4a8,Descr='src\rscalls\src\remotecalllistenerimpl.cpp(3793):
+95c658d1-d3d5-4ea9-8a81-1bf820fea4a8: Сеанс работы завершен администратором.',Context='
+ОбщийМодуль.ДлительныеОперации.Модуль : 652 : ВыполнитьПроцедуру(ВсеПараметры.ИмяПроцедуры, ВсеПараметры.ПараметрыПроцедуры);
+	ОбщийМодуль.ДлительныеОперации.Модуль : 661 : ОбщегоНазначения.ВыполнитьМетодКонфигурации(ИмяПроцедуры, ПараметрыПроцедуры);
+		ОбщийМодуль.ОбщегоНазначения.Модуль : 4795 : Выполнить ИмяМетода + "(" + ПараметрыСтрока + ")";
+			 : 1 : БухгалтерскиеОтчетыВызовСервера.СформироватьОтчет(Параметры[0],Параметры[1])
+				ОбщийМодуль.БухгалтерскиеОтчетыВызовСервера.Модуль : 787 : ПроцессорВывода.Вывести(ПроцессорКомпоновки, Истина);'
+51:01.234025-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2465,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9968,SessionID=11888,Usr=Кулгалиева Динара Багиткалиевна,Exception=95c658d1-d3d5-4ea9-8a81-1bf820fea4a8,Descr='src\rserver\src\serverjobexecutor.cpp(1024):
+95c658d1-d3d5-4ea9-8a81-1bf820fea4a8: Сеанс работы завершен администратором.'
+51:01.265078-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2465,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9968,SessionID=11888,Usr=Кулгалиева Динара Багиткалиевна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1ee66cac-6d77-4946-a7cc-bf841801f0bb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+51:01.265080-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2465,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9968,SessionID=11888,Usr=Кулгалиева Динара Багиткалиевна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1ee66cac-6d77-4946-a7cc-bf841801f0bb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+51:01.468000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2465,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9968,SessionID=11888,Usr=Кулгалиева Динара Багиткалиевна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1ee66cac-6d77-4946-a7cc-bf841801f0bb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+51:01.468001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2465,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9968,SessionID=11888,Usr=Кулгалиева Динара Багиткалиевна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1ee66cac-6d77-4946-a7cc-bf841801f0bb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+51:01.468037-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2465,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9968,SessionID=11888,Usr=Кулгалиева Динара Багиткалиевна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1ee66cac-6d77-4946-a7cc-bf841801f0bb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+51:01.468039-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2465,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9968,SessionID=11888,Usr=Кулгалиева Динара Багиткалиевна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=1ee66cac-6d77-4946-a7cc-bf841801f0bb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+51:01.671001-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=9932,t:clientID=2465,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=9968,SessionID=11888,Usr=Кулгалиева Динара Багиткалиевна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=1ee66cac-6d77-4946-a7cc-bf841801f0bb, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+53:59.382001-0,EXCP,0,process=rphost,OSThread=6976,ClientID=2442,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51645 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+53:59.382002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+53:59.632000-0,EXCP,0,process=rphost,OSThread=7372,ClientID=2470,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51689 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+53:59.632001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:31.273000-0,EXCP,0,process=rphost,OSThread=7808,ClientID=2471,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51712 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:31.273001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:31.460000-0,EXCP,0,process=rphost,OSThread=7808,ClientID=2474,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51732 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:31.460001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:38.179000-0,EXCP,0,process=rphost,OSThread=7348,ClientID=2475,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51755 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:38.179001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+54:38.179020-0,EXCP,0,process=rphost,OSThread=7348,ClientID=2476,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.15:51772 descr=2(0x00000002): Не удается найти указанный файл.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+54:38.179022-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+59:04.030000-0,EXCP,0,process=rphost,OSThread=6748,ClientID=1773,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.232:62936 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=2273 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+59:04.030001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+59:04.030004-0,EXCP,0,process=rphost,OSThread=7172,ClientID=1774,Exception=NetDataExchangeException,Descr='server_addr=(2)10.224.32.232:62941 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1149 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangeserverimpl.cpp'
+59:04.030005-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+59:58.688007-0,ADMIN,2,process=rphost,p:processName=ServerJobExecutorContext,OSThread=3380,t:clientID=2477,t:applicationName=JobScheduler,t:computerName=DC2BUHAPP11,Func=killClient,ClusterID=8aa94e2b-5d54-4b86-800b-79353ce39638,ConnectionID=4d00f6e9-fa95-40ec-9a7f-07eb67ab5bd0,Mode=0,Ref=bi_bk3wk1_prod_01(bi_bk3wk1_prod_01),Host=DC2BUHAPP11,Connection=10070,Administrator=Unknown,Result=Success
+59:58.719005-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4932,t:clientID=2481,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10070,SessionID=11994,Usr=Камлиева Райгуль Мирамовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=263e953a-5f7e-423a-8027-65328e84daae, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+59:58.719007-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4932,t:clientID=2481,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10070,SessionID=11994,Usr=Камлиева Райгуль Мирамовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=263e953a-5f7e-423a-8027-65328e84daae, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+59:58.922000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4932,t:clientID=2481,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10070,SessionID=11994,Usr=Камлиева Райгуль Мирамовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=263e953a-5f7e-423a-8027-65328e84daae, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+59:58.922002-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4932,t:clientID=2481,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10070,SessionID=11994,Usr=Камлиева Райгуль Мирамовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\serverjobexecutor.cpp(1095):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=263e953a-5f7e-423a-8027-65328e84daae, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'
+59:58.922005-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4932,t:clientID=2481,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10070,SessionID=11994,Usr=Камлиева Райгуль Мирамовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=263e953a-5f7e-423a-8027-65328e84daae, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+59:58.922007-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4932,t:clientID=2481,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10070,SessionID=11994,Usr=Камлиева Райгуль Мирамовна,Exception=60c686dc-798f-4d17-aadb-a90156a16eb8,Descr='src\rserver\src\rmngrcalls.cpp(476):
+60c686dc-798f-4d17-aadb-a90156a16eb8: Сеанс отсутствует или удален
+ID=263e953a-5f7e-423a-8027-65328e84daae, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\clusterdistribimpl.cpp(1439)'
+59:59.126000-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4932,t:clientID=2481,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=10070,SessionID=11994,Usr=Камлиева Райгуль Мирамовна,Exception=SeanceContextException,Descr='Сеанс отсутствует или удален
+ID=263e953a-5f7e-423a-8027-65328e84daae, File=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rserver\src\rmngrcalls.cpp(364)'

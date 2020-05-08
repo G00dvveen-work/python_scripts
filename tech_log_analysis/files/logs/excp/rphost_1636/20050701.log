@@ -1,0 +1,121 @@
+﻿00:08.707000-0,PROC,0,process=rphost,OSThread=8208,Txt='Process terminated.
+Stop signal received (ragent)'
+00:09.410000-0,PROC,0,process=rphost,OSThread=7284,Txt='Process terminated.
+Stop signal received (ragent)'
+00:10.223000-0,EXCP,1,process=rphost,OSThread=9156,ClientID=5517,Exception=NetDataExchangeException,Descr=' server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:10.223001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:10.223002-172000,EXCPCNTX,0,SrcName=SCALL,process=rphost,OSThread=9156,ClientID=5517,Interface=0459eaa0-589f-4a6d-9eed-c1a7461c8e3f,IName=IClusterRegistry,Method=27,CallID=3162061,MName=getRegistryVersion
+00:10.223004-0,EXCP,0,process=rphost,OSThread=9156,ClientID=5517,Exception=NetDataExchangeException,Descr=' server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:10.223005-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:10.223006-0,EXCP,0,process=rphost,OSThread=9156,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(825):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:10.223009-0,EXCP,0,process=rphost,OSThread=9156,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(543):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=recv returns zero, disconnected line=1587 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:10.426001-0,EXCP,1,process=rphost,OSThread=9156,ClientID=5513,Exception=NetDataExchangeException,Descr=' server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1452 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp
+server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1982 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:10.426002-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:10.426003-3,EXCPCNTX,0,SrcName=SCALL,process=rphost,OSThread=9156,ClientID=5513,Interface=0459eaa0-589f-4a6d-9eed-c1a7461c8e3f,IName=IClusterRegistry,Method=27,CallID=3162062,MName=getRegistryVersion
+00:10.426005-0,EXCP,0,process=rphost,OSThread=9156,ClientID=5513,Exception=NetDataExchangeException,Descr=' server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1452 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:10.426006-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:10.426007-0,EXCP,0,process=rphost,OSThread=9156,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(825):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1452 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp
+server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1982 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:10.426012-0,EXCP,0,process=rphost,OSThread=9156,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(543):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1452 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp
+server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1982 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:10.426014-0,EXCP,0,process=rphost,OSThread=9156,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1452 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp
+server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1982 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:10.426015-0,EXCP,0,process=rphost,OSThread=9156,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\clusterdistribimpl.cpp(2624):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1452 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp
+server_addr=tcp://DC2BUHAPP11:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1982 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:12.473000-0,EXCP,1,process=rphost,OSThread=9156,ClientID=5521,Exception=NetDataExchangeException,Descr='server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:12.473001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:12.473002-2046984,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=9156,ClientID=5521,Txt=Outgoing connection closed
+00:12.473004-0,EXCP,0,process=rphost,OSThread=9156,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:12.769000-0,EXCP,1,process=rphost,OSThread=1060,ClientID=5522,Exception=NetDataExchangeException,Descr='server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:12.769001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:12.769002-2031002,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=1060,ClientID=5522,Txt=Outgoing connection closed
+00:12.769004-0,EXCP,0,process=rphost,OSThread=1060,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:13.676001-0,EXCP,4,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4408,t:clientID=5519,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=11100,SessionID=13558,Usr=DefUser,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,ClientID=5523,Exception=NetDataExchangeException,Descr='server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 161 : СлияниеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 13 : ОбновитьИндекс(НСтр("ru = ''Слияние индекса ППД''"), Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:13.676002-0,EXCPCNTX,0,ClientComputerName=DC2BUHAPP11,ServerComputerName=DC2BUHAPP11,UserName=DefUser,ConnectString='Srvr="DC2BUHAPP11:2541";Ref="bi_bk3wk1_prod_01";',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 161 : СлияниеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 13 : ОбновитьИндекс(НСтр("ru = ''Слияние индекса ППД''"), Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:13.676003-2032001,EXCPCNTX,3,SrcName=CONN,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4408,t:clientID=5519,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=11100,SessionID=13558,Usr=DefUser,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,ClientID=5523,Txt=Outgoing connection closed,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 161 : СлияниеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 13 : ОбновитьИндекс(НСтр("ru = ''Слияние индекса ППД''"), Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:13.676004-2032003,EXCPCNTX,2,SrcName=SDBL,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4408,t:clientID=5519,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=11100,SessionID=13558,Usr=DefUser,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,Trans=0,Sdbl='SELECT ALLOWED
+ID, Description
+FROM Reference191
+WHERE ID IN(191:917650505450303011df08f28e6b4314, 191:ba22e09467805b6911e951374aaeac2e, 191:ba22e09467805b6911e951374aaeac37, 191:ba22e09467805b6911e951374aaeac38)
+ORDER BY ID',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 161 : СлияниеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 13 : ОбновитьИндекс(НСтр("ru = ''Слияние индекса ППД''"), Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:13.676005-12674002,EXCPCNTX,1,SrcName=CALL,process=rphost,OSThread=4408,t:clientID=5519,Usr=DefUser,SessionID=13558,p:processName=bi_bk3wk1_prod_01,Func=Background job,Module=ПолнотекстовыйПоискСервер,Method=СлияниеИндексаППДПоРасписанию,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 161 : СлияниеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 13 : ОбновитьИндекс(НСтр("ru = ''Слияние индекса ППД''"), Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:13.676006-12674004,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=4408,t:clientID=5519,Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 161 : СлияниеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 13 : ОбновитьИндекс(НСтр("ru = ''Слияние индекса ППД''"), Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:13.676008-0,EXCP,3,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=4408,t:clientID=5519,t:applicationName=BackgroundJob,t:computerName=DC2BUHAPP11,t:connectID=11100,SessionID=13558,Usr=DefUser,DBMS=DBMSSQL,DataBase=CLSBUHDB01\bi_bk3wk1_prod_01,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp',Context='
+ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 161 : СлияниеИндексаППД();
+	ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 13 : ОбновитьИндекс(НСтр("ru = ''Слияние индекса ППД''"), Истина);
+		ОбщийМодуль.ПолнотекстовыйПоискСервер.Модуль : 461 : ПолнотекстовыйПоиск.ОбновитьИндекс(РазрешитьСлияние, Порциями);'
+00:13.785003-0,EXCP,1,process=rphost,OSThread=4296,ClientID=364,Exception=NetDataExchangeException,Descr=' server_addr=tcp://10.224.32.194:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1452 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp
+server_addr=tcp://10.224.32.194:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1982 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:13.785004-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:13.785005-3,EXCPCNTX,0,SrcName=SCALL,process=rphost,OSThread=4296,ClientID=364,CallID=3162063,MName=Release
+00:13.785007-0,EXCP,0,process=rphost,OSThread=4296,ClientID=364,Exception=NetDataExchangeException,Descr=' server_addr=tcp://10.224.32.194:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1452 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:13.785008-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:13.785009-0,EXCP,0,process=rphost,OSThread=4296,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rtrsrvc\src\remoteinterfaceimpl.cpp(1232):
+81029657-3fe6-4cd6-80c0-36de78fe6657:  server_addr=tcp://10.224.32.194:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1452 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp
+server_addr=tcp://10.224.32.194:2541 descr=10054(0x00002746): Удаленный хост принудительно разорвал существующее подключение.  line=1982 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:14.738000-0,EXCP,1,process=rphost,OSThread=9156,ClientID=5524,Exception=NetDataExchangeException,Descr='server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:14.738001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:14.738002-2062002,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=9156,ClientID=5524,Txt=Outgoing connection closed
+00:14.738004-0,EXCP,0,process=rphost,OSThread=9156,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:14.738005-0,EXCP,0,process=rphost,OSThread=9156,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\clusterdistribimpl.cpp(2624):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:15.035000-0,EXCP,1,process=rphost,OSThread=1060,ClientID=5525,Exception=NetDataExchangeException,Descr='server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:15.035001-0,EXCPCNTX,0,ClientComputerName=,ServerComputerName=,UserName=,ConnectString=
+00:15.035002-2062002,EXCPCNTX,0,SrcName=CONN,process=rphost,OSThread=1060,ClientID=5525,Txt=Outgoing connection closed
+00:15.035004-0,EXCP,0,process=rphost,OSThread=1060,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rmngrcalls.cpp(616):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
+00:15.035005-0,EXCP,0,process=rphost,OSThread=1060,Exception=81029657-3fe6-4cd6-80c0-36de78fe6657,Descr='src\rserver\src\rhostimpl.cpp(5770):
+81029657-3fe6-4cd6-80c0-36de78fe6657: server_addr=tcp://DC2BUHAPP11:2541 descr=10.224.32.194:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+[fe80::58e3:cae6:d402:555c%4]:2541:10061(0x0000274D): Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение. ;
+ line=1056 file=d:\jenkins\ci_builder2\windowsbuild2\platform\src\rtrsrvc\src\dataexchangetcpclientimpl.cpp'
