@@ -48,13 +48,13 @@ def parse_call(log_dir, output_dir):
 
 def parse_excp(log_dir, output_dir):
     new_line_regex = re.compile(r'^(\d\d:\d\d.\d+).*')
-    excp_regex = re.compile(r'EXCP,.+Context=(.*?),.*')
+    excp_regex = re.compile(r'EXCP,.+escr=\'?(\w+.*?)\'?,.*Context=\'?(.*?)\'?$')
     if os.path.exists(log_dir) & os.path.exists(output_dir):
         output_file = os.path.join(output_dir, 'excp.csv')
         if os.path.exists(output_file):
             os.remove(output_file)
         output = open(output_file, 'a+', encoding='utf8')
-        output.write('context\n')
+        output.write('description,context\n')
         for root, dirs, files in os.walk(log_dir):
             dirs[:] = [d for d in dirs if d.startswith('rphost_')]
             for file in files:
@@ -67,8 +67,8 @@ def parse_excp(log_dir, output_dir):
                     #print(line)
                     data_string = excp_regex.search(line)
                     if data_string:
-                        output.write(data_string.group(1) + "\n")
-                        #print(data_string.groups())
+                        output.write(data_string.group(1).replace(',', '_') + "," + data_string.group(2).replace(',', '_') + "\n")
+                        #print(data_string.group(1))
                     previous_line = line.rstrip()
                 current_file.close()
         output.close()
