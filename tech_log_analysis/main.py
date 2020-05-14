@@ -35,6 +35,7 @@ connect()
 
 #exceptions = pd.read_csv(ep.parse_excp(excp_log_dir, output_dir))
 
+#ep.parse_excp(excp_log_dir, output_dir)
 
 #print(calls.head())
-#print(exceptions['context'].value_counts())
+print(exceptions['context'].value_counts())

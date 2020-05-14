@@ -1,8 +1,0 @@
-﻿48:04.118007-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=1128,t:clientID=567,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=1952,SessionID=2011,Usr=WK1_Закарьянова_Самал_Мухтаровна,AppID=1CV8C,Exception=afd2b550-0d52-4e03-b448-15ed68d87ac5,Descr='src\basic\src\documentlogformobjcontroller.cpp(884):
-afd2b550-0d52-4e03-b448-15ed68d87ac5
-0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002350 от 04.05.2020 13:48:00"!',Context=Форма.Записать : Документ.ЗаявкаНаОплату.Форма.ФормаДокумента
-48:04.134000-0,EXCP,2,process=rphost,p:processName=bi_bk3wk1_prod_01,OSThread=1128,t:clientID=567,t:applicationName=1CV8C,t:computerName=DC2RDSH18,t:connectID=1952,SessionID=2011,Usr=WK1_Закарьянова_Самал_Мухтаровна,AppID=1CV8C,Exception=580392e6-ba49-4280-ac67-fcd6f2180121,Descr='src\vrsbase\src\vresourceinfobaseimpl.cpp(1114):
-580392e6-ba49-4280-ac67-fcd6f2180121: Неспецифицированная ошибка работы с ресурсом
-Ошибка при выполнении запроса POST к ресурсу /e1cib/logForm:
-afd2b550-0d52-4e03-b448-15ed68d87ac5
-0d2200af-1696-4395-91e5-2872675e6d3d: Не удалось провести "Заявка на оплату UC300002350 от 04.05.2020 13:48:00"!'
